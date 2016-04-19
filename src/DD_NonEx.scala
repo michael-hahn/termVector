@@ -50,13 +50,17 @@ class DD_NonEx[T:ClassTag,K:ClassTag] {
       val startTime = System.nanoTime
 
       val sizeRDD = rdd.count
+      logger.log(Level.INFO, "1Runs :" + runTime + "")
+      logger.log(Level.INFO, "1Size : " + sizeRDD)
+
 
       val assertResult = test(rdd.map(x=>x._1), testFunc, lm, fh)
+      runTime = runTime +1
       if (!assertResult) {
         val endTime = System.nanoTime
-        logger.log(Level.INFO, "The #" + runTime + " run is done")
-        logger.log(Level.INFO, "This run takes " + (endTime - startTime) / 1000 + " microseconds")
-        logger.log(Level.INFO, "This data size is " + sizeRDD)
+        logger.log(Level.INFO, "Runs :" + runTime + "")
+        logger.log(Level.INFO, "Time : " + (endTime - startTime) / 1000 + "")
+        logger.log(Level.INFO, "Size : " + sizeRDD)
         return null
       }
 
@@ -68,7 +72,7 @@ class DD_NonEx[T:ClassTag,K:ClassTag] {
         rdd.collect().foreach(s=> {
           logger.log(Level.WARNING, s.toString + "\n")
         })
-        logger.log(Level.INFO, "This run takes " + (endTime - startTime)/1000 + " microseconds")
+        logger.log(Level.INFO, "Time : " + (endTime - startTime)/1000 + "")
         return rdd
       }
 
@@ -81,7 +85,9 @@ class DD_NonEx[T:ClassTag,K:ClassTag] {
 
       breakable {
         for (i <- 0 until partitions) {
+
           val result = test(rddList(i).map(x => x._1), testFunc, lm, fh)
+          runTime = runTime +1
           if (result) {
             rdd_failed = true
             next_rdd = rddList(i)
@@ -98,6 +104,7 @@ class DD_NonEx[T:ClassTag,K:ClassTag] {
             val i = (j + bar_offset) % partitions
             val rddBar = rdd.subtract(rddList(i))
             val result = test(rddBar.map(x=>x._1), testFunc, lm, fh)
+            runTime = runTime +1
             if (result){
               rddBar_failed = true
               //next_rdd = next_rdd.intersection(rddBar)
@@ -115,26 +122,26 @@ class DD_NonEx[T:ClassTag,K:ClassTag] {
         val rddSiz = rdd.count()
         if (rddSiz <= 2) {
           val endTime = System.nanoTime()
-          logger.log(Level.INFO, "The #" + runTime + " run is done")
+          logger.log(Level.INFO, "Run :" + runTime + " run is done")
           logger.log(Level.INFO, "End of This Branch of Search")
-          logger.log(Level.INFO, "This data size is " + sizeRDD)
+          logger.log(Level.INFO, "Size :" + sizeRDD)
           logger.log(Level.WARNING, "Delta Debugged Error inducing inputs: ")
           rdd.collect().foreach(s=> {
             logger.log(Level.WARNING, s.toString + "\n")
           })
-          logger.log(Level.INFO, "This run takes " + (endTime - startTime)/1000 + " microseconds")
+          logger.log(Level.INFO, "Time : " + (endTime - startTime)/1000 + "")
           return rdd
         }
         next_partitions = Math.min(rddSiz.asInstanceOf[Int], partitions * 2)
       }
       val endTime = System.nanoTime()
-      logger.log(Level.INFO, "Finish the " + runTime + "th run of Non-exhaustive DD, taking " + (endTime - startTime) / 1000 + " microseconds")
-      logger.log(Level.INFO, "This data size is " + sizeRDD)
+     // logger.log(Level.INFO, "Finish the " + runTime + "th run of Non-exhaustive DD, taking " + (endTime - startTime) / 1000 + " microseconds")
+      //logger.log(Level.INFO, "This data size is " + sizeRDD)
 
       rdd = next_rdd
       partitions = next_partitions
-      logger.log(Level.INFO, "The next partition is " + partitions)
-      runTime = runTime + 1
+     // logger.log(Level.INFO, "The next partition is " + partitions)
+   //   runTime = runTime + 1
     }
     null
   }

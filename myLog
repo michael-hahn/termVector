@@ -1,6 +1,6053 @@
-Mar 30, 2016 1:06:59 PM TermVector$ main
-INFO: Record Lineage time starts at 2016-03-30 13:06:59.976
-Mar 30, 2016 1:07:04 PM TermVector$ main
-INFO: Lineage takes 4587418 microseconds
-Mar 30, 2016 1:07:04 PM TermVector$ main
-INFO: Lineage ends at 2016-03-30 13:07:04.564
+Apr 12, 2016 11:41:15 AM TermVectorDD$ main
+INFO: Record Lineage time starts at 2016-04-12 11:41:15.912
+Apr 12, 2016 11:42:06 AM TermVectorDD$ main
+INFO: Lineage takes 50134277 microseconds
+Apr 12, 2016 11:42:06 AM TermVectorDD$ main
+INFO: Lineage ends at 2016-04-12 11:42:06.047
+Apr 12, 2016 11:42:06 AM TermVectorDD$ main
+INFO: Record DeltaDebugging (unadjusted) time starts at 2016-04-12 11:42:06.052
+Apr 12, 2016 11:42:06 AM DD_NonEx dd_helper
+INFO: Running DD_NonEx SCALA
+Apr 12, 2016 11:42:06 AM DD_NonEx dd_helper
+INFO: 1Runs :1
+Apr 12, 2016 11:42:06 AM DD_NonEx dd_helper
+INFO: 1Size : 2504764
+Apr 12, 2016 11:42:46 AM TestDDL usrTest
+INFO: TimeTest : 40370391
+Apr 12, 2016 11:42:46 AM TestDDL usrTest
+INFO: TestRuns :1
+Apr 12, 2016 11:43:03 AM TestDDL usrTest
+INFO: TimeTest : 16404050
+Apr 12, 2016 11:43:03 AM TestDDL usrTest
+INFO: TimeTest : 16404050
+Apr 12, 2016 11:43:03 AM TestDDL usrTest
+INFO: TestRuns :2
+Apr 12, 2016 11:43:03 AM TestDDL usrTest
+INFO: TestRuns :2
+Apr 12, 2016 11:43:04 AM DD_NonEx dd_helper
+INFO: 1Runs :3
+Apr 12, 2016 11:43:04 AM DD_NonEx dd_helper
+INFO: 1Size : 1251979
+Apr 12, 2016 11:43:18 AM TestDDL usrTest
+INFO: TimeTest : 14177987
+Apr 12, 2016 11:43:18 AM TestDDL usrTest
+INFO: TimeTest : 14177987
+Apr 12, 2016 11:43:18 AM TestDDL usrTest
+INFO: TimeTest : 14177987
+Apr 12, 2016 11:43:18 AM TestDDL usrTest
+INFO: TestRuns :3
+Apr 12, 2016 11:43:18 AM TestDDL usrTest
+INFO: TestRuns :3
+Apr 12, 2016 11:43:18 AM TestDDL usrTest
+INFO: TestRuns :3
+Apr 12, 2016 11:43:25 AM TestDDL usrTest
+INFO: TimeTest : 7317777
+Apr 12, 2016 11:43:25 AM TestDDL usrTest
+INFO: TimeTest : 7317777
+Apr 12, 2016 11:43:25 AM TestDDL usrTest
+INFO: TimeTest : 7317777
+Apr 12, 2016 11:43:25 AM TestDDL usrTest
+INFO: TimeTest : 7317777
+Apr 12, 2016 11:43:25 AM TestDDL usrTest
+INFO: TestRuns :4
+Apr 12, 2016 11:43:25 AM TestDDL usrTest
+INFO: TestRuns :4
+Apr 12, 2016 11:43:25 AM TestDDL usrTest
+INFO: TestRuns :4
+Apr 12, 2016 11:43:25 AM TestDDL usrTest
+INFO: TestRuns :4
+Apr 12, 2016 11:43:32 AM TestDDL usrTest
+INFO: TimeTest : 7083706
+Apr 12, 2016 11:43:32 AM TestDDL usrTest
+INFO: TimeTest : 7083706
+Apr 12, 2016 11:43:32 AM TestDDL usrTest
+INFO: TimeTest : 7083706
+Apr 12, 2016 11:43:32 AM TestDDL usrTest
+INFO: TimeTest : 7083706
+Apr 12, 2016 11:43:32 AM TestDDL usrTest
+INFO: TimeTest : 7083706
+Apr 12, 2016 11:43:32 AM TestDDL usrTest
+INFO: TestRuns :5
+Apr 12, 2016 11:43:32 AM TestDDL usrTest
+INFO: TestRuns :5
+Apr 12, 2016 11:43:32 AM TestDDL usrTest
+INFO: TestRuns :5
+Apr 12, 2016 11:43:32 AM TestDDL usrTest
+INFO: TestRuns :5
+Apr 12, 2016 11:43:32 AM TestDDL usrTest
+INFO: TestRuns :5
+Apr 12, 2016 11:43:33 AM DD_NonEx dd_helper
+INFO: 1Runs :6
+Apr 12, 2016 11:43:33 AM DD_NonEx dd_helper
+INFO: 1Size : 625623
+Apr 12, 2016 11:43:40 AM TestDDL usrTest
+INFO: TimeTest : 7227546
+Apr 12, 2016 11:43:40 AM TestDDL usrTest
+INFO: TimeTest : 7227546
+Apr 12, 2016 11:43:40 AM TestDDL usrTest
+INFO: TimeTest : 7227546
+Apr 12, 2016 11:43:40 AM TestDDL usrTest
+INFO: TimeTest : 7227546
+Apr 12, 2016 11:43:40 AM TestDDL usrTest
+INFO: TimeTest : 7227546
+Apr 12, 2016 11:43:40 AM TestDDL usrTest
+INFO: TimeTest : 7227546
+Apr 12, 2016 11:43:40 AM TestDDL usrTest
+INFO: TestRuns :6
+Apr 12, 2016 11:43:40 AM TestDDL usrTest
+INFO: TestRuns :6
+Apr 12, 2016 11:43:40 AM TestDDL usrTest
+INFO: TestRuns :6
+Apr 12, 2016 11:43:40 AM TestDDL usrTest
+INFO: TestRuns :6
+Apr 12, 2016 11:43:40 AM TestDDL usrTest
+INFO: TestRuns :6
+Apr 12, 2016 11:43:40 AM TestDDL usrTest
+INFO: TestRuns :6
+Apr 12, 2016 11:43:43 AM TestDDL usrTest
+INFO: TimeTest : 2969075
+Apr 12, 2016 11:43:43 AM TestDDL usrTest
+INFO: TimeTest : 2969075
+Apr 12, 2016 11:43:43 AM TestDDL usrTest
+INFO: TimeTest : 2969075
+Apr 12, 2016 11:43:43 AM TestDDL usrTest
+INFO: TimeTest : 2969075
+Apr 12, 2016 11:43:43 AM TestDDL usrTest
+INFO: TimeTest : 2969075
+Apr 12, 2016 11:43:43 AM TestDDL usrTest
+INFO: TimeTest : 2969075
+Apr 12, 2016 11:43:43 AM TestDDL usrTest
+INFO: TimeTest : 2969075
+Apr 12, 2016 11:43:43 AM TestDDL usrTest
+INFO: TestRuns :7
+Apr 12, 2016 11:43:43 AM TestDDL usrTest
+INFO: TestRuns :7
+Apr 12, 2016 11:43:43 AM TestDDL usrTest
+INFO: TestRuns :7
+Apr 12, 2016 11:43:43 AM TestDDL usrTest
+INFO: TestRuns :7
+Apr 12, 2016 11:43:43 AM TestDDL usrTest
+INFO: TestRuns :7
+Apr 12, 2016 11:43:43 AM TestDDL usrTest
+INFO: TestRuns :7
+Apr 12, 2016 11:43:43 AM TestDDL usrTest
+INFO: TestRuns :7
+Apr 12, 2016 11:43:47 AM TestDDL usrTest
+INFO: TimeTest : 3734185
+Apr 12, 2016 11:43:47 AM TestDDL usrTest
+INFO: TimeTest : 3734185
+Apr 12, 2016 11:43:47 AM TestDDL usrTest
+INFO: TimeTest : 3734185
+Apr 12, 2016 11:43:47 AM TestDDL usrTest
+INFO: TimeTest : 3734185
+Apr 12, 2016 11:43:47 AM TestDDL usrTest
+INFO: TimeTest : 3734185
+Apr 12, 2016 11:43:47 AM TestDDL usrTest
+INFO: TimeTest : 3734185
+Apr 12, 2016 11:43:47 AM TestDDL usrTest
+INFO: TimeTest : 3734185
+Apr 12, 2016 11:43:47 AM TestDDL usrTest
+INFO: TimeTest : 3734185
+Apr 12, 2016 11:43:47 AM TestDDL usrTest
+INFO: TestRuns :8
+Apr 12, 2016 11:43:47 AM TestDDL usrTest
+INFO: TestRuns :8
+Apr 12, 2016 11:43:47 AM TestDDL usrTest
+INFO: TestRuns :8
+Apr 12, 2016 11:43:47 AM TestDDL usrTest
+INFO: TestRuns :8
+Apr 12, 2016 11:43:47 AM TestDDL usrTest
+INFO: TestRuns :8
+Apr 12, 2016 11:43:47 AM TestDDL usrTest
+INFO: TestRuns :8
+Apr 12, 2016 11:43:47 AM TestDDL usrTest
+INFO: TestRuns :8
+Apr 12, 2016 11:43:47 AM TestDDL usrTest
+INFO: TestRuns :8
+Apr 12, 2016 11:43:47 AM DD_NonEx dd_helper
+INFO: 1Runs :9
+Apr 12, 2016 11:43:47 AM DD_NonEx dd_helper
+INFO: 1Size : 313569
+Apr 12, 2016 11:43:50 AM TestDDL usrTest
+INFO: TimeTest : 3332148
+Apr 12, 2016 11:43:50 AM TestDDL usrTest
+INFO: TimeTest : 3332148
+Apr 12, 2016 11:43:50 AM TestDDL usrTest
+INFO: TimeTest : 3332148
+Apr 12, 2016 11:43:50 AM TestDDL usrTest
+INFO: TimeTest : 3332148
+Apr 12, 2016 11:43:50 AM TestDDL usrTest
+INFO: TimeTest : 3332148
+Apr 12, 2016 11:43:50 AM TestDDL usrTest
+INFO: TimeTest : 3332148
+Apr 12, 2016 11:43:50 AM TestDDL usrTest
+INFO: TimeTest : 3332148
+Apr 12, 2016 11:43:50 AM TestDDL usrTest
+INFO: TimeTest : 3332148
+Apr 12, 2016 11:43:50 AM TestDDL usrTest
+INFO: TimeTest : 3332148
+Apr 12, 2016 11:43:50 AM TestDDL usrTest
+INFO: TestRuns :9
+Apr 12, 2016 11:43:50 AM TestDDL usrTest
+INFO: TestRuns :9
+Apr 12, 2016 11:43:50 AM TestDDL usrTest
+INFO: TestRuns :9
+Apr 12, 2016 11:43:50 AM TestDDL usrTest
+INFO: TestRuns :9
+Apr 12, 2016 11:43:50 AM TestDDL usrTest
+INFO: TestRuns :9
+Apr 12, 2016 11:43:50 AM TestDDL usrTest
+INFO: TestRuns :9
+Apr 12, 2016 11:43:50 AM TestDDL usrTest
+INFO: TestRuns :9
+Apr 12, 2016 11:43:50 AM TestDDL usrTest
+INFO: TestRuns :9
+Apr 12, 2016 11:43:50 AM TestDDL usrTest
+INFO: TestRuns :9
+Apr 12, 2016 11:43:53 AM TestDDL usrTest
+INFO: TimeTest : 2327311
+Apr 12, 2016 11:43:53 AM TestDDL usrTest
+INFO: TimeTest : 2327311
+Apr 12, 2016 11:43:53 AM TestDDL usrTest
+INFO: TimeTest : 2327311
+Apr 12, 2016 11:43:53 AM TestDDL usrTest
+INFO: TimeTest : 2327311
+Apr 12, 2016 11:43:53 AM TestDDL usrTest
+INFO: TimeTest : 2327311
+Apr 12, 2016 11:43:53 AM TestDDL usrTest
+INFO: TimeTest : 2327311
+Apr 12, 2016 11:43:53 AM TestDDL usrTest
+INFO: TimeTest : 2327311
+Apr 12, 2016 11:43:53 AM TestDDL usrTest
+INFO: TimeTest : 2327311
+Apr 12, 2016 11:43:53 AM TestDDL usrTest
+INFO: TimeTest : 2327311
+Apr 12, 2016 11:43:53 AM TestDDL usrTest
+INFO: TimeTest : 2327311
+Apr 12, 2016 11:43:53 AM TestDDL usrTest
+INFO: TestRuns :10
+Apr 12, 2016 11:43:53 AM TestDDL usrTest
+INFO: TestRuns :10
+Apr 12, 2016 11:43:53 AM TestDDL usrTest
+INFO: TestRuns :10
+Apr 12, 2016 11:43:53 AM TestDDL usrTest
+INFO: TestRuns :10
+Apr 12, 2016 11:43:53 AM TestDDL usrTest
+INFO: TestRuns :10
+Apr 12, 2016 11:43:53 AM TestDDL usrTest
+INFO: TestRuns :10
+Apr 12, 2016 11:43:53 AM TestDDL usrTest
+INFO: TestRuns :10
+Apr 12, 2016 11:43:53 AM TestDDL usrTest
+INFO: TestRuns :10
+Apr 12, 2016 11:43:53 AM TestDDL usrTest
+INFO: TestRuns :10
+Apr 12, 2016 11:43:53 AM TestDDL usrTest
+INFO: TestRuns :10
+Apr 12, 2016 11:43:55 AM TestDDL usrTest
+INFO: TimeTest : 2059881
+Apr 12, 2016 11:43:55 AM TestDDL usrTest
+INFO: TimeTest : 2059881
+Apr 12, 2016 11:43:55 AM TestDDL usrTest
+INFO: TimeTest : 2059881
+Apr 12, 2016 11:43:55 AM TestDDL usrTest
+INFO: TimeTest : 2059881
+Apr 12, 2016 11:43:55 AM TestDDL usrTest
+INFO: TimeTest : 2059881
+Apr 12, 2016 11:43:55 AM TestDDL usrTest
+INFO: TimeTest : 2059881
+Apr 12, 2016 11:43:55 AM TestDDL usrTest
+INFO: TimeTest : 2059881
+Apr 12, 2016 11:43:55 AM TestDDL usrTest
+INFO: TimeTest : 2059881
+Apr 12, 2016 11:43:55 AM TestDDL usrTest
+INFO: TimeTest : 2059881
+Apr 12, 2016 11:43:55 AM TestDDL usrTest
+INFO: TimeTest : 2059881
+Apr 12, 2016 11:43:55 AM TestDDL usrTest
+INFO: TimeTest : 2059881
+Apr 12, 2016 11:43:55 AM TestDDL usrTest
+INFO: TestRuns :11
+Apr 12, 2016 11:43:55 AM TestDDL usrTest
+INFO: TestRuns :11
+Apr 12, 2016 11:43:55 AM TestDDL usrTest
+INFO: TestRuns :11
+Apr 12, 2016 11:43:55 AM TestDDL usrTest
+INFO: TestRuns :11
+Apr 12, 2016 11:43:55 AM TestDDL usrTest
+INFO: TestRuns :11
+Apr 12, 2016 11:43:55 AM TestDDL usrTest
+INFO: TestRuns :11
+Apr 12, 2016 11:43:55 AM TestDDL usrTest
+INFO: TestRuns :11
+Apr 12, 2016 11:43:55 AM TestDDL usrTest
+INFO: TestRuns :11
+Apr 12, 2016 11:43:55 AM TestDDL usrTest
+INFO: TestRuns :11
+Apr 12, 2016 11:43:55 AM TestDDL usrTest
+INFO: TestRuns :11
+Apr 12, 2016 11:43:55 AM TestDDL usrTest
+INFO: TestRuns :11
+Apr 12, 2016 11:43:55 AM DD_NonEx dd_helper
+INFO: 1Runs :12
+Apr 12, 2016 11:43:55 AM DD_NonEx dd_helper
+INFO: 1Size : 156752
+Apr 12, 2016 11:43:57 AM TestDDL usrTest
+INFO: TimeTest : 1996132
+Apr 12, 2016 11:43:57 AM TestDDL usrTest
+INFO: TimeTest : 1996132
+Apr 12, 2016 11:43:57 AM TestDDL usrTest
+INFO: TimeTest : 1996132
+Apr 12, 2016 11:43:57 AM TestDDL usrTest
+INFO: TimeTest : 1996132
+Apr 12, 2016 11:43:57 AM TestDDL usrTest
+INFO: TimeTest : 1996132
+Apr 12, 2016 11:43:57 AM TestDDL usrTest
+INFO: TimeTest : 1996132
+Apr 12, 2016 11:43:57 AM TestDDL usrTest
+INFO: TimeTest : 1996132
+Apr 12, 2016 11:43:57 AM TestDDL usrTest
+INFO: TimeTest : 1996132
+Apr 12, 2016 11:43:57 AM TestDDL usrTest
+INFO: TimeTest : 1996132
+Apr 12, 2016 11:43:57 AM TestDDL usrTest
+INFO: TimeTest : 1996132
+Apr 12, 2016 11:43:57 AM TestDDL usrTest
+INFO: TimeTest : 1996132
+Apr 12, 2016 11:43:57 AM TestDDL usrTest
+INFO: TimeTest : 1996132
+Apr 12, 2016 11:43:57 AM TestDDL usrTest
+INFO: TestRuns :12
+Apr 12, 2016 11:43:57 AM TestDDL usrTest
+INFO: TestRuns :12
+Apr 12, 2016 11:43:57 AM TestDDL usrTest
+INFO: TestRuns :12
+Apr 12, 2016 11:43:57 AM TestDDL usrTest
+INFO: TestRuns :12
+Apr 12, 2016 11:43:57 AM TestDDL usrTest
+INFO: TestRuns :12
+Apr 12, 2016 11:43:57 AM TestDDL usrTest
+INFO: TestRuns :12
+Apr 12, 2016 11:43:57 AM TestDDL usrTest
+INFO: TestRuns :12
+Apr 12, 2016 11:43:57 AM TestDDL usrTest
+INFO: TestRuns :12
+Apr 12, 2016 11:43:57 AM TestDDL usrTest
+INFO: TestRuns :12
+Apr 12, 2016 11:43:57 AM TestDDL usrTest
+INFO: TestRuns :12
+Apr 12, 2016 11:43:57 AM TestDDL usrTest
+INFO: TestRuns :12
+Apr 12, 2016 11:43:57 AM TestDDL usrTest
+INFO: TestRuns :12
+Apr 12, 2016 11:43:59 AM TestDDL usrTest
+INFO: TimeTest : 1507846
+Apr 12, 2016 11:43:59 AM TestDDL usrTest
+INFO: TimeTest : 1507846
+Apr 12, 2016 11:43:59 AM TestDDL usrTest
+INFO: TimeTest : 1507846
+Apr 12, 2016 11:43:59 AM TestDDL usrTest
+INFO: TimeTest : 1507846
+Apr 12, 2016 11:43:59 AM TestDDL usrTest
+INFO: TimeTest : 1507846
+Apr 12, 2016 11:43:59 AM TestDDL usrTest
+INFO: TimeTest : 1507846
+Apr 12, 2016 11:43:59 AM TestDDL usrTest
+INFO: TimeTest : 1507846
+Apr 12, 2016 11:43:59 AM TestDDL usrTest
+INFO: TimeTest : 1507846
+Apr 12, 2016 11:43:59 AM TestDDL usrTest
+INFO: TimeTest : 1507846
+Apr 12, 2016 11:43:59 AM TestDDL usrTest
+INFO: TimeTest : 1507846
+Apr 12, 2016 11:43:59 AM TestDDL usrTest
+INFO: TimeTest : 1507846
+Apr 12, 2016 11:43:59 AM TestDDL usrTest
+INFO: TimeTest : 1507846
+Apr 12, 2016 11:43:59 AM TestDDL usrTest
+INFO: TimeTest : 1507846
+Apr 12, 2016 11:43:59 AM TestDDL usrTest
+INFO: TestRuns :13
+Apr 12, 2016 11:43:59 AM TestDDL usrTest
+INFO: TestRuns :13
+Apr 12, 2016 11:43:59 AM TestDDL usrTest
+INFO: TestRuns :13
+Apr 12, 2016 11:43:59 AM TestDDL usrTest
+INFO: TestRuns :13
+Apr 12, 2016 11:43:59 AM TestDDL usrTest
+INFO: TestRuns :13
+Apr 12, 2016 11:43:59 AM TestDDL usrTest
+INFO: TestRuns :13
+Apr 12, 2016 11:43:59 AM TestDDL usrTest
+INFO: TestRuns :13
+Apr 12, 2016 11:43:59 AM TestDDL usrTest
+INFO: TestRuns :13
+Apr 12, 2016 11:43:59 AM TestDDL usrTest
+INFO: TestRuns :13
+Apr 12, 2016 11:43:59 AM TestDDL usrTest
+INFO: TestRuns :13
+Apr 12, 2016 11:43:59 AM TestDDL usrTest
+INFO: TestRuns :13
+Apr 12, 2016 11:43:59 AM TestDDL usrTest
+INFO: TestRuns :13
+Apr 12, 2016 11:43:59 AM TestDDL usrTest
+INFO: TestRuns :13
+Apr 12, 2016 11:44:00 AM TestDDL usrTest
+INFO: TimeTest : 1531411
+Apr 12, 2016 11:44:00 AM TestDDL usrTest
+INFO: TimeTest : 1531411
+Apr 12, 2016 11:44:00 AM TestDDL usrTest
+INFO: TimeTest : 1531411
+Apr 12, 2016 11:44:00 AM TestDDL usrTest
+INFO: TimeTest : 1531411
+Apr 12, 2016 11:44:00 AM TestDDL usrTest
+INFO: TimeTest : 1531411
+Apr 12, 2016 11:44:00 AM TestDDL usrTest
+INFO: TimeTest : 1531411
+Apr 12, 2016 11:44:00 AM TestDDL usrTest
+INFO: TimeTest : 1531411
+Apr 12, 2016 11:44:00 AM TestDDL usrTest
+INFO: TimeTest : 1531411
+Apr 12, 2016 11:44:00 AM TestDDL usrTest
+INFO: TimeTest : 1531411
+Apr 12, 2016 11:44:00 AM TestDDL usrTest
+INFO: TimeTest : 1531411
+Apr 12, 2016 11:44:00 AM TestDDL usrTest
+INFO: TimeTest : 1531411
+Apr 12, 2016 11:44:00 AM TestDDL usrTest
+INFO: TimeTest : 1531411
+Apr 12, 2016 11:44:00 AM TestDDL usrTest
+INFO: TimeTest : 1531411
+Apr 12, 2016 11:44:00 AM TestDDL usrTest
+INFO: TimeTest : 1531411
+Apr 12, 2016 11:44:00 AM TestDDL usrTest
+INFO: TestRuns :14
+Apr 12, 2016 11:44:00 AM TestDDL usrTest
+INFO: TestRuns :14
+Apr 12, 2016 11:44:00 AM TestDDL usrTest
+INFO: TestRuns :14
+Apr 12, 2016 11:44:00 AM TestDDL usrTest
+INFO: TestRuns :14
+Apr 12, 2016 11:44:00 AM TestDDL usrTest
+INFO: TestRuns :14
+Apr 12, 2016 11:44:00 AM TestDDL usrTest
+INFO: TestRuns :14
+Apr 12, 2016 11:44:00 AM TestDDL usrTest
+INFO: TestRuns :14
+Apr 12, 2016 11:44:00 AM TestDDL usrTest
+INFO: TestRuns :14
+Apr 12, 2016 11:44:00 AM TestDDL usrTest
+INFO: TestRuns :14
+Apr 12, 2016 11:44:00 AM TestDDL usrTest
+INFO: TestRuns :14
+Apr 12, 2016 11:44:00 AM TestDDL usrTest
+INFO: TestRuns :14
+Apr 12, 2016 11:44:00 AM TestDDL usrTest
+INFO: TestRuns :14
+Apr 12, 2016 11:44:00 AM TestDDL usrTest
+INFO: TestRuns :14
+Apr 12, 2016 11:44:00 AM TestDDL usrTest
+INFO: TestRuns :14
+Apr 12, 2016 11:44:01 AM DD_NonEx dd_helper
+INFO: 1Runs :15
+Apr 12, 2016 11:44:01 AM DD_NonEx dd_helper
+INFO: 1Size : 78519
+Apr 12, 2016 11:44:02 AM TestDDL usrTest
+INFO: TimeTest : 1387564
+Apr 12, 2016 11:44:02 AM TestDDL usrTest
+INFO: TimeTest : 1387564
+Apr 12, 2016 11:44:02 AM TestDDL usrTest
+INFO: TimeTest : 1387564
+Apr 12, 2016 11:44:02 AM TestDDL usrTest
+INFO: TimeTest : 1387564
+Apr 12, 2016 11:44:02 AM TestDDL usrTest
+INFO: TimeTest : 1387564
+Apr 12, 2016 11:44:02 AM TestDDL usrTest
+INFO: TimeTest : 1387564
+Apr 12, 2016 11:44:02 AM TestDDL usrTest
+INFO: TimeTest : 1387564
+Apr 12, 2016 11:44:02 AM TestDDL usrTest
+INFO: TimeTest : 1387564
+Apr 12, 2016 11:44:02 AM TestDDL usrTest
+INFO: TimeTest : 1387564
+Apr 12, 2016 11:44:02 AM TestDDL usrTest
+INFO: TimeTest : 1387564
+Apr 12, 2016 11:44:02 AM TestDDL usrTest
+INFO: TimeTest : 1387564
+Apr 12, 2016 11:44:02 AM TestDDL usrTest
+INFO: TimeTest : 1387564
+Apr 12, 2016 11:44:02 AM TestDDL usrTest
+INFO: TimeTest : 1387564
+Apr 12, 2016 11:44:02 AM TestDDL usrTest
+INFO: TimeTest : 1387564
+Apr 12, 2016 11:44:02 AM TestDDL usrTest
+INFO: TimeTest : 1387564
+Apr 12, 2016 11:44:02 AM TestDDL usrTest
+INFO: TestRuns :15
+Apr 12, 2016 11:44:02 AM TestDDL usrTest
+INFO: TestRuns :15
+Apr 12, 2016 11:44:02 AM TestDDL usrTest
+INFO: TestRuns :15
+Apr 12, 2016 11:44:02 AM TestDDL usrTest
+INFO: TestRuns :15
+Apr 12, 2016 11:44:02 AM TestDDL usrTest
+INFO: TestRuns :15
+Apr 12, 2016 11:44:02 AM TestDDL usrTest
+INFO: TestRuns :15
+Apr 12, 2016 11:44:02 AM TestDDL usrTest
+INFO: TestRuns :15
+Apr 12, 2016 11:44:02 AM TestDDL usrTest
+INFO: TestRuns :15
+Apr 12, 2016 11:44:02 AM TestDDL usrTest
+INFO: TestRuns :15
+Apr 12, 2016 11:44:02 AM TestDDL usrTest
+INFO: TestRuns :15
+Apr 12, 2016 11:44:02 AM TestDDL usrTest
+INFO: TestRuns :15
+Apr 12, 2016 11:44:02 AM TestDDL usrTest
+INFO: TestRuns :15
+Apr 12, 2016 11:44:02 AM TestDDL usrTest
+INFO: TestRuns :15
+Apr 12, 2016 11:44:02 AM TestDDL usrTest
+INFO: TestRuns :15
+Apr 12, 2016 11:44:02 AM TestDDL usrTest
+INFO: TestRuns :15
+Apr 12, 2016 11:44:03 AM TestDDL usrTest
+INFO: TimeTest : 1120379
+Apr 12, 2016 11:44:03 AM TestDDL usrTest
+INFO: TimeTest : 1120379
+Apr 12, 2016 11:44:03 AM TestDDL usrTest
+INFO: TimeTest : 1120379
+Apr 12, 2016 11:44:03 AM TestDDL usrTest
+INFO: TimeTest : 1120379
+Apr 12, 2016 11:44:03 AM TestDDL usrTest
+INFO: TimeTest : 1120379
+Apr 12, 2016 11:44:03 AM TestDDL usrTest
+INFO: TimeTest : 1120379
+Apr 12, 2016 11:44:03 AM TestDDL usrTest
+INFO: TimeTest : 1120379
+Apr 12, 2016 11:44:03 AM TestDDL usrTest
+INFO: TimeTest : 1120379
+Apr 12, 2016 11:44:03 AM TestDDL usrTest
+INFO: TimeTest : 1120379
+Apr 12, 2016 11:44:03 AM TestDDL usrTest
+INFO: TimeTest : 1120379
+Apr 12, 2016 11:44:03 AM TestDDL usrTest
+INFO: TimeTest : 1120379
+Apr 12, 2016 11:44:03 AM TestDDL usrTest
+INFO: TimeTest : 1120379
+Apr 12, 2016 11:44:03 AM TestDDL usrTest
+INFO: TimeTest : 1120379
+Apr 12, 2016 11:44:03 AM TestDDL usrTest
+INFO: TimeTest : 1120379
+Apr 12, 2016 11:44:03 AM TestDDL usrTest
+INFO: TimeTest : 1120379
+Apr 12, 2016 11:44:03 AM TestDDL usrTest
+INFO: TimeTest : 1120379
+Apr 12, 2016 11:44:03 AM TestDDL usrTest
+INFO: TestRuns :16
+Apr 12, 2016 11:44:03 AM TestDDL usrTest
+INFO: TestRuns :16
+Apr 12, 2016 11:44:03 AM TestDDL usrTest
+INFO: TestRuns :16
+Apr 12, 2016 11:44:03 AM TestDDL usrTest
+INFO: TestRuns :16
+Apr 12, 2016 11:44:03 AM TestDDL usrTest
+INFO: TestRuns :16
+Apr 12, 2016 11:44:03 AM TestDDL usrTest
+INFO: TestRuns :16
+Apr 12, 2016 11:44:03 AM TestDDL usrTest
+INFO: TestRuns :16
+Apr 12, 2016 11:44:03 AM TestDDL usrTest
+INFO: TestRuns :16
+Apr 12, 2016 11:44:03 AM TestDDL usrTest
+INFO: TestRuns :16
+Apr 12, 2016 11:44:03 AM TestDDL usrTest
+INFO: TestRuns :16
+Apr 12, 2016 11:44:03 AM TestDDL usrTest
+INFO: TestRuns :16
+Apr 12, 2016 11:44:03 AM TestDDL usrTest
+INFO: TestRuns :16
+Apr 12, 2016 11:44:03 AM TestDDL usrTest
+INFO: TestRuns :16
+Apr 12, 2016 11:44:03 AM TestDDL usrTest
+INFO: TestRuns :16
+Apr 12, 2016 11:44:03 AM TestDDL usrTest
+INFO: TestRuns :16
+Apr 12, 2016 11:44:03 AM TestDDL usrTest
+INFO: TestRuns :16
+Apr 12, 2016 11:44:04 AM DD_NonEx dd_helper
+INFO: 1Runs :17
+Apr 12, 2016 11:44:04 AM DD_NonEx dd_helper
+INFO: 1Size : 39134
+Apr 12, 2016 11:44:05 AM TestDDL usrTest
+INFO: TimeTest : 1169924
+Apr 12, 2016 11:44:05 AM TestDDL usrTest
+INFO: TimeTest : 1169924
+Apr 12, 2016 11:44:05 AM TestDDL usrTest
+INFO: TimeTest : 1169924
+Apr 12, 2016 11:44:05 AM TestDDL usrTest
+INFO: TimeTest : 1169924
+Apr 12, 2016 11:44:05 AM TestDDL usrTest
+INFO: TimeTest : 1169924
+Apr 12, 2016 11:44:05 AM TestDDL usrTest
+INFO: TimeTest : 1169924
+Apr 12, 2016 11:44:05 AM TestDDL usrTest
+INFO: TimeTest : 1169924
+Apr 12, 2016 11:44:05 AM TestDDL usrTest
+INFO: TimeTest : 1169924
+Apr 12, 2016 11:44:05 AM TestDDL usrTest
+INFO: TimeTest : 1169924
+Apr 12, 2016 11:44:05 AM TestDDL usrTest
+INFO: TimeTest : 1169924
+Apr 12, 2016 11:44:05 AM TestDDL usrTest
+INFO: TimeTest : 1169924
+Apr 12, 2016 11:44:05 AM TestDDL usrTest
+INFO: TimeTest : 1169924
+Apr 12, 2016 11:44:05 AM TestDDL usrTest
+INFO: TimeTest : 1169924
+Apr 12, 2016 11:44:05 AM TestDDL usrTest
+INFO: TimeTest : 1169924
+Apr 12, 2016 11:44:05 AM TestDDL usrTest
+INFO: TimeTest : 1169924
+Apr 12, 2016 11:44:05 AM TestDDL usrTest
+INFO: TimeTest : 1169924
+Apr 12, 2016 11:44:05 AM TestDDL usrTest
+INFO: TimeTest : 1169924
+Apr 12, 2016 11:44:05 AM TestDDL usrTest
+INFO: TestRuns :17
+Apr 12, 2016 11:44:05 AM TestDDL usrTest
+INFO: TestRuns :17
+Apr 12, 2016 11:44:05 AM TestDDL usrTest
+INFO: TestRuns :17
+Apr 12, 2016 11:44:05 AM TestDDL usrTest
+INFO: TestRuns :17
+Apr 12, 2016 11:44:05 AM TestDDL usrTest
+INFO: TestRuns :17
+Apr 12, 2016 11:44:05 AM TestDDL usrTest
+INFO: TestRuns :17
+Apr 12, 2016 11:44:05 AM TestDDL usrTest
+INFO: TestRuns :17
+Apr 12, 2016 11:44:05 AM TestDDL usrTest
+INFO: TestRuns :17
+Apr 12, 2016 11:44:05 AM TestDDL usrTest
+INFO: TestRuns :17
+Apr 12, 2016 11:44:05 AM TestDDL usrTest
+INFO: TestRuns :17
+Apr 12, 2016 11:44:05 AM TestDDL usrTest
+INFO: TestRuns :17
+Apr 12, 2016 11:44:05 AM TestDDL usrTest
+INFO: TestRuns :17
+Apr 12, 2016 11:44:05 AM TestDDL usrTest
+INFO: TestRuns :17
+Apr 12, 2016 11:44:05 AM TestDDL usrTest
+INFO: TestRuns :17
+Apr 12, 2016 11:44:05 AM TestDDL usrTest
+INFO: TestRuns :17
+Apr 12, 2016 11:44:05 AM TestDDL usrTest
+INFO: TestRuns :17
+Apr 12, 2016 11:44:05 AM TestDDL usrTest
+INFO: TestRuns :17
+Apr 12, 2016 11:44:06 AM TestDDL usrTest
+INFO: TimeTest : 934003
+Apr 12, 2016 11:44:06 AM TestDDL usrTest
+INFO: TimeTest : 934003
+Apr 12, 2016 11:44:06 AM TestDDL usrTest
+INFO: TimeTest : 934003
+Apr 12, 2016 11:44:06 AM TestDDL usrTest
+INFO: TimeTest : 934003
+Apr 12, 2016 11:44:06 AM TestDDL usrTest
+INFO: TimeTest : 934003
+Apr 12, 2016 11:44:06 AM TestDDL usrTest
+INFO: TimeTest : 934003
+Apr 12, 2016 11:44:06 AM TestDDL usrTest
+INFO: TimeTest : 934003
+Apr 12, 2016 11:44:06 AM TestDDL usrTest
+INFO: TimeTest : 934003
+Apr 12, 2016 11:44:06 AM TestDDL usrTest
+INFO: TimeTest : 934003
+Apr 12, 2016 11:44:06 AM TestDDL usrTest
+INFO: TimeTest : 934003
+Apr 12, 2016 11:44:06 AM TestDDL usrTest
+INFO: TimeTest : 934003
+Apr 12, 2016 11:44:06 AM TestDDL usrTest
+INFO: TimeTest : 934003
+Apr 12, 2016 11:44:06 AM TestDDL usrTest
+INFO: TimeTest : 934003
+Apr 12, 2016 11:44:06 AM TestDDL usrTest
+INFO: TimeTest : 934003
+Apr 12, 2016 11:44:06 AM TestDDL usrTest
+INFO: TimeTest : 934003
+Apr 12, 2016 11:44:06 AM TestDDL usrTest
+INFO: TimeTest : 934003
+Apr 12, 2016 11:44:06 AM TestDDL usrTest
+INFO: TimeTest : 934003
+Apr 12, 2016 11:44:06 AM TestDDL usrTest
+INFO: TimeTest : 934003
+Apr 12, 2016 11:44:06 AM TestDDL usrTest
+INFO: TestRuns :18
+Apr 12, 2016 11:44:06 AM TestDDL usrTest
+INFO: TestRuns :18
+Apr 12, 2016 11:44:06 AM TestDDL usrTest
+INFO: TestRuns :18
+Apr 12, 2016 11:44:06 AM TestDDL usrTest
+INFO: TestRuns :18
+Apr 12, 2016 11:44:06 AM TestDDL usrTest
+INFO: TestRuns :18
+Apr 12, 2016 11:44:06 AM TestDDL usrTest
+INFO: TestRuns :18
+Apr 12, 2016 11:44:06 AM TestDDL usrTest
+INFO: TestRuns :18
+Apr 12, 2016 11:44:06 AM TestDDL usrTest
+INFO: TestRuns :18
+Apr 12, 2016 11:44:06 AM TestDDL usrTest
+INFO: TestRuns :18
+Apr 12, 2016 11:44:06 AM TestDDL usrTest
+INFO: TestRuns :18
+Apr 12, 2016 11:44:06 AM TestDDL usrTest
+INFO: TestRuns :18
+Apr 12, 2016 11:44:06 AM TestDDL usrTest
+INFO: TestRuns :18
+Apr 12, 2016 11:44:06 AM TestDDL usrTest
+INFO: TestRuns :18
+Apr 12, 2016 11:44:06 AM TestDDL usrTest
+INFO: TestRuns :18
+Apr 12, 2016 11:44:06 AM TestDDL usrTest
+INFO: TestRuns :18
+Apr 12, 2016 11:44:06 AM TestDDL usrTest
+INFO: TestRuns :18
+Apr 12, 2016 11:44:06 AM TestDDL usrTest
+INFO: TestRuns :18
+Apr 12, 2016 11:44:06 AM TestDDL usrTest
+INFO: TestRuns :18
+Apr 12, 2016 11:44:07 AM TestDDL usrTest
+INFO: TimeTest : 755222
+Apr 12, 2016 11:44:07 AM TestDDL usrTest
+INFO: TimeTest : 755222
+Apr 12, 2016 11:44:07 AM TestDDL usrTest
+INFO: TimeTest : 755222
+Apr 12, 2016 11:44:07 AM TestDDL usrTest
+INFO: TimeTest : 755222
+Apr 12, 2016 11:44:07 AM TestDDL usrTest
+INFO: TimeTest : 755222
+Apr 12, 2016 11:44:07 AM TestDDL usrTest
+INFO: TimeTest : 755222
+Apr 12, 2016 11:44:07 AM TestDDL usrTest
+INFO: TimeTest : 755222
+Apr 12, 2016 11:44:07 AM TestDDL usrTest
+INFO: TimeTest : 755222
+Apr 12, 2016 11:44:07 AM TestDDL usrTest
+INFO: TimeTest : 755222
+Apr 12, 2016 11:44:07 AM TestDDL usrTest
+INFO: TimeTest : 755222
+Apr 12, 2016 11:44:07 AM TestDDL usrTest
+INFO: TimeTest : 755222
+Apr 12, 2016 11:44:07 AM TestDDL usrTest
+INFO: TimeTest : 755222
+Apr 12, 2016 11:44:07 AM TestDDL usrTest
+INFO: TimeTest : 755222
+Apr 12, 2016 11:44:07 AM TestDDL usrTest
+INFO: TimeTest : 755222
+Apr 12, 2016 11:44:07 AM TestDDL usrTest
+INFO: TimeTest : 755222
+Apr 12, 2016 11:44:07 AM TestDDL usrTest
+INFO: TimeTest : 755222
+Apr 12, 2016 11:44:07 AM TestDDL usrTest
+INFO: TimeTest : 755222
+Apr 12, 2016 11:44:07 AM TestDDL usrTest
+INFO: TimeTest : 755222
+Apr 12, 2016 11:44:07 AM TestDDL usrTest
+INFO: TimeTest : 755222
+Apr 12, 2016 11:44:07 AM TestDDL usrTest
+INFO: TestRuns :19
+Apr 12, 2016 11:44:07 AM TestDDL usrTest
+INFO: TestRuns :19
+Apr 12, 2016 11:44:07 AM TestDDL usrTest
+INFO: TestRuns :19
+Apr 12, 2016 11:44:07 AM TestDDL usrTest
+INFO: TestRuns :19
+Apr 12, 2016 11:44:07 AM TestDDL usrTest
+INFO: TestRuns :19
+Apr 12, 2016 11:44:07 AM TestDDL usrTest
+INFO: TestRuns :19
+Apr 12, 2016 11:44:07 AM TestDDL usrTest
+INFO: TestRuns :19
+Apr 12, 2016 11:44:07 AM TestDDL usrTest
+INFO: TestRuns :19
+Apr 12, 2016 11:44:07 AM TestDDL usrTest
+INFO: TestRuns :19
+Apr 12, 2016 11:44:07 AM TestDDL usrTest
+INFO: TestRuns :19
+Apr 12, 2016 11:44:07 AM TestDDL usrTest
+INFO: TestRuns :19
+Apr 12, 2016 11:44:07 AM TestDDL usrTest
+INFO: TestRuns :19
+Apr 12, 2016 11:44:07 AM TestDDL usrTest
+INFO: TestRuns :19
+Apr 12, 2016 11:44:07 AM TestDDL usrTest
+INFO: TestRuns :19
+Apr 12, 2016 11:44:07 AM TestDDL usrTest
+INFO: TestRuns :19
+Apr 12, 2016 11:44:07 AM TestDDL usrTest
+INFO: TestRuns :19
+Apr 12, 2016 11:44:07 AM TestDDL usrTest
+INFO: TestRuns :19
+Apr 12, 2016 11:44:07 AM TestDDL usrTest
+INFO: TestRuns :19
+Apr 12, 2016 11:44:07 AM TestDDL usrTest
+INFO: TestRuns :19
+Apr 12, 2016 11:44:07 AM DD_NonEx dd_helper
+INFO: 1Runs :20
+Apr 12, 2016 11:44:07 AM DD_NonEx dd_helper
+INFO: 1Size : 19510
+Apr 12, 2016 11:44:08 AM TestDDL usrTest
+INFO: TimeTest : 883925
+Apr 12, 2016 11:44:08 AM TestDDL usrTest
+INFO: TimeTest : 883925
+Apr 12, 2016 11:44:08 AM TestDDL usrTest
+INFO: TimeTest : 883925
+Apr 12, 2016 11:44:08 AM TestDDL usrTest
+INFO: TimeTest : 883925
+Apr 12, 2016 11:44:08 AM TestDDL usrTest
+INFO: TimeTest : 883925
+Apr 12, 2016 11:44:08 AM TestDDL usrTest
+INFO: TimeTest : 883925
+Apr 12, 2016 11:44:08 AM TestDDL usrTest
+INFO: TimeTest : 883925
+Apr 12, 2016 11:44:08 AM TestDDL usrTest
+INFO: TimeTest : 883925
+Apr 12, 2016 11:44:08 AM TestDDL usrTest
+INFO: TimeTest : 883925
+Apr 12, 2016 11:44:08 AM TestDDL usrTest
+INFO: TimeTest : 883925
+Apr 12, 2016 11:44:08 AM TestDDL usrTest
+INFO: TimeTest : 883925
+Apr 12, 2016 11:44:08 AM TestDDL usrTest
+INFO: TimeTest : 883925
+Apr 12, 2016 11:44:08 AM TestDDL usrTest
+INFO: TimeTest : 883925
+Apr 12, 2016 11:44:08 AM TestDDL usrTest
+INFO: TimeTest : 883925
+Apr 12, 2016 11:44:08 AM TestDDL usrTest
+INFO: TimeTest : 883925
+Apr 12, 2016 11:44:08 AM TestDDL usrTest
+INFO: TimeTest : 883925
+Apr 12, 2016 11:44:08 AM TestDDL usrTest
+INFO: TimeTest : 883925
+Apr 12, 2016 11:44:08 AM TestDDL usrTest
+INFO: TimeTest : 883925
+Apr 12, 2016 11:44:08 AM TestDDL usrTest
+INFO: TimeTest : 883925
+Apr 12, 2016 11:44:08 AM TestDDL usrTest
+INFO: TimeTest : 883925
+Apr 12, 2016 11:44:08 AM TestDDL usrTest
+INFO: TestRuns :20
+Apr 12, 2016 11:44:08 AM TestDDL usrTest
+INFO: TestRuns :20
+Apr 12, 2016 11:44:08 AM TestDDL usrTest
+INFO: TestRuns :20
+Apr 12, 2016 11:44:08 AM TestDDL usrTest
+INFO: TestRuns :20
+Apr 12, 2016 11:44:08 AM TestDDL usrTest
+INFO: TestRuns :20
+Apr 12, 2016 11:44:08 AM TestDDL usrTest
+INFO: TestRuns :20
+Apr 12, 2016 11:44:08 AM TestDDL usrTest
+INFO: TestRuns :20
+Apr 12, 2016 11:44:08 AM TestDDL usrTest
+INFO: TestRuns :20
+Apr 12, 2016 11:44:08 AM TestDDL usrTest
+INFO: TestRuns :20
+Apr 12, 2016 11:44:08 AM TestDDL usrTest
+INFO: TestRuns :20
+Apr 12, 2016 11:44:08 AM TestDDL usrTest
+INFO: TestRuns :20
+Apr 12, 2016 11:44:08 AM TestDDL usrTest
+INFO: TestRuns :20
+Apr 12, 2016 11:44:08 AM TestDDL usrTest
+INFO: TestRuns :20
+Apr 12, 2016 11:44:08 AM TestDDL usrTest
+INFO: TestRuns :20
+Apr 12, 2016 11:44:08 AM TestDDL usrTest
+INFO: TestRuns :20
+Apr 12, 2016 11:44:08 AM TestDDL usrTest
+INFO: TestRuns :20
+Apr 12, 2016 11:44:08 AM TestDDL usrTest
+INFO: TestRuns :20
+Apr 12, 2016 11:44:08 AM TestDDL usrTest
+INFO: TestRuns :20
+Apr 12, 2016 11:44:08 AM TestDDL usrTest
+INFO: TestRuns :20
+Apr 12, 2016 11:44:08 AM TestDDL usrTest
+INFO: TestRuns :20
+Apr 12, 2016 11:44:09 AM TestDDL usrTest
+INFO: TimeTest : 740169
+Apr 12, 2016 11:44:09 AM TestDDL usrTest
+INFO: TimeTest : 740169
+Apr 12, 2016 11:44:09 AM TestDDL usrTest
+INFO: TimeTest : 740169
+Apr 12, 2016 11:44:09 AM TestDDL usrTest
+INFO: TimeTest : 740169
+Apr 12, 2016 11:44:09 AM TestDDL usrTest
+INFO: TimeTest : 740169
+Apr 12, 2016 11:44:09 AM TestDDL usrTest
+INFO: TimeTest : 740169
+Apr 12, 2016 11:44:09 AM TestDDL usrTest
+INFO: TimeTest : 740169
+Apr 12, 2016 11:44:09 AM TestDDL usrTest
+INFO: TimeTest : 740169
+Apr 12, 2016 11:44:09 AM TestDDL usrTest
+INFO: TimeTest : 740169
+Apr 12, 2016 11:44:09 AM TestDDL usrTest
+INFO: TimeTest : 740169
+Apr 12, 2016 11:44:09 AM TestDDL usrTest
+INFO: TimeTest : 740169
+Apr 12, 2016 11:44:09 AM TestDDL usrTest
+INFO: TimeTest : 740169
+Apr 12, 2016 11:44:09 AM TestDDL usrTest
+INFO: TimeTest : 740169
+Apr 12, 2016 11:44:09 AM TestDDL usrTest
+INFO: TimeTest : 740169
+Apr 12, 2016 11:44:09 AM TestDDL usrTest
+INFO: TimeTest : 740169
+Apr 12, 2016 11:44:09 AM TestDDL usrTest
+INFO: TimeTest : 740169
+Apr 12, 2016 11:44:09 AM TestDDL usrTest
+INFO: TimeTest : 740169
+Apr 12, 2016 11:44:09 AM TestDDL usrTest
+INFO: TimeTest : 740169
+Apr 12, 2016 11:44:09 AM TestDDL usrTest
+INFO: TimeTest : 740169
+Apr 12, 2016 11:44:09 AM TestDDL usrTest
+INFO: TimeTest : 740169
+Apr 12, 2016 11:44:09 AM TestDDL usrTest
+INFO: TimeTest : 740169
+Apr 12, 2016 11:44:09 AM TestDDL usrTest
+INFO: TestRuns :21
+Apr 12, 2016 11:44:09 AM TestDDL usrTest
+INFO: TestRuns :21
+Apr 12, 2016 11:44:09 AM TestDDL usrTest
+INFO: TestRuns :21
+Apr 12, 2016 11:44:09 AM TestDDL usrTest
+INFO: TestRuns :21
+Apr 12, 2016 11:44:09 AM TestDDL usrTest
+INFO: TestRuns :21
+Apr 12, 2016 11:44:09 AM TestDDL usrTest
+INFO: TestRuns :21
+Apr 12, 2016 11:44:09 AM TestDDL usrTest
+INFO: TestRuns :21
+Apr 12, 2016 11:44:09 AM TestDDL usrTest
+INFO: TestRuns :21
+Apr 12, 2016 11:44:09 AM TestDDL usrTest
+INFO: TestRuns :21
+Apr 12, 2016 11:44:09 AM TestDDL usrTest
+INFO: TestRuns :21
+Apr 12, 2016 11:44:09 AM TestDDL usrTest
+INFO: TestRuns :21
+Apr 12, 2016 11:44:09 AM TestDDL usrTest
+INFO: TestRuns :21
+Apr 12, 2016 11:44:09 AM TestDDL usrTest
+INFO: TestRuns :21
+Apr 12, 2016 11:44:09 AM TestDDL usrTest
+INFO: TestRuns :21
+Apr 12, 2016 11:44:09 AM TestDDL usrTest
+INFO: TestRuns :21
+Apr 12, 2016 11:44:09 AM TestDDL usrTest
+INFO: TestRuns :21
+Apr 12, 2016 11:44:09 AM TestDDL usrTest
+INFO: TestRuns :21
+Apr 12, 2016 11:44:09 AM TestDDL usrTest
+INFO: TestRuns :21
+Apr 12, 2016 11:44:09 AM TestDDL usrTest
+INFO: TestRuns :21
+Apr 12, 2016 11:44:09 AM TestDDL usrTest
+INFO: TestRuns :21
+Apr 12, 2016 11:44:09 AM TestDDL usrTest
+INFO: TestRuns :21
+Apr 12, 2016 11:44:10 AM TestDDL usrTest
+INFO: TimeTest : 914835
+Apr 12, 2016 11:44:10 AM TestDDL usrTest
+INFO: TimeTest : 914835
+Apr 12, 2016 11:44:10 AM TestDDL usrTest
+INFO: TimeTest : 914835
+Apr 12, 2016 11:44:10 AM TestDDL usrTest
+INFO: TimeTest : 914835
+Apr 12, 2016 11:44:10 AM TestDDL usrTest
+INFO: TimeTest : 914835
+Apr 12, 2016 11:44:10 AM TestDDL usrTest
+INFO: TimeTest : 914835
+Apr 12, 2016 11:44:10 AM TestDDL usrTest
+INFO: TimeTest : 914835
+Apr 12, 2016 11:44:10 AM TestDDL usrTest
+INFO: TimeTest : 914835
+Apr 12, 2016 11:44:10 AM TestDDL usrTest
+INFO: TimeTest : 914835
+Apr 12, 2016 11:44:10 AM TestDDL usrTest
+INFO: TimeTest : 914835
+Apr 12, 2016 11:44:10 AM TestDDL usrTest
+INFO: TimeTest : 914835
+Apr 12, 2016 11:44:10 AM TestDDL usrTest
+INFO: TimeTest : 914835
+Apr 12, 2016 11:44:10 AM TestDDL usrTest
+INFO: TimeTest : 914835
+Apr 12, 2016 11:44:10 AM TestDDL usrTest
+INFO: TimeTest : 914835
+Apr 12, 2016 11:44:10 AM TestDDL usrTest
+INFO: TimeTest : 914835
+Apr 12, 2016 11:44:10 AM TestDDL usrTest
+INFO: TimeTest : 914835
+Apr 12, 2016 11:44:10 AM TestDDL usrTest
+INFO: TimeTest : 914835
+Apr 12, 2016 11:44:10 AM TestDDL usrTest
+INFO: TimeTest : 914835
+Apr 12, 2016 11:44:10 AM TestDDL usrTest
+INFO: TimeTest : 914835
+Apr 12, 2016 11:44:10 AM TestDDL usrTest
+INFO: TimeTest : 914835
+Apr 12, 2016 11:44:10 AM TestDDL usrTest
+INFO: TimeTest : 914835
+Apr 12, 2016 11:44:10 AM TestDDL usrTest
+INFO: TimeTest : 914835
+Apr 12, 2016 11:44:10 AM TestDDL usrTest
+INFO: TestRuns :22
+Apr 12, 2016 11:44:10 AM TestDDL usrTest
+INFO: TestRuns :22
+Apr 12, 2016 11:44:10 AM TestDDL usrTest
+INFO: TestRuns :22
+Apr 12, 2016 11:44:10 AM TestDDL usrTest
+INFO: TestRuns :22
+Apr 12, 2016 11:44:10 AM TestDDL usrTest
+INFO: TestRuns :22
+Apr 12, 2016 11:44:10 AM TestDDL usrTest
+INFO: TestRuns :22
+Apr 12, 2016 11:44:10 AM TestDDL usrTest
+INFO: TestRuns :22
+Apr 12, 2016 11:44:10 AM TestDDL usrTest
+INFO: TestRuns :22
+Apr 12, 2016 11:44:10 AM TestDDL usrTest
+INFO: TestRuns :22
+Apr 12, 2016 11:44:10 AM TestDDL usrTest
+INFO: TestRuns :22
+Apr 12, 2016 11:44:10 AM TestDDL usrTest
+INFO: TestRuns :22
+Apr 12, 2016 11:44:10 AM TestDDL usrTest
+INFO: TestRuns :22
+Apr 12, 2016 11:44:10 AM TestDDL usrTest
+INFO: TestRuns :22
+Apr 12, 2016 11:44:10 AM TestDDL usrTest
+INFO: TestRuns :22
+Apr 12, 2016 11:44:10 AM TestDDL usrTest
+INFO: TestRuns :22
+Apr 12, 2016 11:44:10 AM TestDDL usrTest
+INFO: TestRuns :22
+Apr 12, 2016 11:44:10 AM TestDDL usrTest
+INFO: TestRuns :22
+Apr 12, 2016 11:44:10 AM TestDDL usrTest
+INFO: TestRuns :22
+Apr 12, 2016 11:44:10 AM TestDDL usrTest
+INFO: TestRuns :22
+Apr 12, 2016 11:44:10 AM TestDDL usrTest
+INFO: TestRuns :22
+Apr 12, 2016 11:44:10 AM TestDDL usrTest
+INFO: TestRuns :22
+Apr 12, 2016 11:44:10 AM TestDDL usrTest
+INFO: TestRuns :22
+Apr 12, 2016 11:44:10 AM DD_NonEx dd_helper
+INFO: 1Runs :23
+Apr 12, 2016 11:44:10 AM DD_NonEx dd_helper
+INFO: 1Size : 9734
+Apr 12, 2016 11:44:11 AM TestDDL usrTest
+INFO: TimeTest : 758473
+Apr 12, 2016 11:44:11 AM TestDDL usrTest
+INFO: TimeTest : 758473
+Apr 12, 2016 11:44:11 AM TestDDL usrTest
+INFO: TimeTest : 758473
+Apr 12, 2016 11:44:11 AM TestDDL usrTest
+INFO: TimeTest : 758473
+Apr 12, 2016 11:44:11 AM TestDDL usrTest
+INFO: TimeTest : 758473
+Apr 12, 2016 11:44:11 AM TestDDL usrTest
+INFO: TimeTest : 758473
+Apr 12, 2016 11:44:11 AM TestDDL usrTest
+INFO: TimeTest : 758473
+Apr 12, 2016 11:44:11 AM TestDDL usrTest
+INFO: TimeTest : 758473
+Apr 12, 2016 11:44:11 AM TestDDL usrTest
+INFO: TimeTest : 758473
+Apr 12, 2016 11:44:11 AM TestDDL usrTest
+INFO: TimeTest : 758473
+Apr 12, 2016 11:44:11 AM TestDDL usrTest
+INFO: TimeTest : 758473
+Apr 12, 2016 11:44:11 AM TestDDL usrTest
+INFO: TimeTest : 758473
+Apr 12, 2016 11:44:11 AM TestDDL usrTest
+INFO: TimeTest : 758473
+Apr 12, 2016 11:44:11 AM TestDDL usrTest
+INFO: TimeTest : 758473
+Apr 12, 2016 11:44:11 AM TestDDL usrTest
+INFO: TimeTest : 758473
+Apr 12, 2016 11:44:11 AM TestDDL usrTest
+INFO: TimeTest : 758473
+Apr 12, 2016 11:44:11 AM TestDDL usrTest
+INFO: TimeTest : 758473
+Apr 12, 2016 11:44:11 AM TestDDL usrTest
+INFO: TimeTest : 758473
+Apr 12, 2016 11:44:11 AM TestDDL usrTest
+INFO: TimeTest : 758473
+Apr 12, 2016 11:44:11 AM TestDDL usrTest
+INFO: TimeTest : 758473
+Apr 12, 2016 11:44:11 AM TestDDL usrTest
+INFO: TimeTest : 758473
+Apr 12, 2016 11:44:11 AM TestDDL usrTest
+INFO: TimeTest : 758473
+Apr 12, 2016 11:44:11 AM TestDDL usrTest
+INFO: TimeTest : 758473
+Apr 12, 2016 11:44:11 AM TestDDL usrTest
+INFO: TestRuns :23
+Apr 12, 2016 11:44:11 AM TestDDL usrTest
+INFO: TestRuns :23
+Apr 12, 2016 11:44:11 AM TestDDL usrTest
+INFO: TestRuns :23
+Apr 12, 2016 11:44:11 AM TestDDL usrTest
+INFO: TestRuns :23
+Apr 12, 2016 11:44:11 AM TestDDL usrTest
+INFO: TestRuns :23
+Apr 12, 2016 11:44:11 AM TestDDL usrTest
+INFO: TestRuns :23
+Apr 12, 2016 11:44:11 AM TestDDL usrTest
+INFO: TestRuns :23
+Apr 12, 2016 11:44:11 AM TestDDL usrTest
+INFO: TestRuns :23
+Apr 12, 2016 11:44:11 AM TestDDL usrTest
+INFO: TestRuns :23
+Apr 12, 2016 11:44:11 AM TestDDL usrTest
+INFO: TestRuns :23
+Apr 12, 2016 11:44:11 AM TestDDL usrTest
+INFO: TestRuns :23
+Apr 12, 2016 11:44:11 AM TestDDL usrTest
+INFO: TestRuns :23
+Apr 12, 2016 11:44:11 AM TestDDL usrTest
+INFO: TestRuns :23
+Apr 12, 2016 11:44:11 AM TestDDL usrTest
+INFO: TestRuns :23
+Apr 12, 2016 11:44:11 AM TestDDL usrTest
+INFO: TestRuns :23
+Apr 12, 2016 11:44:11 AM TestDDL usrTest
+INFO: TestRuns :23
+Apr 12, 2016 11:44:11 AM TestDDL usrTest
+INFO: TestRuns :23
+Apr 12, 2016 11:44:11 AM TestDDL usrTest
+INFO: TestRuns :23
+Apr 12, 2016 11:44:11 AM TestDDL usrTest
+INFO: TestRuns :23
+Apr 12, 2016 11:44:11 AM TestDDL usrTest
+INFO: TestRuns :23
+Apr 12, 2016 11:44:11 AM TestDDL usrTest
+INFO: TestRuns :23
+Apr 12, 2016 11:44:11 AM TestDDL usrTest
+INFO: TestRuns :23
+Apr 12, 2016 11:44:11 AM TestDDL usrTest
+INFO: TestRuns :23
+Apr 12, 2016 11:44:12 AM TestDDL usrTest
+INFO: TimeTest : 737126
+Apr 12, 2016 11:44:12 AM TestDDL usrTest
+INFO: TimeTest : 737126
+Apr 12, 2016 11:44:12 AM TestDDL usrTest
+INFO: TimeTest : 737126
+Apr 12, 2016 11:44:12 AM TestDDL usrTest
+INFO: TimeTest : 737126
+Apr 12, 2016 11:44:12 AM TestDDL usrTest
+INFO: TimeTest : 737126
+Apr 12, 2016 11:44:12 AM TestDDL usrTest
+INFO: TimeTest : 737126
+Apr 12, 2016 11:44:12 AM TestDDL usrTest
+INFO: TimeTest : 737126
+Apr 12, 2016 11:44:12 AM TestDDL usrTest
+INFO: TimeTest : 737126
+Apr 12, 2016 11:44:12 AM TestDDL usrTest
+INFO: TimeTest : 737126
+Apr 12, 2016 11:44:12 AM TestDDL usrTest
+INFO: TimeTest : 737126
+Apr 12, 2016 11:44:12 AM TestDDL usrTest
+INFO: TimeTest : 737126
+Apr 12, 2016 11:44:12 AM TestDDL usrTest
+INFO: TimeTest : 737126
+Apr 12, 2016 11:44:12 AM TestDDL usrTest
+INFO: TimeTest : 737126
+Apr 12, 2016 11:44:12 AM TestDDL usrTest
+INFO: TimeTest : 737126
+Apr 12, 2016 11:44:12 AM TestDDL usrTest
+INFO: TimeTest : 737126
+Apr 12, 2016 11:44:12 AM TestDDL usrTest
+INFO: TimeTest : 737126
+Apr 12, 2016 11:44:12 AM TestDDL usrTest
+INFO: TimeTest : 737126
+Apr 12, 2016 11:44:12 AM TestDDL usrTest
+INFO: TimeTest : 737126
+Apr 12, 2016 11:44:12 AM TestDDL usrTest
+INFO: TimeTest : 737126
+Apr 12, 2016 11:44:12 AM TestDDL usrTest
+INFO: TimeTest : 737126
+Apr 12, 2016 11:44:12 AM TestDDL usrTest
+INFO: TimeTest : 737126
+Apr 12, 2016 11:44:12 AM TestDDL usrTest
+INFO: TimeTest : 737126
+Apr 12, 2016 11:44:12 AM TestDDL usrTest
+INFO: TimeTest : 737126
+Apr 12, 2016 11:44:12 AM TestDDL usrTest
+INFO: TimeTest : 737126
+Apr 12, 2016 11:44:12 AM TestDDL usrTest
+INFO: TestRuns :24
+Apr 12, 2016 11:44:12 AM TestDDL usrTest
+INFO: TestRuns :24
+Apr 12, 2016 11:44:12 AM TestDDL usrTest
+INFO: TestRuns :24
+Apr 12, 2016 11:44:12 AM TestDDL usrTest
+INFO: TestRuns :24
+Apr 12, 2016 11:44:12 AM TestDDL usrTest
+INFO: TestRuns :24
+Apr 12, 2016 11:44:12 AM TestDDL usrTest
+INFO: TestRuns :24
+Apr 12, 2016 11:44:12 AM TestDDL usrTest
+INFO: TestRuns :24
+Apr 12, 2016 11:44:12 AM TestDDL usrTest
+INFO: TestRuns :24
+Apr 12, 2016 11:44:12 AM TestDDL usrTest
+INFO: TestRuns :24
+Apr 12, 2016 11:44:12 AM TestDDL usrTest
+INFO: TestRuns :24
+Apr 12, 2016 11:44:12 AM TestDDL usrTest
+INFO: TestRuns :24
+Apr 12, 2016 11:44:12 AM TestDDL usrTest
+INFO: TestRuns :24
+Apr 12, 2016 11:44:12 AM TestDDL usrTest
+INFO: TestRuns :24
+Apr 12, 2016 11:44:12 AM TestDDL usrTest
+INFO: TestRuns :24
+Apr 12, 2016 11:44:12 AM TestDDL usrTest
+INFO: TestRuns :24
+Apr 12, 2016 11:44:12 AM TestDDL usrTest
+INFO: TestRuns :24
+Apr 12, 2016 11:44:12 AM TestDDL usrTest
+INFO: TestRuns :24
+Apr 12, 2016 11:44:12 AM TestDDL usrTest
+INFO: TestRuns :24
+Apr 12, 2016 11:44:12 AM TestDDL usrTest
+INFO: TestRuns :24
+Apr 12, 2016 11:44:12 AM TestDDL usrTest
+INFO: TestRuns :24
+Apr 12, 2016 11:44:12 AM TestDDL usrTest
+INFO: TestRuns :24
+Apr 12, 2016 11:44:12 AM TestDDL usrTest
+INFO: TestRuns :24
+Apr 12, 2016 11:44:12 AM TestDDL usrTest
+INFO: TestRuns :24
+Apr 12, 2016 11:44:12 AM TestDDL usrTest
+INFO: TestRuns :24
+Apr 12, 2016 11:44:12 AM DD_NonEx dd_helper
+INFO: 1Runs :25
+Apr 12, 2016 11:44:12 AM DD_NonEx dd_helper
+INFO: 1Size : 4806
+Apr 12, 2016 11:44:13 AM TestDDL usrTest
+INFO: TimeTest : 766250
+Apr 12, 2016 11:44:13 AM TestDDL usrTest
+INFO: TimeTest : 766250
+Apr 12, 2016 11:44:13 AM TestDDL usrTest
+INFO: TimeTest : 766250
+Apr 12, 2016 11:44:13 AM TestDDL usrTest
+INFO: TimeTest : 766250
+Apr 12, 2016 11:44:13 AM TestDDL usrTest
+INFO: TimeTest : 766250
+Apr 12, 2016 11:44:13 AM TestDDL usrTest
+INFO: TimeTest : 766250
+Apr 12, 2016 11:44:13 AM TestDDL usrTest
+INFO: TimeTest : 766250
+Apr 12, 2016 11:44:13 AM TestDDL usrTest
+INFO: TimeTest : 766250
+Apr 12, 2016 11:44:13 AM TestDDL usrTest
+INFO: TimeTest : 766250
+Apr 12, 2016 11:44:13 AM TestDDL usrTest
+INFO: TimeTest : 766250
+Apr 12, 2016 11:44:13 AM TestDDL usrTest
+INFO: TimeTest : 766250
+Apr 12, 2016 11:44:13 AM TestDDL usrTest
+INFO: TimeTest : 766250
+Apr 12, 2016 11:44:13 AM TestDDL usrTest
+INFO: TimeTest : 766250
+Apr 12, 2016 11:44:13 AM TestDDL usrTest
+INFO: TimeTest : 766250
+Apr 12, 2016 11:44:13 AM TestDDL usrTest
+INFO: TimeTest : 766250
+Apr 12, 2016 11:44:13 AM TestDDL usrTest
+INFO: TimeTest : 766250
+Apr 12, 2016 11:44:13 AM TestDDL usrTest
+INFO: TimeTest : 766250
+Apr 12, 2016 11:44:13 AM TestDDL usrTest
+INFO: TimeTest : 766250
+Apr 12, 2016 11:44:13 AM TestDDL usrTest
+INFO: TimeTest : 766250
+Apr 12, 2016 11:44:13 AM TestDDL usrTest
+INFO: TimeTest : 766250
+Apr 12, 2016 11:44:13 AM TestDDL usrTest
+INFO: TimeTest : 766250
+Apr 12, 2016 11:44:13 AM TestDDL usrTest
+INFO: TimeTest : 766250
+Apr 12, 2016 11:44:13 AM TestDDL usrTest
+INFO: TimeTest : 766250
+Apr 12, 2016 11:44:13 AM TestDDL usrTest
+INFO: TimeTest : 766250
+Apr 12, 2016 11:44:13 AM TestDDL usrTest
+INFO: TimeTest : 766250
+Apr 12, 2016 11:44:13 AM TestDDL usrTest
+INFO: TestRuns :25
+Apr 12, 2016 11:44:13 AM TestDDL usrTest
+INFO: TestRuns :25
+Apr 12, 2016 11:44:13 AM TestDDL usrTest
+INFO: TestRuns :25
+Apr 12, 2016 11:44:13 AM TestDDL usrTest
+INFO: TestRuns :25
+Apr 12, 2016 11:44:13 AM TestDDL usrTest
+INFO: TestRuns :25
+Apr 12, 2016 11:44:13 AM TestDDL usrTest
+INFO: TestRuns :25
+Apr 12, 2016 11:44:13 AM TestDDL usrTest
+INFO: TestRuns :25
+Apr 12, 2016 11:44:13 AM TestDDL usrTest
+INFO: TestRuns :25
+Apr 12, 2016 11:44:13 AM TestDDL usrTest
+INFO: TestRuns :25
+Apr 12, 2016 11:44:13 AM TestDDL usrTest
+INFO: TestRuns :25
+Apr 12, 2016 11:44:13 AM TestDDL usrTest
+INFO: TestRuns :25
+Apr 12, 2016 11:44:13 AM TestDDL usrTest
+INFO: TestRuns :25
+Apr 12, 2016 11:44:13 AM TestDDL usrTest
+INFO: TestRuns :25
+Apr 12, 2016 11:44:13 AM TestDDL usrTest
+INFO: TestRuns :25
+Apr 12, 2016 11:44:13 AM TestDDL usrTest
+INFO: TestRuns :25
+Apr 12, 2016 11:44:13 AM TestDDL usrTest
+INFO: TestRuns :25
+Apr 12, 2016 11:44:13 AM TestDDL usrTest
+INFO: TestRuns :25
+Apr 12, 2016 11:44:13 AM TestDDL usrTest
+INFO: TestRuns :25
+Apr 12, 2016 11:44:13 AM TestDDL usrTest
+INFO: TestRuns :25
+Apr 12, 2016 11:44:13 AM TestDDL usrTest
+INFO: TestRuns :25
+Apr 12, 2016 11:44:13 AM TestDDL usrTest
+INFO: TestRuns :25
+Apr 12, 2016 11:44:13 AM TestDDL usrTest
+INFO: TestRuns :25
+Apr 12, 2016 11:44:13 AM TestDDL usrTest
+INFO: TestRuns :25
+Apr 12, 2016 11:44:13 AM TestDDL usrTest
+INFO: TestRuns :25
+Apr 12, 2016 11:44:13 AM TestDDL usrTest
+INFO: TestRuns :25
+Apr 12, 2016 11:44:14 AM TestDDL usrTest
+INFO: TimeTest : 773447
+Apr 12, 2016 11:44:14 AM TestDDL usrTest
+INFO: TimeTest : 773447
+Apr 12, 2016 11:44:14 AM TestDDL usrTest
+INFO: TimeTest : 773447
+Apr 12, 2016 11:44:14 AM TestDDL usrTest
+INFO: TimeTest : 773447
+Apr 12, 2016 11:44:14 AM TestDDL usrTest
+INFO: TimeTest : 773447
+Apr 12, 2016 11:44:14 AM TestDDL usrTest
+INFO: TimeTest : 773447
+Apr 12, 2016 11:44:14 AM TestDDL usrTest
+INFO: TimeTest : 773447
+Apr 12, 2016 11:44:14 AM TestDDL usrTest
+INFO: TimeTest : 773447
+Apr 12, 2016 11:44:14 AM TestDDL usrTest
+INFO: TimeTest : 773447
+Apr 12, 2016 11:44:14 AM TestDDL usrTest
+INFO: TimeTest : 773447
+Apr 12, 2016 11:44:14 AM TestDDL usrTest
+INFO: TimeTest : 773447
+Apr 12, 2016 11:44:14 AM TestDDL usrTest
+INFO: TimeTest : 773447
+Apr 12, 2016 11:44:14 AM TestDDL usrTest
+INFO: TimeTest : 773447
+Apr 12, 2016 11:44:14 AM TestDDL usrTest
+INFO: TimeTest : 773447
+Apr 12, 2016 11:44:14 AM TestDDL usrTest
+INFO: TimeTest : 773447
+Apr 12, 2016 11:44:14 AM TestDDL usrTest
+INFO: TimeTest : 773447
+Apr 12, 2016 11:44:14 AM TestDDL usrTest
+INFO: TimeTest : 773447
+Apr 12, 2016 11:44:14 AM TestDDL usrTest
+INFO: TimeTest : 773447
+Apr 12, 2016 11:44:14 AM TestDDL usrTest
+INFO: TimeTest : 773447
+Apr 12, 2016 11:44:14 AM TestDDL usrTest
+INFO: TimeTest : 773447
+Apr 12, 2016 11:44:14 AM TestDDL usrTest
+INFO: TimeTest : 773447
+Apr 12, 2016 11:44:14 AM TestDDL usrTest
+INFO: TimeTest : 773447
+Apr 12, 2016 11:44:14 AM TestDDL usrTest
+INFO: TimeTest : 773447
+Apr 12, 2016 11:44:14 AM TestDDL usrTest
+INFO: TimeTest : 773447
+Apr 12, 2016 11:44:14 AM TestDDL usrTest
+INFO: TimeTest : 773447
+Apr 12, 2016 11:44:14 AM TestDDL usrTest
+INFO: TimeTest : 773447
+Apr 12, 2016 11:44:14 AM TestDDL usrTest
+INFO: TestRuns :26
+Apr 12, 2016 11:44:14 AM TestDDL usrTest
+INFO: TestRuns :26
+Apr 12, 2016 11:44:14 AM TestDDL usrTest
+INFO: TestRuns :26
+Apr 12, 2016 11:44:14 AM TestDDL usrTest
+INFO: TestRuns :26
+Apr 12, 2016 11:44:14 AM TestDDL usrTest
+INFO: TestRuns :26
+Apr 12, 2016 11:44:14 AM TestDDL usrTest
+INFO: TestRuns :26
+Apr 12, 2016 11:44:14 AM TestDDL usrTest
+INFO: TestRuns :26
+Apr 12, 2016 11:44:14 AM TestDDL usrTest
+INFO: TestRuns :26
+Apr 12, 2016 11:44:14 AM TestDDL usrTest
+INFO: TestRuns :26
+Apr 12, 2016 11:44:14 AM TestDDL usrTest
+INFO: TestRuns :26
+Apr 12, 2016 11:44:14 AM TestDDL usrTest
+INFO: TestRuns :26
+Apr 12, 2016 11:44:14 AM TestDDL usrTest
+INFO: TestRuns :26
+Apr 12, 2016 11:44:14 AM TestDDL usrTest
+INFO: TestRuns :26
+Apr 12, 2016 11:44:14 AM TestDDL usrTest
+INFO: TestRuns :26
+Apr 12, 2016 11:44:14 AM TestDDL usrTest
+INFO: TestRuns :26
+Apr 12, 2016 11:44:14 AM TestDDL usrTest
+INFO: TestRuns :26
+Apr 12, 2016 11:44:14 AM TestDDL usrTest
+INFO: TestRuns :26
+Apr 12, 2016 11:44:14 AM TestDDL usrTest
+INFO: TestRuns :26
+Apr 12, 2016 11:44:14 AM TestDDL usrTest
+INFO: TestRuns :26
+Apr 12, 2016 11:44:14 AM TestDDL usrTest
+INFO: TestRuns :26
+Apr 12, 2016 11:44:14 AM TestDDL usrTest
+INFO: TestRuns :26
+Apr 12, 2016 11:44:14 AM TestDDL usrTest
+INFO: TestRuns :26
+Apr 12, 2016 11:44:14 AM TestDDL usrTest
+INFO: TestRuns :26
+Apr 12, 2016 11:44:14 AM TestDDL usrTest
+INFO: TestRuns :26
+Apr 12, 2016 11:44:14 AM TestDDL usrTest
+INFO: TestRuns :26
+Apr 12, 2016 11:44:14 AM TestDDL usrTest
+INFO: TestRuns :26
+Apr 12, 2016 11:44:15 AM TestDDL usrTest
+INFO: TimeTest : 677090
+Apr 12, 2016 11:44:15 AM TestDDL usrTest
+INFO: TimeTest : 677090
+Apr 12, 2016 11:44:15 AM TestDDL usrTest
+INFO: TimeTest : 677090
+Apr 12, 2016 11:44:15 AM TestDDL usrTest
+INFO: TimeTest : 677090
+Apr 12, 2016 11:44:15 AM TestDDL usrTest
+INFO: TimeTest : 677090
+Apr 12, 2016 11:44:15 AM TestDDL usrTest
+INFO: TimeTest : 677090
+Apr 12, 2016 11:44:15 AM TestDDL usrTest
+INFO: TimeTest : 677090
+Apr 12, 2016 11:44:15 AM TestDDL usrTest
+INFO: TimeTest : 677090
+Apr 12, 2016 11:44:15 AM TestDDL usrTest
+INFO: TimeTest : 677090
+Apr 12, 2016 11:44:15 AM TestDDL usrTest
+INFO: TimeTest : 677090
+Apr 12, 2016 11:44:15 AM TestDDL usrTest
+INFO: TimeTest : 677090
+Apr 12, 2016 11:44:15 AM TestDDL usrTest
+INFO: TimeTest : 677090
+Apr 12, 2016 11:44:15 AM TestDDL usrTest
+INFO: TimeTest : 677090
+Apr 12, 2016 11:44:15 AM TestDDL usrTest
+INFO: TimeTest : 677090
+Apr 12, 2016 11:44:15 AM TestDDL usrTest
+INFO: TimeTest : 677090
+Apr 12, 2016 11:44:15 AM TestDDL usrTest
+INFO: TimeTest : 677090
+Apr 12, 2016 11:44:15 AM TestDDL usrTest
+INFO: TimeTest : 677090
+Apr 12, 2016 11:44:15 AM TestDDL usrTest
+INFO: TimeTest : 677090
+Apr 12, 2016 11:44:15 AM TestDDL usrTest
+INFO: TimeTest : 677090
+Apr 12, 2016 11:44:15 AM TestDDL usrTest
+INFO: TimeTest : 677090
+Apr 12, 2016 11:44:15 AM TestDDL usrTest
+INFO: TimeTest : 677090
+Apr 12, 2016 11:44:15 AM TestDDL usrTest
+INFO: TimeTest : 677090
+Apr 12, 2016 11:44:15 AM TestDDL usrTest
+INFO: TimeTest : 677090
+Apr 12, 2016 11:44:15 AM TestDDL usrTest
+INFO: TimeTest : 677090
+Apr 12, 2016 11:44:15 AM TestDDL usrTest
+INFO: TimeTest : 677090
+Apr 12, 2016 11:44:15 AM TestDDL usrTest
+INFO: TimeTest : 677090
+Apr 12, 2016 11:44:15 AM TestDDL usrTest
+INFO: TimeTest : 677090
+Apr 12, 2016 11:44:15 AM TestDDL usrTest
+INFO: TestRuns :27
+Apr 12, 2016 11:44:15 AM TestDDL usrTest
+INFO: TestRuns :27
+Apr 12, 2016 11:44:15 AM TestDDL usrTest
+INFO: TestRuns :27
+Apr 12, 2016 11:44:15 AM TestDDL usrTest
+INFO: TestRuns :27
+Apr 12, 2016 11:44:15 AM TestDDL usrTest
+INFO: TestRuns :27
+Apr 12, 2016 11:44:15 AM TestDDL usrTest
+INFO: TestRuns :27
+Apr 12, 2016 11:44:15 AM TestDDL usrTest
+INFO: TestRuns :27
+Apr 12, 2016 11:44:15 AM TestDDL usrTest
+INFO: TestRuns :27
+Apr 12, 2016 11:44:15 AM TestDDL usrTest
+INFO: TestRuns :27
+Apr 12, 2016 11:44:15 AM TestDDL usrTest
+INFO: TestRuns :27
+Apr 12, 2016 11:44:15 AM TestDDL usrTest
+INFO: TestRuns :27
+Apr 12, 2016 11:44:15 AM TestDDL usrTest
+INFO: TestRuns :27
+Apr 12, 2016 11:44:15 AM TestDDL usrTest
+INFO: TestRuns :27
+Apr 12, 2016 11:44:15 AM TestDDL usrTest
+INFO: TestRuns :27
+Apr 12, 2016 11:44:15 AM TestDDL usrTest
+INFO: TestRuns :27
+Apr 12, 2016 11:44:15 AM TestDDL usrTest
+INFO: TestRuns :27
+Apr 12, 2016 11:44:15 AM TestDDL usrTest
+INFO: TestRuns :27
+Apr 12, 2016 11:44:15 AM TestDDL usrTest
+INFO: TestRuns :27
+Apr 12, 2016 11:44:15 AM TestDDL usrTest
+INFO: TestRuns :27
+Apr 12, 2016 11:44:15 AM TestDDL usrTest
+INFO: TestRuns :27
+Apr 12, 2016 11:44:15 AM TestDDL usrTest
+INFO: TestRuns :27
+Apr 12, 2016 11:44:15 AM TestDDL usrTest
+INFO: TestRuns :27
+Apr 12, 2016 11:44:15 AM TestDDL usrTest
+INFO: TestRuns :27
+Apr 12, 2016 11:44:15 AM TestDDL usrTest
+INFO: TestRuns :27
+Apr 12, 2016 11:44:15 AM TestDDL usrTest
+INFO: TestRuns :27
+Apr 12, 2016 11:44:15 AM TestDDL usrTest
+INFO: TestRuns :27
+Apr 12, 2016 11:44:15 AM TestDDL usrTest
+INFO: TestRuns :27
+Apr 12, 2016 11:44:15 AM DD_NonEx dd_helper
+INFO: 1Runs :28
+Apr 12, 2016 11:44:15 AM DD_NonEx dd_helper
+INFO: 1Size : 2424
+Apr 12, 2016 11:44:16 AM TestDDL usrTest
+INFO: TimeTest : 693961
+Apr 12, 2016 11:44:16 AM TestDDL usrTest
+INFO: TimeTest : 693961
+Apr 12, 2016 11:44:16 AM TestDDL usrTest
+INFO: TimeTest : 693961
+Apr 12, 2016 11:44:16 AM TestDDL usrTest
+INFO: TimeTest : 693961
+Apr 12, 2016 11:44:16 AM TestDDL usrTest
+INFO: TimeTest : 693961
+Apr 12, 2016 11:44:16 AM TestDDL usrTest
+INFO: TimeTest : 693961
+Apr 12, 2016 11:44:16 AM TestDDL usrTest
+INFO: TimeTest : 693961
+Apr 12, 2016 11:44:16 AM TestDDL usrTest
+INFO: TimeTest : 693961
+Apr 12, 2016 11:44:16 AM TestDDL usrTest
+INFO: TimeTest : 693961
+Apr 12, 2016 11:44:16 AM TestDDL usrTest
+INFO: TimeTest : 693961
+Apr 12, 2016 11:44:16 AM TestDDL usrTest
+INFO: TimeTest : 693961
+Apr 12, 2016 11:44:16 AM TestDDL usrTest
+INFO: TimeTest : 693961
+Apr 12, 2016 11:44:16 AM TestDDL usrTest
+INFO: TimeTest : 693961
+Apr 12, 2016 11:44:16 AM TestDDL usrTest
+INFO: TimeTest : 693961
+Apr 12, 2016 11:44:16 AM TestDDL usrTest
+INFO: TimeTest : 693961
+Apr 12, 2016 11:44:16 AM TestDDL usrTest
+INFO: TimeTest : 693961
+Apr 12, 2016 11:44:16 AM TestDDL usrTest
+INFO: TimeTest : 693961
+Apr 12, 2016 11:44:16 AM TestDDL usrTest
+INFO: TimeTest : 693961
+Apr 12, 2016 11:44:16 AM TestDDL usrTest
+INFO: TimeTest : 693961
+Apr 12, 2016 11:44:16 AM TestDDL usrTest
+INFO: TimeTest : 693961
+Apr 12, 2016 11:44:16 AM TestDDL usrTest
+INFO: TimeTest : 693961
+Apr 12, 2016 11:44:16 AM TestDDL usrTest
+INFO: TimeTest : 693961
+Apr 12, 2016 11:44:16 AM TestDDL usrTest
+INFO: TimeTest : 693961
+Apr 12, 2016 11:44:16 AM TestDDL usrTest
+INFO: TimeTest : 693961
+Apr 12, 2016 11:44:16 AM TestDDL usrTest
+INFO: TimeTest : 693961
+Apr 12, 2016 11:44:16 AM TestDDL usrTest
+INFO: TimeTest : 693961
+Apr 12, 2016 11:44:16 AM TestDDL usrTest
+INFO: TimeTest : 693961
+Apr 12, 2016 11:44:16 AM TestDDL usrTest
+INFO: TimeTest : 693961
+Apr 12, 2016 11:44:16 AM TestDDL usrTest
+INFO: TestRuns :28
+Apr 12, 2016 11:44:16 AM TestDDL usrTest
+INFO: TestRuns :28
+Apr 12, 2016 11:44:16 AM TestDDL usrTest
+INFO: TestRuns :28
+Apr 12, 2016 11:44:16 AM TestDDL usrTest
+INFO: TestRuns :28
+Apr 12, 2016 11:44:16 AM TestDDL usrTest
+INFO: TestRuns :28
+Apr 12, 2016 11:44:16 AM TestDDL usrTest
+INFO: TestRuns :28
+Apr 12, 2016 11:44:16 AM TestDDL usrTest
+INFO: TestRuns :28
+Apr 12, 2016 11:44:16 AM TestDDL usrTest
+INFO: TestRuns :28
+Apr 12, 2016 11:44:16 AM TestDDL usrTest
+INFO: TestRuns :28
+Apr 12, 2016 11:44:16 AM TestDDL usrTest
+INFO: TestRuns :28
+Apr 12, 2016 11:44:16 AM TestDDL usrTest
+INFO: TestRuns :28
+Apr 12, 2016 11:44:16 AM TestDDL usrTest
+INFO: TestRuns :28
+Apr 12, 2016 11:44:16 AM TestDDL usrTest
+INFO: TestRuns :28
+Apr 12, 2016 11:44:16 AM TestDDL usrTest
+INFO: TestRuns :28
+Apr 12, 2016 11:44:16 AM TestDDL usrTest
+INFO: TestRuns :28
+Apr 12, 2016 11:44:16 AM TestDDL usrTest
+INFO: TestRuns :28
+Apr 12, 2016 11:44:16 AM TestDDL usrTest
+INFO: TestRuns :28
+Apr 12, 2016 11:44:16 AM TestDDL usrTest
+INFO: TestRuns :28
+Apr 12, 2016 11:44:16 AM TestDDL usrTest
+INFO: TestRuns :28
+Apr 12, 2016 11:44:16 AM TestDDL usrTest
+INFO: TestRuns :28
+Apr 12, 2016 11:44:16 AM TestDDL usrTest
+INFO: TestRuns :28
+Apr 12, 2016 11:44:16 AM TestDDL usrTest
+INFO: TestRuns :28
+Apr 12, 2016 11:44:16 AM TestDDL usrTest
+INFO: TestRuns :28
+Apr 12, 2016 11:44:16 AM TestDDL usrTest
+INFO: TestRuns :28
+Apr 12, 2016 11:44:16 AM TestDDL usrTest
+INFO: TestRuns :28
+Apr 12, 2016 11:44:16 AM TestDDL usrTest
+INFO: TestRuns :28
+Apr 12, 2016 11:44:16 AM TestDDL usrTest
+INFO: TestRuns :28
+Apr 12, 2016 11:44:16 AM TestDDL usrTest
+INFO: TestRuns :28
+Apr 12, 2016 11:44:17 AM TestDDL usrTest
+INFO: TimeTest : 814413
+Apr 12, 2016 11:44:17 AM TestDDL usrTest
+INFO: TimeTest : 814413
+Apr 12, 2016 11:44:17 AM TestDDL usrTest
+INFO: TimeTest : 814413
+Apr 12, 2016 11:44:17 AM TestDDL usrTest
+INFO: TimeTest : 814413
+Apr 12, 2016 11:44:17 AM TestDDL usrTest
+INFO: TimeTest : 814413
+Apr 12, 2016 11:44:17 AM TestDDL usrTest
+INFO: TimeTest : 814413
+Apr 12, 2016 11:44:17 AM TestDDL usrTest
+INFO: TimeTest : 814413
+Apr 12, 2016 11:44:17 AM TestDDL usrTest
+INFO: TimeTest : 814413
+Apr 12, 2016 11:44:17 AM TestDDL usrTest
+INFO: TimeTest : 814413
+Apr 12, 2016 11:44:17 AM TestDDL usrTest
+INFO: TimeTest : 814413
+Apr 12, 2016 11:44:17 AM TestDDL usrTest
+INFO: TimeTest : 814413
+Apr 12, 2016 11:44:17 AM TestDDL usrTest
+INFO: TimeTest : 814413
+Apr 12, 2016 11:44:17 AM TestDDL usrTest
+INFO: TimeTest : 814413
+Apr 12, 2016 11:44:17 AM TestDDL usrTest
+INFO: TimeTest : 814413
+Apr 12, 2016 11:44:17 AM TestDDL usrTest
+INFO: TimeTest : 814413
+Apr 12, 2016 11:44:17 AM TestDDL usrTest
+INFO: TimeTest : 814413
+Apr 12, 2016 11:44:17 AM TestDDL usrTest
+INFO: TimeTest : 814413
+Apr 12, 2016 11:44:17 AM TestDDL usrTest
+INFO: TimeTest : 814413
+Apr 12, 2016 11:44:17 AM TestDDL usrTest
+INFO: TimeTest : 814413
+Apr 12, 2016 11:44:17 AM TestDDL usrTest
+INFO: TimeTest : 814413
+Apr 12, 2016 11:44:17 AM TestDDL usrTest
+INFO: TimeTest : 814413
+Apr 12, 2016 11:44:17 AM TestDDL usrTest
+INFO: TimeTest : 814413
+Apr 12, 2016 11:44:17 AM TestDDL usrTest
+INFO: TimeTest : 814413
+Apr 12, 2016 11:44:17 AM TestDDL usrTest
+INFO: TimeTest : 814413
+Apr 12, 2016 11:44:17 AM TestDDL usrTest
+INFO: TimeTest : 814413
+Apr 12, 2016 11:44:17 AM TestDDL usrTest
+INFO: TimeTest : 814413
+Apr 12, 2016 11:44:17 AM TestDDL usrTest
+INFO: TimeTest : 814413
+Apr 12, 2016 11:44:17 AM TestDDL usrTest
+INFO: TimeTest : 814413
+Apr 12, 2016 11:44:17 AM TestDDL usrTest
+INFO: TimeTest : 814413
+Apr 12, 2016 11:44:17 AM TestDDL usrTest
+INFO: TestRuns :29
+Apr 12, 2016 11:44:17 AM TestDDL usrTest
+INFO: TestRuns :29
+Apr 12, 2016 11:44:17 AM TestDDL usrTest
+INFO: TestRuns :29
+Apr 12, 2016 11:44:17 AM TestDDL usrTest
+INFO: TestRuns :29
+Apr 12, 2016 11:44:17 AM TestDDL usrTest
+INFO: TestRuns :29
+Apr 12, 2016 11:44:17 AM TestDDL usrTest
+INFO: TestRuns :29
+Apr 12, 2016 11:44:17 AM TestDDL usrTest
+INFO: TestRuns :29
+Apr 12, 2016 11:44:17 AM TestDDL usrTest
+INFO: TestRuns :29
+Apr 12, 2016 11:44:17 AM TestDDL usrTest
+INFO: TestRuns :29
+Apr 12, 2016 11:44:17 AM TestDDL usrTest
+INFO: TestRuns :29
+Apr 12, 2016 11:44:17 AM TestDDL usrTest
+INFO: TestRuns :29
+Apr 12, 2016 11:44:17 AM TestDDL usrTest
+INFO: TestRuns :29
+Apr 12, 2016 11:44:17 AM TestDDL usrTest
+INFO: TestRuns :29
+Apr 12, 2016 11:44:17 AM TestDDL usrTest
+INFO: TestRuns :29
+Apr 12, 2016 11:44:17 AM TestDDL usrTest
+INFO: TestRuns :29
+Apr 12, 2016 11:44:17 AM TestDDL usrTest
+INFO: TestRuns :29
+Apr 12, 2016 11:44:17 AM TestDDL usrTest
+INFO: TestRuns :29
+Apr 12, 2016 11:44:17 AM TestDDL usrTest
+INFO: TestRuns :29
+Apr 12, 2016 11:44:17 AM TestDDL usrTest
+INFO: TestRuns :29
+Apr 12, 2016 11:44:17 AM TestDDL usrTest
+INFO: TestRuns :29
+Apr 12, 2016 11:44:17 AM TestDDL usrTest
+INFO: TestRuns :29
+Apr 12, 2016 11:44:17 AM TestDDL usrTest
+INFO: TestRuns :29
+Apr 12, 2016 11:44:17 AM TestDDL usrTest
+INFO: TestRuns :29
+Apr 12, 2016 11:44:17 AM TestDDL usrTest
+INFO: TestRuns :29
+Apr 12, 2016 11:44:17 AM TestDDL usrTest
+INFO: TestRuns :29
+Apr 12, 2016 11:44:17 AM TestDDL usrTest
+INFO: TestRuns :29
+Apr 12, 2016 11:44:17 AM TestDDL usrTest
+INFO: TestRuns :29
+Apr 12, 2016 11:44:17 AM TestDDL usrTest
+INFO: TestRuns :29
+Apr 12, 2016 11:44:17 AM TestDDL usrTest
+INFO: TestRuns :29
+Apr 12, 2016 11:44:17 AM DD_NonEx dd_helper
+INFO: 1Runs :30
+Apr 12, 2016 11:44:17 AM DD_NonEx dd_helper
+INFO: 1Size : 1236
+Apr 12, 2016 11:44:18 AM TestDDL usrTest
+INFO: TimeTest : 860284
+Apr 12, 2016 11:44:18 AM TestDDL usrTest
+INFO: TimeTest : 860284
+Apr 12, 2016 11:44:18 AM TestDDL usrTest
+INFO: TimeTest : 860284
+Apr 12, 2016 11:44:18 AM TestDDL usrTest
+INFO: TimeTest : 860284
+Apr 12, 2016 11:44:18 AM TestDDL usrTest
+INFO: TimeTest : 860284
+Apr 12, 2016 11:44:18 AM TestDDL usrTest
+INFO: TimeTest : 860284
+Apr 12, 2016 11:44:18 AM TestDDL usrTest
+INFO: TimeTest : 860284
+Apr 12, 2016 11:44:18 AM TestDDL usrTest
+INFO: TimeTest : 860284
+Apr 12, 2016 11:44:18 AM TestDDL usrTest
+INFO: TimeTest : 860284
+Apr 12, 2016 11:44:18 AM TestDDL usrTest
+INFO: TimeTest : 860284
+Apr 12, 2016 11:44:18 AM TestDDL usrTest
+INFO: TimeTest : 860284
+Apr 12, 2016 11:44:18 AM TestDDL usrTest
+INFO: TimeTest : 860284
+Apr 12, 2016 11:44:18 AM TestDDL usrTest
+INFO: TimeTest : 860284
+Apr 12, 2016 11:44:18 AM TestDDL usrTest
+INFO: TimeTest : 860284
+Apr 12, 2016 11:44:18 AM TestDDL usrTest
+INFO: TimeTest : 860284
+Apr 12, 2016 11:44:18 AM TestDDL usrTest
+INFO: TimeTest : 860284
+Apr 12, 2016 11:44:18 AM TestDDL usrTest
+INFO: TimeTest : 860284
+Apr 12, 2016 11:44:18 AM TestDDL usrTest
+INFO: TimeTest : 860284
+Apr 12, 2016 11:44:18 AM TestDDL usrTest
+INFO: TimeTest : 860284
+Apr 12, 2016 11:44:18 AM TestDDL usrTest
+INFO: TimeTest : 860284
+Apr 12, 2016 11:44:18 AM TestDDL usrTest
+INFO: TimeTest : 860284
+Apr 12, 2016 11:44:18 AM TestDDL usrTest
+INFO: TimeTest : 860284
+Apr 12, 2016 11:44:18 AM TestDDL usrTest
+INFO: TimeTest : 860284
+Apr 12, 2016 11:44:18 AM TestDDL usrTest
+INFO: TimeTest : 860284
+Apr 12, 2016 11:44:18 AM TestDDL usrTest
+INFO: TimeTest : 860284
+Apr 12, 2016 11:44:18 AM TestDDL usrTest
+INFO: TimeTest : 860284
+Apr 12, 2016 11:44:18 AM TestDDL usrTest
+INFO: TimeTest : 860284
+Apr 12, 2016 11:44:18 AM TestDDL usrTest
+INFO: TimeTest : 860284
+Apr 12, 2016 11:44:18 AM TestDDL usrTest
+INFO: TimeTest : 860284
+Apr 12, 2016 11:44:18 AM TestDDL usrTest
+INFO: TimeTest : 860284
+Apr 12, 2016 11:44:18 AM TestDDL usrTest
+INFO: TestRuns :30
+Apr 12, 2016 11:44:18 AM TestDDL usrTest
+INFO: TestRuns :30
+Apr 12, 2016 11:44:18 AM TestDDL usrTest
+INFO: TestRuns :30
+Apr 12, 2016 11:44:18 AM TestDDL usrTest
+INFO: TestRuns :30
+Apr 12, 2016 11:44:18 AM TestDDL usrTest
+INFO: TestRuns :30
+Apr 12, 2016 11:44:18 AM TestDDL usrTest
+INFO: TestRuns :30
+Apr 12, 2016 11:44:18 AM TestDDL usrTest
+INFO: TestRuns :30
+Apr 12, 2016 11:44:18 AM TestDDL usrTest
+INFO: TestRuns :30
+Apr 12, 2016 11:44:18 AM TestDDL usrTest
+INFO: TestRuns :30
+Apr 12, 2016 11:44:18 AM TestDDL usrTest
+INFO: TestRuns :30
+Apr 12, 2016 11:44:18 AM TestDDL usrTest
+INFO: TestRuns :30
+Apr 12, 2016 11:44:18 AM TestDDL usrTest
+INFO: TestRuns :30
+Apr 12, 2016 11:44:18 AM TestDDL usrTest
+INFO: TestRuns :30
+Apr 12, 2016 11:44:18 AM TestDDL usrTest
+INFO: TestRuns :30
+Apr 12, 2016 11:44:18 AM TestDDL usrTest
+INFO: TestRuns :30
+Apr 12, 2016 11:44:18 AM TestDDL usrTest
+INFO: TestRuns :30
+Apr 12, 2016 11:44:18 AM TestDDL usrTest
+INFO: TestRuns :30
+Apr 12, 2016 11:44:18 AM TestDDL usrTest
+INFO: TestRuns :30
+Apr 12, 2016 11:44:18 AM TestDDL usrTest
+INFO: TestRuns :30
+Apr 12, 2016 11:44:18 AM TestDDL usrTest
+INFO: TestRuns :30
+Apr 12, 2016 11:44:18 AM TestDDL usrTest
+INFO: TestRuns :30
+Apr 12, 2016 11:44:18 AM TestDDL usrTest
+INFO: TestRuns :30
+Apr 12, 2016 11:44:18 AM TestDDL usrTest
+INFO: TestRuns :30
+Apr 12, 2016 11:44:18 AM TestDDL usrTest
+INFO: TestRuns :30
+Apr 12, 2016 11:44:18 AM TestDDL usrTest
+INFO: TestRuns :30
+Apr 12, 2016 11:44:18 AM TestDDL usrTest
+INFO: TestRuns :30
+Apr 12, 2016 11:44:18 AM TestDDL usrTest
+INFO: TestRuns :30
+Apr 12, 2016 11:44:18 AM TestDDL usrTest
+INFO: TestRuns :30
+Apr 12, 2016 11:44:18 AM TestDDL usrTest
+INFO: TestRuns :30
+Apr 12, 2016 11:44:18 AM TestDDL usrTest
+INFO: TestRuns :30
+Apr 12, 2016 11:44:19 AM TestDDL usrTest
+INFO: TimeTest : 644634
+Apr 12, 2016 11:44:19 AM TestDDL usrTest
+INFO: TimeTest : 644634
+Apr 12, 2016 11:44:19 AM TestDDL usrTest
+INFO: TimeTest : 644634
+Apr 12, 2016 11:44:19 AM TestDDL usrTest
+INFO: TimeTest : 644634
+Apr 12, 2016 11:44:19 AM TestDDL usrTest
+INFO: TimeTest : 644634
+Apr 12, 2016 11:44:19 AM TestDDL usrTest
+INFO: TimeTest : 644634
+Apr 12, 2016 11:44:19 AM TestDDL usrTest
+INFO: TimeTest : 644634
+Apr 12, 2016 11:44:19 AM TestDDL usrTest
+INFO: TimeTest : 644634
+Apr 12, 2016 11:44:19 AM TestDDL usrTest
+INFO: TimeTest : 644634
+Apr 12, 2016 11:44:19 AM TestDDL usrTest
+INFO: TimeTest : 644634
+Apr 12, 2016 11:44:19 AM TestDDL usrTest
+INFO: TimeTest : 644634
+Apr 12, 2016 11:44:19 AM TestDDL usrTest
+INFO: TimeTest : 644634
+Apr 12, 2016 11:44:19 AM TestDDL usrTest
+INFO: TimeTest : 644634
+Apr 12, 2016 11:44:19 AM TestDDL usrTest
+INFO: TimeTest : 644634
+Apr 12, 2016 11:44:19 AM TestDDL usrTest
+INFO: TimeTest : 644634
+Apr 12, 2016 11:44:19 AM TestDDL usrTest
+INFO: TimeTest : 644634
+Apr 12, 2016 11:44:19 AM TestDDL usrTest
+INFO: TimeTest : 644634
+Apr 12, 2016 11:44:19 AM TestDDL usrTest
+INFO: TimeTest : 644634
+Apr 12, 2016 11:44:19 AM TestDDL usrTest
+INFO: TimeTest : 644634
+Apr 12, 2016 11:44:19 AM TestDDL usrTest
+INFO: TimeTest : 644634
+Apr 12, 2016 11:44:19 AM TestDDL usrTest
+INFO: TimeTest : 644634
+Apr 12, 2016 11:44:19 AM TestDDL usrTest
+INFO: TimeTest : 644634
+Apr 12, 2016 11:44:19 AM TestDDL usrTest
+INFO: TimeTest : 644634
+Apr 12, 2016 11:44:19 AM TestDDL usrTest
+INFO: TimeTest : 644634
+Apr 12, 2016 11:44:19 AM TestDDL usrTest
+INFO: TimeTest : 644634
+Apr 12, 2016 11:44:19 AM TestDDL usrTest
+INFO: TimeTest : 644634
+Apr 12, 2016 11:44:19 AM TestDDL usrTest
+INFO: TimeTest : 644634
+Apr 12, 2016 11:44:19 AM TestDDL usrTest
+INFO: TimeTest : 644634
+Apr 12, 2016 11:44:19 AM TestDDL usrTest
+INFO: TimeTest : 644634
+Apr 12, 2016 11:44:19 AM TestDDL usrTest
+INFO: TimeTest : 644634
+Apr 12, 2016 11:44:19 AM TestDDL usrTest
+INFO: TimeTest : 644634
+Apr 12, 2016 11:44:19 AM TestDDL usrTest
+INFO: TestRuns :31
+Apr 12, 2016 11:44:19 AM TestDDL usrTest
+INFO: TestRuns :31
+Apr 12, 2016 11:44:19 AM TestDDL usrTest
+INFO: TestRuns :31
+Apr 12, 2016 11:44:19 AM TestDDL usrTest
+INFO: TestRuns :31
+Apr 12, 2016 11:44:19 AM TestDDL usrTest
+INFO: TestRuns :31
+Apr 12, 2016 11:44:19 AM TestDDL usrTest
+INFO: TestRuns :31
+Apr 12, 2016 11:44:19 AM TestDDL usrTest
+INFO: TestRuns :31
+Apr 12, 2016 11:44:19 AM TestDDL usrTest
+INFO: TestRuns :31
+Apr 12, 2016 11:44:19 AM TestDDL usrTest
+INFO: TestRuns :31
+Apr 12, 2016 11:44:19 AM TestDDL usrTest
+INFO: TestRuns :31
+Apr 12, 2016 11:44:19 AM TestDDL usrTest
+INFO: TestRuns :31
+Apr 12, 2016 11:44:19 AM TestDDL usrTest
+INFO: TestRuns :31
+Apr 12, 2016 11:44:19 AM TestDDL usrTest
+INFO: TestRuns :31
+Apr 12, 2016 11:44:19 AM TestDDL usrTest
+INFO: TestRuns :31
+Apr 12, 2016 11:44:19 AM TestDDL usrTest
+INFO: TestRuns :31
+Apr 12, 2016 11:44:19 AM TestDDL usrTest
+INFO: TestRuns :31
+Apr 12, 2016 11:44:19 AM TestDDL usrTest
+INFO: TestRuns :31
+Apr 12, 2016 11:44:19 AM TestDDL usrTest
+INFO: TestRuns :31
+Apr 12, 2016 11:44:19 AM TestDDL usrTest
+INFO: TestRuns :31
+Apr 12, 2016 11:44:19 AM TestDDL usrTest
+INFO: TestRuns :31
+Apr 12, 2016 11:44:19 AM TestDDL usrTest
+INFO: TestRuns :31
+Apr 12, 2016 11:44:19 AM TestDDL usrTest
+INFO: TestRuns :31
+Apr 12, 2016 11:44:19 AM TestDDL usrTest
+INFO: TestRuns :31
+Apr 12, 2016 11:44:19 AM TestDDL usrTest
+INFO: TestRuns :31
+Apr 12, 2016 11:44:19 AM TestDDL usrTest
+INFO: TestRuns :31
+Apr 12, 2016 11:44:19 AM TestDDL usrTest
+INFO: TestRuns :31
+Apr 12, 2016 11:44:19 AM TestDDL usrTest
+INFO: TestRuns :31
+Apr 12, 2016 11:44:19 AM TestDDL usrTest
+INFO: TestRuns :31
+Apr 12, 2016 11:44:19 AM TestDDL usrTest
+INFO: TestRuns :31
+Apr 12, 2016 11:44:19 AM TestDDL usrTest
+INFO: TestRuns :31
+Apr 12, 2016 11:44:19 AM TestDDL usrTest
+INFO: TestRuns :31
+Apr 12, 2016 11:44:19 AM DD_NonEx dd_helper
+INFO: 1Runs :32
+Apr 12, 2016 11:44:19 AM DD_NonEx dd_helper
+INFO: 1Size : 628
+Apr 12, 2016 11:44:20 AM TestDDL usrTest
+INFO: TimeTest : 756859
+Apr 12, 2016 11:44:20 AM TestDDL usrTest
+INFO: TimeTest : 756859
+Apr 12, 2016 11:44:20 AM TestDDL usrTest
+INFO: TimeTest : 756859
+Apr 12, 2016 11:44:20 AM TestDDL usrTest
+INFO: TimeTest : 756859
+Apr 12, 2016 11:44:20 AM TestDDL usrTest
+INFO: TimeTest : 756859
+Apr 12, 2016 11:44:20 AM TestDDL usrTest
+INFO: TimeTest : 756859
+Apr 12, 2016 11:44:20 AM TestDDL usrTest
+INFO: TimeTest : 756859
+Apr 12, 2016 11:44:20 AM TestDDL usrTest
+INFO: TimeTest : 756859
+Apr 12, 2016 11:44:20 AM TestDDL usrTest
+INFO: TimeTest : 756859
+Apr 12, 2016 11:44:20 AM TestDDL usrTest
+INFO: TimeTest : 756859
+Apr 12, 2016 11:44:20 AM TestDDL usrTest
+INFO: TimeTest : 756859
+Apr 12, 2016 11:44:20 AM TestDDL usrTest
+INFO: TimeTest : 756859
+Apr 12, 2016 11:44:20 AM TestDDL usrTest
+INFO: TimeTest : 756859
+Apr 12, 2016 11:44:20 AM TestDDL usrTest
+INFO: TimeTest : 756859
+Apr 12, 2016 11:44:20 AM TestDDL usrTest
+INFO: TimeTest : 756859
+Apr 12, 2016 11:44:20 AM TestDDL usrTest
+INFO: TimeTest : 756859
+Apr 12, 2016 11:44:20 AM TestDDL usrTest
+INFO: TimeTest : 756859
+Apr 12, 2016 11:44:20 AM TestDDL usrTest
+INFO: TimeTest : 756859
+Apr 12, 2016 11:44:20 AM TestDDL usrTest
+INFO: TimeTest : 756859
+Apr 12, 2016 11:44:20 AM TestDDL usrTest
+INFO: TimeTest : 756859
+Apr 12, 2016 11:44:20 AM TestDDL usrTest
+INFO: TimeTest : 756859
+Apr 12, 2016 11:44:20 AM TestDDL usrTest
+INFO: TimeTest : 756859
+Apr 12, 2016 11:44:20 AM TestDDL usrTest
+INFO: TimeTest : 756859
+Apr 12, 2016 11:44:20 AM TestDDL usrTest
+INFO: TimeTest : 756859
+Apr 12, 2016 11:44:20 AM TestDDL usrTest
+INFO: TimeTest : 756859
+Apr 12, 2016 11:44:20 AM TestDDL usrTest
+INFO: TimeTest : 756859
+Apr 12, 2016 11:44:20 AM TestDDL usrTest
+INFO: TimeTest : 756859
+Apr 12, 2016 11:44:20 AM TestDDL usrTest
+INFO: TimeTest : 756859
+Apr 12, 2016 11:44:20 AM TestDDL usrTest
+INFO: TimeTest : 756859
+Apr 12, 2016 11:44:20 AM TestDDL usrTest
+INFO: TimeTest : 756859
+Apr 12, 2016 11:44:20 AM TestDDL usrTest
+INFO: TimeTest : 756859
+Apr 12, 2016 11:44:20 AM TestDDL usrTest
+INFO: TimeTest : 756859
+Apr 12, 2016 11:44:20 AM TestDDL usrTest
+INFO: TestRuns :32
+Apr 12, 2016 11:44:20 AM TestDDL usrTest
+INFO: TestRuns :32
+Apr 12, 2016 11:44:20 AM TestDDL usrTest
+INFO: TestRuns :32
+Apr 12, 2016 11:44:20 AM TestDDL usrTest
+INFO: TestRuns :32
+Apr 12, 2016 11:44:20 AM TestDDL usrTest
+INFO: TestRuns :32
+Apr 12, 2016 11:44:20 AM TestDDL usrTest
+INFO: TestRuns :32
+Apr 12, 2016 11:44:20 AM TestDDL usrTest
+INFO: TestRuns :32
+Apr 12, 2016 11:44:20 AM TestDDL usrTest
+INFO: TestRuns :32
+Apr 12, 2016 11:44:20 AM TestDDL usrTest
+INFO: TestRuns :32
+Apr 12, 2016 11:44:20 AM TestDDL usrTest
+INFO: TestRuns :32
+Apr 12, 2016 11:44:20 AM TestDDL usrTest
+INFO: TestRuns :32
+Apr 12, 2016 11:44:20 AM TestDDL usrTest
+INFO: TestRuns :32
+Apr 12, 2016 11:44:20 AM TestDDL usrTest
+INFO: TestRuns :32
+Apr 12, 2016 11:44:20 AM TestDDL usrTest
+INFO: TestRuns :32
+Apr 12, 2016 11:44:20 AM TestDDL usrTest
+INFO: TestRuns :32
+Apr 12, 2016 11:44:20 AM TestDDL usrTest
+INFO: TestRuns :32
+Apr 12, 2016 11:44:20 AM TestDDL usrTest
+INFO: TestRuns :32
+Apr 12, 2016 11:44:20 AM TestDDL usrTest
+INFO: TestRuns :32
+Apr 12, 2016 11:44:20 AM TestDDL usrTest
+INFO: TestRuns :32
+Apr 12, 2016 11:44:20 AM TestDDL usrTest
+INFO: TestRuns :32
+Apr 12, 2016 11:44:20 AM TestDDL usrTest
+INFO: TestRuns :32
+Apr 12, 2016 11:44:20 AM TestDDL usrTest
+INFO: TestRuns :32
+Apr 12, 2016 11:44:20 AM TestDDL usrTest
+INFO: TestRuns :32
+Apr 12, 2016 11:44:20 AM TestDDL usrTest
+INFO: TestRuns :32
+Apr 12, 2016 11:44:20 AM TestDDL usrTest
+INFO: TestRuns :32
+Apr 12, 2016 11:44:20 AM TestDDL usrTest
+INFO: TestRuns :32
+Apr 12, 2016 11:44:20 AM TestDDL usrTest
+INFO: TestRuns :32
+Apr 12, 2016 11:44:20 AM TestDDL usrTest
+INFO: TestRuns :32
+Apr 12, 2016 11:44:20 AM TestDDL usrTest
+INFO: TestRuns :32
+Apr 12, 2016 11:44:20 AM TestDDL usrTest
+INFO: TestRuns :32
+Apr 12, 2016 11:44:20 AM TestDDL usrTest
+INFO: TestRuns :32
+Apr 12, 2016 11:44:20 AM TestDDL usrTest
+INFO: TestRuns :32
+Apr 12, 2016 11:44:20 AM TestDDL usrTest
+INFO: TimeTest : 596805
+Apr 12, 2016 11:44:20 AM TestDDL usrTest
+INFO: TimeTest : 596805
+Apr 12, 2016 11:44:20 AM TestDDL usrTest
+INFO: TimeTest : 596805
+Apr 12, 2016 11:44:20 AM TestDDL usrTest
+INFO: TimeTest : 596805
+Apr 12, 2016 11:44:20 AM TestDDL usrTest
+INFO: TimeTest : 596805
+Apr 12, 2016 11:44:20 AM TestDDL usrTest
+INFO: TimeTest : 596805
+Apr 12, 2016 11:44:20 AM TestDDL usrTest
+INFO: TimeTest : 596805
+Apr 12, 2016 11:44:20 AM TestDDL usrTest
+INFO: TimeTest : 596805
+Apr 12, 2016 11:44:20 AM TestDDL usrTest
+INFO: TimeTest : 596805
+Apr 12, 2016 11:44:20 AM TestDDL usrTest
+INFO: TimeTest : 596805
+Apr 12, 2016 11:44:20 AM TestDDL usrTest
+INFO: TimeTest : 596805
+Apr 12, 2016 11:44:20 AM TestDDL usrTest
+INFO: TimeTest : 596805
+Apr 12, 2016 11:44:20 AM TestDDL usrTest
+INFO: TimeTest : 596805
+Apr 12, 2016 11:44:20 AM TestDDL usrTest
+INFO: TimeTest : 596805
+Apr 12, 2016 11:44:20 AM TestDDL usrTest
+INFO: TimeTest : 596805
+Apr 12, 2016 11:44:20 AM TestDDL usrTest
+INFO: TimeTest : 596805
+Apr 12, 2016 11:44:20 AM TestDDL usrTest
+INFO: TimeTest : 596805
+Apr 12, 2016 11:44:20 AM TestDDL usrTest
+INFO: TimeTest : 596805
+Apr 12, 2016 11:44:20 AM TestDDL usrTest
+INFO: TimeTest : 596805
+Apr 12, 2016 11:44:20 AM TestDDL usrTest
+INFO: TimeTest : 596805
+Apr 12, 2016 11:44:20 AM TestDDL usrTest
+INFO: TimeTest : 596805
+Apr 12, 2016 11:44:20 AM TestDDL usrTest
+INFO: TimeTest : 596805
+Apr 12, 2016 11:44:20 AM TestDDL usrTest
+INFO: TimeTest : 596805
+Apr 12, 2016 11:44:20 AM TestDDL usrTest
+INFO: TimeTest : 596805
+Apr 12, 2016 11:44:20 AM TestDDL usrTest
+INFO: TimeTest : 596805
+Apr 12, 2016 11:44:20 AM TestDDL usrTest
+INFO: TimeTest : 596805
+Apr 12, 2016 11:44:20 AM TestDDL usrTest
+INFO: TimeTest : 596805
+Apr 12, 2016 11:44:20 AM TestDDL usrTest
+INFO: TimeTest : 596805
+Apr 12, 2016 11:44:20 AM TestDDL usrTest
+INFO: TimeTest : 596805
+Apr 12, 2016 11:44:20 AM TestDDL usrTest
+INFO: TimeTest : 596805
+Apr 12, 2016 11:44:20 AM TestDDL usrTest
+INFO: TimeTest : 596805
+Apr 12, 2016 11:44:20 AM TestDDL usrTest
+INFO: TimeTest : 596805
+Apr 12, 2016 11:44:20 AM TestDDL usrTest
+INFO: TimeTest : 596805
+Apr 12, 2016 11:44:20 AM TestDDL usrTest
+INFO: TestRuns :33
+Apr 12, 2016 11:44:20 AM TestDDL usrTest
+INFO: TestRuns :33
+Apr 12, 2016 11:44:20 AM TestDDL usrTest
+INFO: TestRuns :33
+Apr 12, 2016 11:44:20 AM TestDDL usrTest
+INFO: TestRuns :33
+Apr 12, 2016 11:44:20 AM TestDDL usrTest
+INFO: TestRuns :33
+Apr 12, 2016 11:44:20 AM TestDDL usrTest
+INFO: TestRuns :33
+Apr 12, 2016 11:44:20 AM TestDDL usrTest
+INFO: TestRuns :33
+Apr 12, 2016 11:44:20 AM TestDDL usrTest
+INFO: TestRuns :33
+Apr 12, 2016 11:44:20 AM TestDDL usrTest
+INFO: TestRuns :33
+Apr 12, 2016 11:44:20 AM TestDDL usrTest
+INFO: TestRuns :33
+Apr 12, 2016 11:44:20 AM TestDDL usrTest
+INFO: TestRuns :33
+Apr 12, 2016 11:44:20 AM TestDDL usrTest
+INFO: TestRuns :33
+Apr 12, 2016 11:44:20 AM TestDDL usrTest
+INFO: TestRuns :33
+Apr 12, 2016 11:44:20 AM TestDDL usrTest
+INFO: TestRuns :33
+Apr 12, 2016 11:44:20 AM TestDDL usrTest
+INFO: TestRuns :33
+Apr 12, 2016 11:44:20 AM TestDDL usrTest
+INFO: TestRuns :33
+Apr 12, 2016 11:44:20 AM TestDDL usrTest
+INFO: TestRuns :33
+Apr 12, 2016 11:44:20 AM TestDDL usrTest
+INFO: TestRuns :33
+Apr 12, 2016 11:44:20 AM TestDDL usrTest
+INFO: TestRuns :33
+Apr 12, 2016 11:44:20 AM TestDDL usrTest
+INFO: TestRuns :33
+Apr 12, 2016 11:44:20 AM TestDDL usrTest
+INFO: TestRuns :33
+Apr 12, 2016 11:44:20 AM TestDDL usrTest
+INFO: TestRuns :33
+Apr 12, 2016 11:44:20 AM TestDDL usrTest
+INFO: TestRuns :33
+Apr 12, 2016 11:44:20 AM TestDDL usrTest
+INFO: TestRuns :33
+Apr 12, 2016 11:44:20 AM TestDDL usrTest
+INFO: TestRuns :33
+Apr 12, 2016 11:44:20 AM TestDDL usrTest
+INFO: TestRuns :33
+Apr 12, 2016 11:44:20 AM TestDDL usrTest
+INFO: TestRuns :33
+Apr 12, 2016 11:44:20 AM TestDDL usrTest
+INFO: TestRuns :33
+Apr 12, 2016 11:44:20 AM TestDDL usrTest
+INFO: TestRuns :33
+Apr 12, 2016 11:44:20 AM TestDDL usrTest
+INFO: TestRuns :33
+Apr 12, 2016 11:44:20 AM TestDDL usrTest
+INFO: TestRuns :33
+Apr 12, 2016 11:44:20 AM TestDDL usrTest
+INFO: TestRuns :33
+Apr 12, 2016 11:44:20 AM TestDDL usrTest
+INFO: TestRuns :33
+Apr 12, 2016 11:44:21 AM TestDDL usrTest
+INFO: TimeTest : 629978
+Apr 12, 2016 11:44:21 AM TestDDL usrTest
+INFO: TimeTest : 629978
+Apr 12, 2016 11:44:21 AM TestDDL usrTest
+INFO: TimeTest : 629978
+Apr 12, 2016 11:44:21 AM TestDDL usrTest
+INFO: TimeTest : 629978
+Apr 12, 2016 11:44:21 AM TestDDL usrTest
+INFO: TimeTest : 629978
+Apr 12, 2016 11:44:21 AM TestDDL usrTest
+INFO: TimeTest : 629978
+Apr 12, 2016 11:44:21 AM TestDDL usrTest
+INFO: TimeTest : 629978
+Apr 12, 2016 11:44:21 AM TestDDL usrTest
+INFO: TimeTest : 629978
+Apr 12, 2016 11:44:21 AM TestDDL usrTest
+INFO: TimeTest : 629978
+Apr 12, 2016 11:44:21 AM TestDDL usrTest
+INFO: TimeTest : 629978
+Apr 12, 2016 11:44:21 AM TestDDL usrTest
+INFO: TimeTest : 629978
+Apr 12, 2016 11:44:21 AM TestDDL usrTest
+INFO: TimeTest : 629978
+Apr 12, 2016 11:44:21 AM TestDDL usrTest
+INFO: TimeTest : 629978
+Apr 12, 2016 11:44:21 AM TestDDL usrTest
+INFO: TimeTest : 629978
+Apr 12, 2016 11:44:21 AM TestDDL usrTest
+INFO: TimeTest : 629978
+Apr 12, 2016 11:44:21 AM TestDDL usrTest
+INFO: TimeTest : 629978
+Apr 12, 2016 11:44:21 AM TestDDL usrTest
+INFO: TimeTest : 629978
+Apr 12, 2016 11:44:21 AM TestDDL usrTest
+INFO: TimeTest : 629978
+Apr 12, 2016 11:44:21 AM TestDDL usrTest
+INFO: TimeTest : 629978
+Apr 12, 2016 11:44:21 AM TestDDL usrTest
+INFO: TimeTest : 629978
+Apr 12, 2016 11:44:21 AM TestDDL usrTest
+INFO: TimeTest : 629978
+Apr 12, 2016 11:44:21 AM TestDDL usrTest
+INFO: TimeTest : 629978
+Apr 12, 2016 11:44:21 AM TestDDL usrTest
+INFO: TimeTest : 629978
+Apr 12, 2016 11:44:21 AM TestDDL usrTest
+INFO: TimeTest : 629978
+Apr 12, 2016 11:44:21 AM TestDDL usrTest
+INFO: TimeTest : 629978
+Apr 12, 2016 11:44:21 AM TestDDL usrTest
+INFO: TimeTest : 629978
+Apr 12, 2016 11:44:21 AM TestDDL usrTest
+INFO: TimeTest : 629978
+Apr 12, 2016 11:44:21 AM TestDDL usrTest
+INFO: TimeTest : 629978
+Apr 12, 2016 11:44:21 AM TestDDL usrTest
+INFO: TimeTest : 629978
+Apr 12, 2016 11:44:21 AM TestDDL usrTest
+INFO: TimeTest : 629978
+Apr 12, 2016 11:44:21 AM TestDDL usrTest
+INFO: TimeTest : 629978
+Apr 12, 2016 11:44:21 AM TestDDL usrTest
+INFO: TimeTest : 629978
+Apr 12, 2016 11:44:21 AM TestDDL usrTest
+INFO: TimeTest : 629978
+Apr 12, 2016 11:44:21 AM TestDDL usrTest
+INFO: TimeTest : 629978
+Apr 12, 2016 11:44:21 AM TestDDL usrTest
+INFO: TestRuns :34
+Apr 12, 2016 11:44:21 AM TestDDL usrTest
+INFO: TestRuns :34
+Apr 12, 2016 11:44:21 AM TestDDL usrTest
+INFO: TestRuns :34
+Apr 12, 2016 11:44:21 AM TestDDL usrTest
+INFO: TestRuns :34
+Apr 12, 2016 11:44:21 AM TestDDL usrTest
+INFO: TestRuns :34
+Apr 12, 2016 11:44:21 AM TestDDL usrTest
+INFO: TestRuns :34
+Apr 12, 2016 11:44:21 AM TestDDL usrTest
+INFO: TestRuns :34
+Apr 12, 2016 11:44:21 AM TestDDL usrTest
+INFO: TestRuns :34
+Apr 12, 2016 11:44:21 AM TestDDL usrTest
+INFO: TestRuns :34
+Apr 12, 2016 11:44:21 AM TestDDL usrTest
+INFO: TestRuns :34
+Apr 12, 2016 11:44:21 AM TestDDL usrTest
+INFO: TestRuns :34
+Apr 12, 2016 11:44:21 AM TestDDL usrTest
+INFO: TestRuns :34
+Apr 12, 2016 11:44:21 AM TestDDL usrTest
+INFO: TestRuns :34
+Apr 12, 2016 11:44:21 AM TestDDL usrTest
+INFO: TestRuns :34
+Apr 12, 2016 11:44:21 AM TestDDL usrTest
+INFO: TestRuns :34
+Apr 12, 2016 11:44:21 AM TestDDL usrTest
+INFO: TestRuns :34
+Apr 12, 2016 11:44:21 AM TestDDL usrTest
+INFO: TestRuns :34
+Apr 12, 2016 11:44:21 AM TestDDL usrTest
+INFO: TestRuns :34
+Apr 12, 2016 11:44:21 AM TestDDL usrTest
+INFO: TestRuns :34
+Apr 12, 2016 11:44:21 AM TestDDL usrTest
+INFO: TestRuns :34
+Apr 12, 2016 11:44:21 AM TestDDL usrTest
+INFO: TestRuns :34
+Apr 12, 2016 11:44:21 AM TestDDL usrTest
+INFO: TestRuns :34
+Apr 12, 2016 11:44:21 AM TestDDL usrTest
+INFO: TestRuns :34
+Apr 12, 2016 11:44:21 AM TestDDL usrTest
+INFO: TestRuns :34
+Apr 12, 2016 11:44:21 AM TestDDL usrTest
+INFO: TestRuns :34
+Apr 12, 2016 11:44:21 AM TestDDL usrTest
+INFO: TestRuns :34
+Apr 12, 2016 11:44:21 AM TestDDL usrTest
+INFO: TestRuns :34
+Apr 12, 2016 11:44:21 AM TestDDL usrTest
+INFO: TestRuns :34
+Apr 12, 2016 11:44:21 AM TestDDL usrTest
+INFO: TestRuns :34
+Apr 12, 2016 11:44:21 AM TestDDL usrTest
+INFO: TestRuns :34
+Apr 12, 2016 11:44:21 AM TestDDL usrTest
+INFO: TestRuns :34
+Apr 12, 2016 11:44:21 AM TestDDL usrTest
+INFO: TestRuns :34
+Apr 12, 2016 11:44:21 AM TestDDL usrTest
+INFO: TestRuns :34
+Apr 12, 2016 11:44:21 AM TestDDL usrTest
+INFO: TestRuns :34
+Apr 12, 2016 11:44:22 AM DD_NonEx dd_helper
+INFO: 1Runs :35
+Apr 12, 2016 11:44:22 AM DD_NonEx dd_helper
+INFO: 1Size : 298
+Apr 12, 2016 11:44:22 AM TestDDL usrTest
+INFO: TimeTest : 652173
+Apr 12, 2016 11:44:22 AM TestDDL usrTest
+INFO: TimeTest : 652173
+Apr 12, 2016 11:44:22 AM TestDDL usrTest
+INFO: TimeTest : 652173
+Apr 12, 2016 11:44:22 AM TestDDL usrTest
+INFO: TimeTest : 652173
+Apr 12, 2016 11:44:22 AM TestDDL usrTest
+INFO: TimeTest : 652173
+Apr 12, 2016 11:44:22 AM TestDDL usrTest
+INFO: TimeTest : 652173
+Apr 12, 2016 11:44:22 AM TestDDL usrTest
+INFO: TimeTest : 652173
+Apr 12, 2016 11:44:22 AM TestDDL usrTest
+INFO: TimeTest : 652173
+Apr 12, 2016 11:44:22 AM TestDDL usrTest
+INFO: TimeTest : 652173
+Apr 12, 2016 11:44:22 AM TestDDL usrTest
+INFO: TimeTest : 652173
+Apr 12, 2016 11:44:22 AM TestDDL usrTest
+INFO: TimeTest : 652173
+Apr 12, 2016 11:44:22 AM TestDDL usrTest
+INFO: TimeTest : 652173
+Apr 12, 2016 11:44:22 AM TestDDL usrTest
+INFO: TimeTest : 652173
+Apr 12, 2016 11:44:22 AM TestDDL usrTest
+INFO: TimeTest : 652173
+Apr 12, 2016 11:44:22 AM TestDDL usrTest
+INFO: TimeTest : 652173
+Apr 12, 2016 11:44:22 AM TestDDL usrTest
+INFO: TimeTest : 652173
+Apr 12, 2016 11:44:22 AM TestDDL usrTest
+INFO: TimeTest : 652173
+Apr 12, 2016 11:44:22 AM TestDDL usrTest
+INFO: TimeTest : 652173
+Apr 12, 2016 11:44:22 AM TestDDL usrTest
+INFO: TimeTest : 652173
+Apr 12, 2016 11:44:22 AM TestDDL usrTest
+INFO: TimeTest : 652173
+Apr 12, 2016 11:44:22 AM TestDDL usrTest
+INFO: TimeTest : 652173
+Apr 12, 2016 11:44:22 AM TestDDL usrTest
+INFO: TimeTest : 652173
+Apr 12, 2016 11:44:22 AM TestDDL usrTest
+INFO: TimeTest : 652173
+Apr 12, 2016 11:44:22 AM TestDDL usrTest
+INFO: TimeTest : 652173
+Apr 12, 2016 11:44:22 AM TestDDL usrTest
+INFO: TimeTest : 652173
+Apr 12, 2016 11:44:22 AM TestDDL usrTest
+INFO: TimeTest : 652173
+Apr 12, 2016 11:44:22 AM TestDDL usrTest
+INFO: TimeTest : 652173
+Apr 12, 2016 11:44:22 AM TestDDL usrTest
+INFO: TimeTest : 652173
+Apr 12, 2016 11:44:22 AM TestDDL usrTest
+INFO: TimeTest : 652173
+Apr 12, 2016 11:44:22 AM TestDDL usrTest
+INFO: TimeTest : 652173
+Apr 12, 2016 11:44:22 AM TestDDL usrTest
+INFO: TimeTest : 652173
+Apr 12, 2016 11:44:22 AM TestDDL usrTest
+INFO: TimeTest : 652173
+Apr 12, 2016 11:44:22 AM TestDDL usrTest
+INFO: TimeTest : 652173
+Apr 12, 2016 11:44:22 AM TestDDL usrTest
+INFO: TimeTest : 652173
+Apr 12, 2016 11:44:22 AM TestDDL usrTest
+INFO: TimeTest : 652173
+Apr 12, 2016 11:44:22 AM TestDDL usrTest
+INFO: TestRuns :35
+Apr 12, 2016 11:44:22 AM TestDDL usrTest
+INFO: TestRuns :35
+Apr 12, 2016 11:44:22 AM TestDDL usrTest
+INFO: TestRuns :35
+Apr 12, 2016 11:44:22 AM TestDDL usrTest
+INFO: TestRuns :35
+Apr 12, 2016 11:44:22 AM TestDDL usrTest
+INFO: TestRuns :35
+Apr 12, 2016 11:44:22 AM TestDDL usrTest
+INFO: TestRuns :35
+Apr 12, 2016 11:44:22 AM TestDDL usrTest
+INFO: TestRuns :35
+Apr 12, 2016 11:44:22 AM TestDDL usrTest
+INFO: TestRuns :35
+Apr 12, 2016 11:44:22 AM TestDDL usrTest
+INFO: TestRuns :35
+Apr 12, 2016 11:44:22 AM TestDDL usrTest
+INFO: TestRuns :35
+Apr 12, 2016 11:44:22 AM TestDDL usrTest
+INFO: TestRuns :35
+Apr 12, 2016 11:44:22 AM TestDDL usrTest
+INFO: TestRuns :35
+Apr 12, 2016 11:44:22 AM TestDDL usrTest
+INFO: TestRuns :35
+Apr 12, 2016 11:44:22 AM TestDDL usrTest
+INFO: TestRuns :35
+Apr 12, 2016 11:44:22 AM TestDDL usrTest
+INFO: TestRuns :35
+Apr 12, 2016 11:44:22 AM TestDDL usrTest
+INFO: TestRuns :35
+Apr 12, 2016 11:44:22 AM TestDDL usrTest
+INFO: TestRuns :35
+Apr 12, 2016 11:44:22 AM TestDDL usrTest
+INFO: TestRuns :35
+Apr 12, 2016 11:44:22 AM TestDDL usrTest
+INFO: TestRuns :35
+Apr 12, 2016 11:44:22 AM TestDDL usrTest
+INFO: TestRuns :35
+Apr 12, 2016 11:44:22 AM TestDDL usrTest
+INFO: TestRuns :35
+Apr 12, 2016 11:44:22 AM TestDDL usrTest
+INFO: TestRuns :35
+Apr 12, 2016 11:44:22 AM TestDDL usrTest
+INFO: TestRuns :35
+Apr 12, 2016 11:44:22 AM TestDDL usrTest
+INFO: TestRuns :35
+Apr 12, 2016 11:44:22 AM TestDDL usrTest
+INFO: TestRuns :35
+Apr 12, 2016 11:44:22 AM TestDDL usrTest
+INFO: TestRuns :35
+Apr 12, 2016 11:44:22 AM TestDDL usrTest
+INFO: TestRuns :35
+Apr 12, 2016 11:44:22 AM TestDDL usrTest
+INFO: TestRuns :35
+Apr 12, 2016 11:44:22 AM TestDDL usrTest
+INFO: TestRuns :35
+Apr 12, 2016 11:44:22 AM TestDDL usrTest
+INFO: TestRuns :35
+Apr 12, 2016 11:44:22 AM TestDDL usrTest
+INFO: TestRuns :35
+Apr 12, 2016 11:44:22 AM TestDDL usrTest
+INFO: TestRuns :35
+Apr 12, 2016 11:44:22 AM TestDDL usrTest
+INFO: TestRuns :35
+Apr 12, 2016 11:44:22 AM TestDDL usrTest
+INFO: TestRuns :35
+Apr 12, 2016 11:44:22 AM TestDDL usrTest
+INFO: TestRuns :35
+Apr 12, 2016 11:44:23 AM TestDDL usrTest
+INFO: TimeTest : 751642
+Apr 12, 2016 11:44:23 AM TestDDL usrTest
+INFO: TimeTest : 751642
+Apr 12, 2016 11:44:23 AM TestDDL usrTest
+INFO: TimeTest : 751642
+Apr 12, 2016 11:44:23 AM TestDDL usrTest
+INFO: TimeTest : 751642
+Apr 12, 2016 11:44:23 AM TestDDL usrTest
+INFO: TimeTest : 751642
+Apr 12, 2016 11:44:23 AM TestDDL usrTest
+INFO: TimeTest : 751642
+Apr 12, 2016 11:44:23 AM TestDDL usrTest
+INFO: TimeTest : 751642
+Apr 12, 2016 11:44:23 AM TestDDL usrTest
+INFO: TimeTest : 751642
+Apr 12, 2016 11:44:23 AM TestDDL usrTest
+INFO: TimeTest : 751642
+Apr 12, 2016 11:44:23 AM TestDDL usrTest
+INFO: TimeTest : 751642
+Apr 12, 2016 11:44:23 AM TestDDL usrTest
+INFO: TimeTest : 751642
+Apr 12, 2016 11:44:23 AM TestDDL usrTest
+INFO: TimeTest : 751642
+Apr 12, 2016 11:44:23 AM TestDDL usrTest
+INFO: TimeTest : 751642
+Apr 12, 2016 11:44:23 AM TestDDL usrTest
+INFO: TimeTest : 751642
+Apr 12, 2016 11:44:23 AM TestDDL usrTest
+INFO: TimeTest : 751642
+Apr 12, 2016 11:44:23 AM TestDDL usrTest
+INFO: TimeTest : 751642
+Apr 12, 2016 11:44:23 AM TestDDL usrTest
+INFO: TimeTest : 751642
+Apr 12, 2016 11:44:23 AM TestDDL usrTest
+INFO: TimeTest : 751642
+Apr 12, 2016 11:44:23 AM TestDDL usrTest
+INFO: TimeTest : 751642
+Apr 12, 2016 11:44:23 AM TestDDL usrTest
+INFO: TimeTest : 751642
+Apr 12, 2016 11:44:23 AM TestDDL usrTest
+INFO: TimeTest : 751642
+Apr 12, 2016 11:44:23 AM TestDDL usrTest
+INFO: TimeTest : 751642
+Apr 12, 2016 11:44:23 AM TestDDL usrTest
+INFO: TimeTest : 751642
+Apr 12, 2016 11:44:23 AM TestDDL usrTest
+INFO: TimeTest : 751642
+Apr 12, 2016 11:44:23 AM TestDDL usrTest
+INFO: TimeTest : 751642
+Apr 12, 2016 11:44:23 AM TestDDL usrTest
+INFO: TimeTest : 751642
+Apr 12, 2016 11:44:23 AM TestDDL usrTest
+INFO: TimeTest : 751642
+Apr 12, 2016 11:44:23 AM TestDDL usrTest
+INFO: TimeTest : 751642
+Apr 12, 2016 11:44:23 AM TestDDL usrTest
+INFO: TimeTest : 751642
+Apr 12, 2016 11:44:23 AM TestDDL usrTest
+INFO: TimeTest : 751642
+Apr 12, 2016 11:44:23 AM TestDDL usrTest
+INFO: TimeTest : 751642
+Apr 12, 2016 11:44:23 AM TestDDL usrTest
+INFO: TimeTest : 751642
+Apr 12, 2016 11:44:23 AM TestDDL usrTest
+INFO: TimeTest : 751642
+Apr 12, 2016 11:44:23 AM TestDDL usrTest
+INFO: TimeTest : 751642
+Apr 12, 2016 11:44:23 AM TestDDL usrTest
+INFO: TimeTest : 751642
+Apr 12, 2016 11:44:23 AM TestDDL usrTest
+INFO: TimeTest : 751642
+Apr 12, 2016 11:44:23 AM TestDDL usrTest
+INFO: TestRuns :36
+Apr 12, 2016 11:44:23 AM TestDDL usrTest
+INFO: TestRuns :36
+Apr 12, 2016 11:44:23 AM TestDDL usrTest
+INFO: TestRuns :36
+Apr 12, 2016 11:44:23 AM TestDDL usrTest
+INFO: TestRuns :36
+Apr 12, 2016 11:44:23 AM TestDDL usrTest
+INFO: TestRuns :36
+Apr 12, 2016 11:44:23 AM TestDDL usrTest
+INFO: TestRuns :36
+Apr 12, 2016 11:44:23 AM TestDDL usrTest
+INFO: TestRuns :36
+Apr 12, 2016 11:44:23 AM TestDDL usrTest
+INFO: TestRuns :36
+Apr 12, 2016 11:44:23 AM TestDDL usrTest
+INFO: TestRuns :36
+Apr 12, 2016 11:44:23 AM TestDDL usrTest
+INFO: TestRuns :36
+Apr 12, 2016 11:44:23 AM TestDDL usrTest
+INFO: TestRuns :36
+Apr 12, 2016 11:44:23 AM TestDDL usrTest
+INFO: TestRuns :36
+Apr 12, 2016 11:44:23 AM TestDDL usrTest
+INFO: TestRuns :36
+Apr 12, 2016 11:44:23 AM TestDDL usrTest
+INFO: TestRuns :36
+Apr 12, 2016 11:44:23 AM TestDDL usrTest
+INFO: TestRuns :36
+Apr 12, 2016 11:44:23 AM TestDDL usrTest
+INFO: TestRuns :36
+Apr 12, 2016 11:44:23 AM TestDDL usrTest
+INFO: TestRuns :36
+Apr 12, 2016 11:44:23 AM TestDDL usrTest
+INFO: TestRuns :36
+Apr 12, 2016 11:44:23 AM TestDDL usrTest
+INFO: TestRuns :36
+Apr 12, 2016 11:44:23 AM TestDDL usrTest
+INFO: TestRuns :36
+Apr 12, 2016 11:44:23 AM TestDDL usrTest
+INFO: TestRuns :36
+Apr 12, 2016 11:44:23 AM TestDDL usrTest
+INFO: TestRuns :36
+Apr 12, 2016 11:44:23 AM TestDDL usrTest
+INFO: TestRuns :36
+Apr 12, 2016 11:44:23 AM TestDDL usrTest
+INFO: TestRuns :36
+Apr 12, 2016 11:44:23 AM TestDDL usrTest
+INFO: TestRuns :36
+Apr 12, 2016 11:44:23 AM TestDDL usrTest
+INFO: TestRuns :36
+Apr 12, 2016 11:44:23 AM TestDDL usrTest
+INFO: TestRuns :36
+Apr 12, 2016 11:44:23 AM TestDDL usrTest
+INFO: TestRuns :36
+Apr 12, 2016 11:44:23 AM TestDDL usrTest
+INFO: TestRuns :36
+Apr 12, 2016 11:44:23 AM TestDDL usrTest
+INFO: TestRuns :36
+Apr 12, 2016 11:44:23 AM TestDDL usrTest
+INFO: TestRuns :36
+Apr 12, 2016 11:44:23 AM TestDDL usrTest
+INFO: TestRuns :36
+Apr 12, 2016 11:44:23 AM TestDDL usrTest
+INFO: TestRuns :36
+Apr 12, 2016 11:44:23 AM TestDDL usrTest
+INFO: TestRuns :36
+Apr 12, 2016 11:44:23 AM TestDDL usrTest
+INFO: TestRuns :36
+Apr 12, 2016 11:44:23 AM TestDDL usrTest
+INFO: TestRuns :36
+Apr 12, 2016 11:44:24 AM TestDDL usrTest
+INFO: TimeTest : 623984
+Apr 12, 2016 11:44:24 AM TestDDL usrTest
+INFO: TimeTest : 623984
+Apr 12, 2016 11:44:24 AM TestDDL usrTest
+INFO: TimeTest : 623984
+Apr 12, 2016 11:44:24 AM TestDDL usrTest
+INFO: TimeTest : 623984
+Apr 12, 2016 11:44:24 AM TestDDL usrTest
+INFO: TimeTest : 623984
+Apr 12, 2016 11:44:24 AM TestDDL usrTest
+INFO: TimeTest : 623984
+Apr 12, 2016 11:44:24 AM TestDDL usrTest
+INFO: TimeTest : 623984
+Apr 12, 2016 11:44:24 AM TestDDL usrTest
+INFO: TimeTest : 623984
+Apr 12, 2016 11:44:24 AM TestDDL usrTest
+INFO: TimeTest : 623984
+Apr 12, 2016 11:44:24 AM TestDDL usrTest
+INFO: TimeTest : 623984
+Apr 12, 2016 11:44:24 AM TestDDL usrTest
+INFO: TimeTest : 623984
+Apr 12, 2016 11:44:24 AM TestDDL usrTest
+INFO: TimeTest : 623984
+Apr 12, 2016 11:44:24 AM TestDDL usrTest
+INFO: TimeTest : 623984
+Apr 12, 2016 11:44:24 AM TestDDL usrTest
+INFO: TimeTest : 623984
+Apr 12, 2016 11:44:24 AM TestDDL usrTest
+INFO: TimeTest : 623984
+Apr 12, 2016 11:44:24 AM TestDDL usrTest
+INFO: TimeTest : 623984
+Apr 12, 2016 11:44:24 AM TestDDL usrTest
+INFO: TimeTest : 623984
+Apr 12, 2016 11:44:24 AM TestDDL usrTest
+INFO: TimeTest : 623984
+Apr 12, 2016 11:44:24 AM TestDDL usrTest
+INFO: TimeTest : 623984
+Apr 12, 2016 11:44:24 AM TestDDL usrTest
+INFO: TimeTest : 623984
+Apr 12, 2016 11:44:24 AM TestDDL usrTest
+INFO: TimeTest : 623984
+Apr 12, 2016 11:44:24 AM TestDDL usrTest
+INFO: TimeTest : 623984
+Apr 12, 2016 11:44:24 AM TestDDL usrTest
+INFO: TimeTest : 623984
+Apr 12, 2016 11:44:24 AM TestDDL usrTest
+INFO: TimeTest : 623984
+Apr 12, 2016 11:44:24 AM TestDDL usrTest
+INFO: TimeTest : 623984
+Apr 12, 2016 11:44:24 AM TestDDL usrTest
+INFO: TimeTest : 623984
+Apr 12, 2016 11:44:24 AM TestDDL usrTest
+INFO: TimeTest : 623984
+Apr 12, 2016 11:44:24 AM TestDDL usrTest
+INFO: TimeTest : 623984
+Apr 12, 2016 11:44:24 AM TestDDL usrTest
+INFO: TimeTest : 623984
+Apr 12, 2016 11:44:24 AM TestDDL usrTest
+INFO: TimeTest : 623984
+Apr 12, 2016 11:44:24 AM TestDDL usrTest
+INFO: TimeTest : 623984
+Apr 12, 2016 11:44:24 AM TestDDL usrTest
+INFO: TimeTest : 623984
+Apr 12, 2016 11:44:24 AM TestDDL usrTest
+INFO: TimeTest : 623984
+Apr 12, 2016 11:44:24 AM TestDDL usrTest
+INFO: TimeTest : 623984
+Apr 12, 2016 11:44:24 AM TestDDL usrTest
+INFO: TimeTest : 623984
+Apr 12, 2016 11:44:24 AM TestDDL usrTest
+INFO: TimeTest : 623984
+Apr 12, 2016 11:44:24 AM TestDDL usrTest
+INFO: TimeTest : 623984
+Apr 12, 2016 11:44:24 AM TestDDL usrTest
+INFO: TestRuns :37
+Apr 12, 2016 11:44:24 AM TestDDL usrTest
+INFO: TestRuns :37
+Apr 12, 2016 11:44:24 AM TestDDL usrTest
+INFO: TestRuns :37
+Apr 12, 2016 11:44:24 AM TestDDL usrTest
+INFO: TestRuns :37
+Apr 12, 2016 11:44:24 AM TestDDL usrTest
+INFO: TestRuns :37
+Apr 12, 2016 11:44:24 AM TestDDL usrTest
+INFO: TestRuns :37
+Apr 12, 2016 11:44:24 AM TestDDL usrTest
+INFO: TestRuns :37
+Apr 12, 2016 11:44:24 AM TestDDL usrTest
+INFO: TestRuns :37
+Apr 12, 2016 11:44:24 AM TestDDL usrTest
+INFO: TestRuns :37
+Apr 12, 2016 11:44:24 AM TestDDL usrTest
+INFO: TestRuns :37
+Apr 12, 2016 11:44:24 AM TestDDL usrTest
+INFO: TestRuns :37
+Apr 12, 2016 11:44:24 AM TestDDL usrTest
+INFO: TestRuns :37
+Apr 12, 2016 11:44:24 AM TestDDL usrTest
+INFO: TestRuns :37
+Apr 12, 2016 11:44:24 AM TestDDL usrTest
+INFO: TestRuns :37
+Apr 12, 2016 11:44:24 AM TestDDL usrTest
+INFO: TestRuns :37
+Apr 12, 2016 11:44:24 AM TestDDL usrTest
+INFO: TestRuns :37
+Apr 12, 2016 11:44:24 AM TestDDL usrTest
+INFO: TestRuns :37
+Apr 12, 2016 11:44:24 AM TestDDL usrTest
+INFO: TestRuns :37
+Apr 12, 2016 11:44:24 AM TestDDL usrTest
+INFO: TestRuns :37
+Apr 12, 2016 11:44:24 AM TestDDL usrTest
+INFO: TestRuns :37
+Apr 12, 2016 11:44:24 AM TestDDL usrTest
+INFO: TestRuns :37
+Apr 12, 2016 11:44:24 AM TestDDL usrTest
+INFO: TestRuns :37
+Apr 12, 2016 11:44:24 AM TestDDL usrTest
+INFO: TestRuns :37
+Apr 12, 2016 11:44:24 AM TestDDL usrTest
+INFO: TestRuns :37
+Apr 12, 2016 11:44:24 AM TestDDL usrTest
+INFO: TestRuns :37
+Apr 12, 2016 11:44:24 AM TestDDL usrTest
+INFO: TestRuns :37
+Apr 12, 2016 11:44:24 AM TestDDL usrTest
+INFO: TestRuns :37
+Apr 12, 2016 11:44:24 AM TestDDL usrTest
+INFO: TestRuns :37
+Apr 12, 2016 11:44:24 AM TestDDL usrTest
+INFO: TestRuns :37
+Apr 12, 2016 11:44:24 AM TestDDL usrTest
+INFO: TestRuns :37
+Apr 12, 2016 11:44:24 AM TestDDL usrTest
+INFO: TestRuns :37
+Apr 12, 2016 11:44:24 AM TestDDL usrTest
+INFO: TestRuns :37
+Apr 12, 2016 11:44:24 AM TestDDL usrTest
+INFO: TestRuns :37
+Apr 12, 2016 11:44:24 AM TestDDL usrTest
+INFO: TestRuns :37
+Apr 12, 2016 11:44:24 AM TestDDL usrTest
+INFO: TestRuns :37
+Apr 12, 2016 11:44:24 AM TestDDL usrTest
+INFO: TestRuns :37
+Apr 12, 2016 11:44:24 AM TestDDL usrTest
+INFO: TestRuns :37
+Apr 12, 2016 11:44:24 AM DD_NonEx dd_helper
+INFO: 1Runs :38
+Apr 12, 2016 11:44:24 AM DD_NonEx dd_helper
+INFO: 1Size : 156
+Apr 12, 2016 11:44:25 AM TestDDL usrTest
+INFO: TimeTest : 682757
+Apr 12, 2016 11:44:25 AM TestDDL usrTest
+INFO: TimeTest : 682757
+Apr 12, 2016 11:44:25 AM TestDDL usrTest
+INFO: TimeTest : 682757
+Apr 12, 2016 11:44:25 AM TestDDL usrTest
+INFO: TimeTest : 682757
+Apr 12, 2016 11:44:25 AM TestDDL usrTest
+INFO: TimeTest : 682757
+Apr 12, 2016 11:44:25 AM TestDDL usrTest
+INFO: TimeTest : 682757
+Apr 12, 2016 11:44:25 AM TestDDL usrTest
+INFO: TimeTest : 682757
+Apr 12, 2016 11:44:25 AM TestDDL usrTest
+INFO: TimeTest : 682757
+Apr 12, 2016 11:44:25 AM TestDDL usrTest
+INFO: TimeTest : 682757
+Apr 12, 2016 11:44:25 AM TestDDL usrTest
+INFO: TimeTest : 682757
+Apr 12, 2016 11:44:25 AM TestDDL usrTest
+INFO: TimeTest : 682757
+Apr 12, 2016 11:44:25 AM TestDDL usrTest
+INFO: TimeTest : 682757
+Apr 12, 2016 11:44:25 AM TestDDL usrTest
+INFO: TimeTest : 682757
+Apr 12, 2016 11:44:25 AM TestDDL usrTest
+INFO: TimeTest : 682757
+Apr 12, 2016 11:44:25 AM TestDDL usrTest
+INFO: TimeTest : 682757
+Apr 12, 2016 11:44:25 AM TestDDL usrTest
+INFO: TimeTest : 682757
+Apr 12, 2016 11:44:25 AM TestDDL usrTest
+INFO: TimeTest : 682757
+Apr 12, 2016 11:44:25 AM TestDDL usrTest
+INFO: TimeTest : 682757
+Apr 12, 2016 11:44:25 AM TestDDL usrTest
+INFO: TimeTest : 682757
+Apr 12, 2016 11:44:25 AM TestDDL usrTest
+INFO: TimeTest : 682757
+Apr 12, 2016 11:44:25 AM TestDDL usrTest
+INFO: TimeTest : 682757
+Apr 12, 2016 11:44:25 AM TestDDL usrTest
+INFO: TimeTest : 682757
+Apr 12, 2016 11:44:25 AM TestDDL usrTest
+INFO: TimeTest : 682757
+Apr 12, 2016 11:44:25 AM TestDDL usrTest
+INFO: TimeTest : 682757
+Apr 12, 2016 11:44:25 AM TestDDL usrTest
+INFO: TimeTest : 682757
+Apr 12, 2016 11:44:25 AM TestDDL usrTest
+INFO: TimeTest : 682757
+Apr 12, 2016 11:44:25 AM TestDDL usrTest
+INFO: TimeTest : 682757
+Apr 12, 2016 11:44:25 AM TestDDL usrTest
+INFO: TimeTest : 682757
+Apr 12, 2016 11:44:25 AM TestDDL usrTest
+INFO: TimeTest : 682757
+Apr 12, 2016 11:44:25 AM TestDDL usrTest
+INFO: TimeTest : 682757
+Apr 12, 2016 11:44:25 AM TestDDL usrTest
+INFO: TimeTest : 682757
+Apr 12, 2016 11:44:25 AM TestDDL usrTest
+INFO: TimeTest : 682757
+Apr 12, 2016 11:44:25 AM TestDDL usrTest
+INFO: TimeTest : 682757
+Apr 12, 2016 11:44:25 AM TestDDL usrTest
+INFO: TimeTest : 682757
+Apr 12, 2016 11:44:25 AM TestDDL usrTest
+INFO: TimeTest : 682757
+Apr 12, 2016 11:44:25 AM TestDDL usrTest
+INFO: TimeTest : 682757
+Apr 12, 2016 11:44:25 AM TestDDL usrTest
+INFO: TimeTest : 682757
+Apr 12, 2016 11:44:25 AM TestDDL usrTest
+INFO: TimeTest : 682757
+Apr 12, 2016 11:44:25 AM TestDDL usrTest
+INFO: TestRuns :38
+Apr 12, 2016 11:44:25 AM TestDDL usrTest
+INFO: TestRuns :38
+Apr 12, 2016 11:44:25 AM TestDDL usrTest
+INFO: TestRuns :38
+Apr 12, 2016 11:44:25 AM TestDDL usrTest
+INFO: TestRuns :38
+Apr 12, 2016 11:44:25 AM TestDDL usrTest
+INFO: TestRuns :38
+Apr 12, 2016 11:44:25 AM TestDDL usrTest
+INFO: TestRuns :38
+Apr 12, 2016 11:44:25 AM TestDDL usrTest
+INFO: TestRuns :38
+Apr 12, 2016 11:44:25 AM TestDDL usrTest
+INFO: TestRuns :38
+Apr 12, 2016 11:44:25 AM TestDDL usrTest
+INFO: TestRuns :38
+Apr 12, 2016 11:44:25 AM TestDDL usrTest
+INFO: TestRuns :38
+Apr 12, 2016 11:44:25 AM TestDDL usrTest
+INFO: TestRuns :38
+Apr 12, 2016 11:44:25 AM TestDDL usrTest
+INFO: TestRuns :38
+Apr 12, 2016 11:44:25 AM TestDDL usrTest
+INFO: TestRuns :38
+Apr 12, 2016 11:44:25 AM TestDDL usrTest
+INFO: TestRuns :38
+Apr 12, 2016 11:44:25 AM TestDDL usrTest
+INFO: TestRuns :38
+Apr 12, 2016 11:44:25 AM TestDDL usrTest
+INFO: TestRuns :38
+Apr 12, 2016 11:44:25 AM TestDDL usrTest
+INFO: TestRuns :38
+Apr 12, 2016 11:44:25 AM TestDDL usrTest
+INFO: TestRuns :38
+Apr 12, 2016 11:44:25 AM TestDDL usrTest
+INFO: TestRuns :38
+Apr 12, 2016 11:44:25 AM TestDDL usrTest
+INFO: TestRuns :38
+Apr 12, 2016 11:44:25 AM TestDDL usrTest
+INFO: TestRuns :38
+Apr 12, 2016 11:44:25 AM TestDDL usrTest
+INFO: TestRuns :38
+Apr 12, 2016 11:44:25 AM TestDDL usrTest
+INFO: TestRuns :38
+Apr 12, 2016 11:44:25 AM TestDDL usrTest
+INFO: TestRuns :38
+Apr 12, 2016 11:44:25 AM TestDDL usrTest
+INFO: TestRuns :38
+Apr 12, 2016 11:44:25 AM TestDDL usrTest
+INFO: TestRuns :38
+Apr 12, 2016 11:44:25 AM TestDDL usrTest
+INFO: TestRuns :38
+Apr 12, 2016 11:44:25 AM TestDDL usrTest
+INFO: TestRuns :38
+Apr 12, 2016 11:44:25 AM TestDDL usrTest
+INFO: TestRuns :38
+Apr 12, 2016 11:44:25 AM TestDDL usrTest
+INFO: TestRuns :38
+Apr 12, 2016 11:44:25 AM TestDDL usrTest
+INFO: TestRuns :38
+Apr 12, 2016 11:44:25 AM TestDDL usrTest
+INFO: TestRuns :38
+Apr 12, 2016 11:44:25 AM TestDDL usrTest
+INFO: TestRuns :38
+Apr 12, 2016 11:44:25 AM TestDDL usrTest
+INFO: TestRuns :38
+Apr 12, 2016 11:44:25 AM TestDDL usrTest
+INFO: TestRuns :38
+Apr 12, 2016 11:44:25 AM TestDDL usrTest
+INFO: TestRuns :38
+Apr 12, 2016 11:44:25 AM TestDDL usrTest
+INFO: TestRuns :38
+Apr 12, 2016 11:44:25 AM TestDDL usrTest
+INFO: TestRuns :38
+Apr 12, 2016 11:44:26 AM TestDDL usrTest
+INFO: TimeTest : 792768
+Apr 12, 2016 11:44:26 AM TestDDL usrTest
+INFO: TimeTest : 792768
+Apr 12, 2016 11:44:26 AM TestDDL usrTest
+INFO: TimeTest : 792768
+Apr 12, 2016 11:44:26 AM TestDDL usrTest
+INFO: TimeTest : 792768
+Apr 12, 2016 11:44:26 AM TestDDL usrTest
+INFO: TimeTest : 792768
+Apr 12, 2016 11:44:26 AM TestDDL usrTest
+INFO: TimeTest : 792768
+Apr 12, 2016 11:44:26 AM TestDDL usrTest
+INFO: TimeTest : 792768
+Apr 12, 2016 11:44:26 AM TestDDL usrTest
+INFO: TimeTest : 792768
+Apr 12, 2016 11:44:26 AM TestDDL usrTest
+INFO: TimeTest : 792768
+Apr 12, 2016 11:44:26 AM TestDDL usrTest
+INFO: TimeTest : 792768
+Apr 12, 2016 11:44:26 AM TestDDL usrTest
+INFO: TimeTest : 792768
+Apr 12, 2016 11:44:26 AM TestDDL usrTest
+INFO: TimeTest : 792768
+Apr 12, 2016 11:44:26 AM TestDDL usrTest
+INFO: TimeTest : 792768
+Apr 12, 2016 11:44:26 AM TestDDL usrTest
+INFO: TimeTest : 792768
+Apr 12, 2016 11:44:26 AM TestDDL usrTest
+INFO: TimeTest : 792768
+Apr 12, 2016 11:44:26 AM TestDDL usrTest
+INFO: TimeTest : 792768
+Apr 12, 2016 11:44:26 AM TestDDL usrTest
+INFO: TimeTest : 792768
+Apr 12, 2016 11:44:26 AM TestDDL usrTest
+INFO: TimeTest : 792768
+Apr 12, 2016 11:44:26 AM TestDDL usrTest
+INFO: TimeTest : 792768
+Apr 12, 2016 11:44:26 AM TestDDL usrTest
+INFO: TimeTest : 792768
+Apr 12, 2016 11:44:26 AM TestDDL usrTest
+INFO: TimeTest : 792768
+Apr 12, 2016 11:44:26 AM TestDDL usrTest
+INFO: TimeTest : 792768
+Apr 12, 2016 11:44:26 AM TestDDL usrTest
+INFO: TimeTest : 792768
+Apr 12, 2016 11:44:26 AM TestDDL usrTest
+INFO: TimeTest : 792768
+Apr 12, 2016 11:44:26 AM TestDDL usrTest
+INFO: TimeTest : 792768
+Apr 12, 2016 11:44:26 AM TestDDL usrTest
+INFO: TimeTest : 792768
+Apr 12, 2016 11:44:26 AM TestDDL usrTest
+INFO: TimeTest : 792768
+Apr 12, 2016 11:44:26 AM TestDDL usrTest
+INFO: TimeTest : 792768
+Apr 12, 2016 11:44:26 AM TestDDL usrTest
+INFO: TimeTest : 792768
+Apr 12, 2016 11:44:26 AM TestDDL usrTest
+INFO: TimeTest : 792768
+Apr 12, 2016 11:44:26 AM TestDDL usrTest
+INFO: TimeTest : 792768
+Apr 12, 2016 11:44:26 AM TestDDL usrTest
+INFO: TimeTest : 792768
+Apr 12, 2016 11:44:26 AM TestDDL usrTest
+INFO: TimeTest : 792768
+Apr 12, 2016 11:44:26 AM TestDDL usrTest
+INFO: TimeTest : 792768
+Apr 12, 2016 11:44:26 AM TestDDL usrTest
+INFO: TimeTest : 792768
+Apr 12, 2016 11:44:26 AM TestDDL usrTest
+INFO: TimeTest : 792768
+Apr 12, 2016 11:44:26 AM TestDDL usrTest
+INFO: TimeTest : 792768
+Apr 12, 2016 11:44:26 AM TestDDL usrTest
+INFO: TimeTest : 792768
+Apr 12, 2016 11:44:26 AM TestDDL usrTest
+INFO: TimeTest : 792768
+Apr 12, 2016 11:44:26 AM TestDDL usrTest
+INFO: TestRuns :39
+Apr 12, 2016 11:44:26 AM TestDDL usrTest
+INFO: TestRuns :39
+Apr 12, 2016 11:44:26 AM TestDDL usrTest
+INFO: TestRuns :39
+Apr 12, 2016 11:44:26 AM TestDDL usrTest
+INFO: TestRuns :39
+Apr 12, 2016 11:44:26 AM TestDDL usrTest
+INFO: TestRuns :39
+Apr 12, 2016 11:44:26 AM TestDDL usrTest
+INFO: TestRuns :39
+Apr 12, 2016 11:44:26 AM TestDDL usrTest
+INFO: TestRuns :39
+Apr 12, 2016 11:44:26 AM TestDDL usrTest
+INFO: TestRuns :39
+Apr 12, 2016 11:44:26 AM TestDDL usrTest
+INFO: TestRuns :39
+Apr 12, 2016 11:44:26 AM TestDDL usrTest
+INFO: TestRuns :39
+Apr 12, 2016 11:44:26 AM TestDDL usrTest
+INFO: TestRuns :39
+Apr 12, 2016 11:44:26 AM TestDDL usrTest
+INFO: TestRuns :39
+Apr 12, 2016 11:44:26 AM TestDDL usrTest
+INFO: TestRuns :39
+Apr 12, 2016 11:44:26 AM TestDDL usrTest
+INFO: TestRuns :39
+Apr 12, 2016 11:44:26 AM TestDDL usrTest
+INFO: TestRuns :39
+Apr 12, 2016 11:44:26 AM TestDDL usrTest
+INFO: TestRuns :39
+Apr 12, 2016 11:44:26 AM TestDDL usrTest
+INFO: TestRuns :39
+Apr 12, 2016 11:44:26 AM TestDDL usrTest
+INFO: TestRuns :39
+Apr 12, 2016 11:44:26 AM TestDDL usrTest
+INFO: TestRuns :39
+Apr 12, 2016 11:44:26 AM TestDDL usrTest
+INFO: TestRuns :39
+Apr 12, 2016 11:44:26 AM TestDDL usrTest
+INFO: TestRuns :39
+Apr 12, 2016 11:44:26 AM TestDDL usrTest
+INFO: TestRuns :39
+Apr 12, 2016 11:44:26 AM TestDDL usrTest
+INFO: TestRuns :39
+Apr 12, 2016 11:44:26 AM TestDDL usrTest
+INFO: TestRuns :39
+Apr 12, 2016 11:44:26 AM TestDDL usrTest
+INFO: TestRuns :39
+Apr 12, 2016 11:44:26 AM TestDDL usrTest
+INFO: TestRuns :39
+Apr 12, 2016 11:44:26 AM TestDDL usrTest
+INFO: TestRuns :39
+Apr 12, 2016 11:44:26 AM TestDDL usrTest
+INFO: TestRuns :39
+Apr 12, 2016 11:44:26 AM TestDDL usrTest
+INFO: TestRuns :39
+Apr 12, 2016 11:44:26 AM TestDDL usrTest
+INFO: TestRuns :39
+Apr 12, 2016 11:44:26 AM TestDDL usrTest
+INFO: TestRuns :39
+Apr 12, 2016 11:44:26 AM TestDDL usrTest
+INFO: TestRuns :39
+Apr 12, 2016 11:44:26 AM TestDDL usrTest
+INFO: TestRuns :39
+Apr 12, 2016 11:44:26 AM TestDDL usrTest
+INFO: TestRuns :39
+Apr 12, 2016 11:44:26 AM TestDDL usrTest
+INFO: TestRuns :39
+Apr 12, 2016 11:44:26 AM TestDDL usrTest
+INFO: TestRuns :39
+Apr 12, 2016 11:44:26 AM TestDDL usrTest
+INFO: TestRuns :39
+Apr 12, 2016 11:44:26 AM TestDDL usrTest
+INFO: TestRuns :39
+Apr 12, 2016 11:44:26 AM TestDDL usrTest
+INFO: TestRuns :39
+Apr 12, 2016 11:44:26 AM DD_NonEx dd_helper
+INFO: 1Runs :40
+Apr 12, 2016 11:44:26 AM DD_NonEx dd_helper
+INFO: 1Size : 67
+Apr 12, 2016 11:44:27 AM TestDDL usrTest
+INFO: TimeTest : 690669
+Apr 12, 2016 11:44:27 AM TestDDL usrTest
+INFO: TimeTest : 690669
+Apr 12, 2016 11:44:27 AM TestDDL usrTest
+INFO: TimeTest : 690669
+Apr 12, 2016 11:44:27 AM TestDDL usrTest
+INFO: TimeTest : 690669
+Apr 12, 2016 11:44:27 AM TestDDL usrTest
+INFO: TimeTest : 690669
+Apr 12, 2016 11:44:27 AM TestDDL usrTest
+INFO: TimeTest : 690669
+Apr 12, 2016 11:44:27 AM TestDDL usrTest
+INFO: TimeTest : 690669
+Apr 12, 2016 11:44:27 AM TestDDL usrTest
+INFO: TimeTest : 690669
+Apr 12, 2016 11:44:27 AM TestDDL usrTest
+INFO: TimeTest : 690669
+Apr 12, 2016 11:44:27 AM TestDDL usrTest
+INFO: TimeTest : 690669
+Apr 12, 2016 11:44:27 AM TestDDL usrTest
+INFO: TimeTest : 690669
+Apr 12, 2016 11:44:27 AM TestDDL usrTest
+INFO: TimeTest : 690669
+Apr 12, 2016 11:44:27 AM TestDDL usrTest
+INFO: TimeTest : 690669
+Apr 12, 2016 11:44:27 AM TestDDL usrTest
+INFO: TimeTest : 690669
+Apr 12, 2016 11:44:27 AM TestDDL usrTest
+INFO: TimeTest : 690669
+Apr 12, 2016 11:44:27 AM TestDDL usrTest
+INFO: TimeTest : 690669
+Apr 12, 2016 11:44:27 AM TestDDL usrTest
+INFO: TimeTest : 690669
+Apr 12, 2016 11:44:27 AM TestDDL usrTest
+INFO: TimeTest : 690669
+Apr 12, 2016 11:44:27 AM TestDDL usrTest
+INFO: TimeTest : 690669
+Apr 12, 2016 11:44:27 AM TestDDL usrTest
+INFO: TimeTest : 690669
+Apr 12, 2016 11:44:27 AM TestDDL usrTest
+INFO: TimeTest : 690669
+Apr 12, 2016 11:44:27 AM TestDDL usrTest
+INFO: TimeTest : 690669
+Apr 12, 2016 11:44:27 AM TestDDL usrTest
+INFO: TimeTest : 690669
+Apr 12, 2016 11:44:27 AM TestDDL usrTest
+INFO: TimeTest : 690669
+Apr 12, 2016 11:44:27 AM TestDDL usrTest
+INFO: TimeTest : 690669
+Apr 12, 2016 11:44:27 AM TestDDL usrTest
+INFO: TimeTest : 690669
+Apr 12, 2016 11:44:27 AM TestDDL usrTest
+INFO: TimeTest : 690669
+Apr 12, 2016 11:44:27 AM TestDDL usrTest
+INFO: TimeTest : 690669
+Apr 12, 2016 11:44:27 AM TestDDL usrTest
+INFO: TimeTest : 690669
+Apr 12, 2016 11:44:27 AM TestDDL usrTest
+INFO: TimeTest : 690669
+Apr 12, 2016 11:44:27 AM TestDDL usrTest
+INFO: TimeTest : 690669
+Apr 12, 2016 11:44:27 AM TestDDL usrTest
+INFO: TimeTest : 690669
+Apr 12, 2016 11:44:27 AM TestDDL usrTest
+INFO: TimeTest : 690669
+Apr 12, 2016 11:44:27 AM TestDDL usrTest
+INFO: TimeTest : 690669
+Apr 12, 2016 11:44:27 AM TestDDL usrTest
+INFO: TimeTest : 690669
+Apr 12, 2016 11:44:27 AM TestDDL usrTest
+INFO: TimeTest : 690669
+Apr 12, 2016 11:44:27 AM TestDDL usrTest
+INFO: TimeTest : 690669
+Apr 12, 2016 11:44:27 AM TestDDL usrTest
+INFO: TimeTest : 690669
+Apr 12, 2016 11:44:27 AM TestDDL usrTest
+INFO: TimeTest : 690669
+Apr 12, 2016 11:44:27 AM TestDDL usrTest
+INFO: TimeTest : 690669
+Apr 12, 2016 11:44:27 AM TestDDL usrTest
+INFO: TestRuns :40
+Apr 12, 2016 11:44:27 AM TestDDL usrTest
+INFO: TestRuns :40
+Apr 12, 2016 11:44:27 AM TestDDL usrTest
+INFO: TestRuns :40
+Apr 12, 2016 11:44:27 AM TestDDL usrTest
+INFO: TestRuns :40
+Apr 12, 2016 11:44:27 AM TestDDL usrTest
+INFO: TestRuns :40
+Apr 12, 2016 11:44:27 AM TestDDL usrTest
+INFO: TestRuns :40
+Apr 12, 2016 11:44:27 AM TestDDL usrTest
+INFO: TestRuns :40
+Apr 12, 2016 11:44:27 AM TestDDL usrTest
+INFO: TestRuns :40
+Apr 12, 2016 11:44:27 AM TestDDL usrTest
+INFO: TestRuns :40
+Apr 12, 2016 11:44:27 AM TestDDL usrTest
+INFO: TestRuns :40
+Apr 12, 2016 11:44:27 AM TestDDL usrTest
+INFO: TestRuns :40
+Apr 12, 2016 11:44:27 AM TestDDL usrTest
+INFO: TestRuns :40
+Apr 12, 2016 11:44:27 AM TestDDL usrTest
+INFO: TestRuns :40
+Apr 12, 2016 11:44:27 AM TestDDL usrTest
+INFO: TestRuns :40
+Apr 12, 2016 11:44:27 AM TestDDL usrTest
+INFO: TestRuns :40
+Apr 12, 2016 11:44:27 AM TestDDL usrTest
+INFO: TestRuns :40
+Apr 12, 2016 11:44:27 AM TestDDL usrTest
+INFO: TestRuns :40
+Apr 12, 2016 11:44:27 AM TestDDL usrTest
+INFO: TestRuns :40
+Apr 12, 2016 11:44:27 AM TestDDL usrTest
+INFO: TestRuns :40
+Apr 12, 2016 11:44:27 AM TestDDL usrTest
+INFO: TestRuns :40
+Apr 12, 2016 11:44:27 AM TestDDL usrTest
+INFO: TestRuns :40
+Apr 12, 2016 11:44:27 AM TestDDL usrTest
+INFO: TestRuns :40
+Apr 12, 2016 11:44:27 AM TestDDL usrTest
+INFO: TestRuns :40
+Apr 12, 2016 11:44:27 AM TestDDL usrTest
+INFO: TestRuns :40
+Apr 12, 2016 11:44:27 AM TestDDL usrTest
+INFO: TestRuns :40
+Apr 12, 2016 11:44:27 AM TestDDL usrTest
+INFO: TestRuns :40
+Apr 12, 2016 11:44:27 AM TestDDL usrTest
+INFO: TestRuns :40
+Apr 12, 2016 11:44:27 AM TestDDL usrTest
+INFO: TestRuns :40
+Apr 12, 2016 11:44:27 AM TestDDL usrTest
+INFO: TestRuns :40
+Apr 12, 2016 11:44:27 AM TestDDL usrTest
+INFO: TestRuns :40
+Apr 12, 2016 11:44:27 AM TestDDL usrTest
+INFO: TestRuns :40
+Apr 12, 2016 11:44:27 AM TestDDL usrTest
+INFO: TestRuns :40
+Apr 12, 2016 11:44:27 AM TestDDL usrTest
+INFO: TestRuns :40
+Apr 12, 2016 11:44:27 AM TestDDL usrTest
+INFO: TestRuns :40
+Apr 12, 2016 11:44:27 AM TestDDL usrTest
+INFO: TestRuns :40
+Apr 12, 2016 11:44:27 AM TestDDL usrTest
+INFO: TestRuns :40
+Apr 12, 2016 11:44:27 AM TestDDL usrTest
+INFO: TestRuns :40
+Apr 12, 2016 11:44:27 AM TestDDL usrTest
+INFO: TestRuns :40
+Apr 12, 2016 11:44:27 AM TestDDL usrTest
+INFO: TestRuns :40
+Apr 12, 2016 11:44:27 AM TestDDL usrTest
+INFO: TestRuns :40
+Apr 12, 2016 11:44:27 AM TestDDL usrTest
+INFO: TimeTest : 675568
+Apr 12, 2016 11:44:27 AM TestDDL usrTest
+INFO: TimeTest : 675568
+Apr 12, 2016 11:44:27 AM TestDDL usrTest
+INFO: TimeTest : 675568
+Apr 12, 2016 11:44:27 AM TestDDL usrTest
+INFO: TimeTest : 675568
+Apr 12, 2016 11:44:27 AM TestDDL usrTest
+INFO: TimeTest : 675568
+Apr 12, 2016 11:44:27 AM TestDDL usrTest
+INFO: TimeTest : 675568
+Apr 12, 2016 11:44:27 AM TestDDL usrTest
+INFO: TimeTest : 675568
+Apr 12, 2016 11:44:27 AM TestDDL usrTest
+INFO: TimeTest : 675568
+Apr 12, 2016 11:44:27 AM TestDDL usrTest
+INFO: TimeTest : 675568
+Apr 12, 2016 11:44:27 AM TestDDL usrTest
+INFO: TimeTest : 675568
+Apr 12, 2016 11:44:27 AM TestDDL usrTest
+INFO: TimeTest : 675568
+Apr 12, 2016 11:44:27 AM TestDDL usrTest
+INFO: TimeTest : 675568
+Apr 12, 2016 11:44:27 AM TestDDL usrTest
+INFO: TimeTest : 675568
+Apr 12, 2016 11:44:27 AM TestDDL usrTest
+INFO: TimeTest : 675568
+Apr 12, 2016 11:44:27 AM TestDDL usrTest
+INFO: TimeTest : 675568
+Apr 12, 2016 11:44:27 AM TestDDL usrTest
+INFO: TimeTest : 675568
+Apr 12, 2016 11:44:27 AM TestDDL usrTest
+INFO: TimeTest : 675568
+Apr 12, 2016 11:44:27 AM TestDDL usrTest
+INFO: TimeTest : 675568
+Apr 12, 2016 11:44:27 AM TestDDL usrTest
+INFO: TimeTest : 675568
+Apr 12, 2016 11:44:27 AM TestDDL usrTest
+INFO: TimeTest : 675568
+Apr 12, 2016 11:44:27 AM TestDDL usrTest
+INFO: TimeTest : 675568
+Apr 12, 2016 11:44:27 AM TestDDL usrTest
+INFO: TimeTest : 675568
+Apr 12, 2016 11:44:27 AM TestDDL usrTest
+INFO: TimeTest : 675568
+Apr 12, 2016 11:44:27 AM TestDDL usrTest
+INFO: TimeTest : 675568
+Apr 12, 2016 11:44:27 AM TestDDL usrTest
+INFO: TimeTest : 675568
+Apr 12, 2016 11:44:27 AM TestDDL usrTest
+INFO: TimeTest : 675568
+Apr 12, 2016 11:44:27 AM TestDDL usrTest
+INFO: TimeTest : 675568
+Apr 12, 2016 11:44:27 AM TestDDL usrTest
+INFO: TimeTest : 675568
+Apr 12, 2016 11:44:27 AM TestDDL usrTest
+INFO: TimeTest : 675568
+Apr 12, 2016 11:44:27 AM TestDDL usrTest
+INFO: TimeTest : 675568
+Apr 12, 2016 11:44:27 AM TestDDL usrTest
+INFO: TimeTest : 675568
+Apr 12, 2016 11:44:27 AM TestDDL usrTest
+INFO: TimeTest : 675568
+Apr 12, 2016 11:44:27 AM TestDDL usrTest
+INFO: TimeTest : 675568
+Apr 12, 2016 11:44:27 AM TestDDL usrTest
+INFO: TimeTest : 675568
+Apr 12, 2016 11:44:27 AM TestDDL usrTest
+INFO: TimeTest : 675568
+Apr 12, 2016 11:44:27 AM TestDDL usrTest
+INFO: TimeTest : 675568
+Apr 12, 2016 11:44:27 AM TestDDL usrTest
+INFO: TimeTest : 675568
+Apr 12, 2016 11:44:27 AM TestDDL usrTest
+INFO: TimeTest : 675568
+Apr 12, 2016 11:44:27 AM TestDDL usrTest
+INFO: TimeTest : 675568
+Apr 12, 2016 11:44:27 AM TestDDL usrTest
+INFO: TimeTest : 675568
+Apr 12, 2016 11:44:27 AM TestDDL usrTest
+INFO: TimeTest : 675568
+Apr 12, 2016 11:44:27 AM TestDDL usrTest
+INFO: TestRuns :41
+Apr 12, 2016 11:44:27 AM TestDDL usrTest
+INFO: TestRuns :41
+Apr 12, 2016 11:44:27 AM TestDDL usrTest
+INFO: TestRuns :41
+Apr 12, 2016 11:44:27 AM TestDDL usrTest
+INFO: TestRuns :41
+Apr 12, 2016 11:44:27 AM TestDDL usrTest
+INFO: TestRuns :41
+Apr 12, 2016 11:44:27 AM TestDDL usrTest
+INFO: TestRuns :41
+Apr 12, 2016 11:44:27 AM TestDDL usrTest
+INFO: TestRuns :41
+Apr 12, 2016 11:44:27 AM TestDDL usrTest
+INFO: TestRuns :41
+Apr 12, 2016 11:44:27 AM TestDDL usrTest
+INFO: TestRuns :41
+Apr 12, 2016 11:44:27 AM TestDDL usrTest
+INFO: TestRuns :41
+Apr 12, 2016 11:44:27 AM TestDDL usrTest
+INFO: TestRuns :41
+Apr 12, 2016 11:44:27 AM TestDDL usrTest
+INFO: TestRuns :41
+Apr 12, 2016 11:44:27 AM TestDDL usrTest
+INFO: TestRuns :41
+Apr 12, 2016 11:44:27 AM TestDDL usrTest
+INFO: TestRuns :41
+Apr 12, 2016 11:44:27 AM TestDDL usrTest
+INFO: TestRuns :41
+Apr 12, 2016 11:44:27 AM TestDDL usrTest
+INFO: TestRuns :41
+Apr 12, 2016 11:44:27 AM TestDDL usrTest
+INFO: TestRuns :41
+Apr 12, 2016 11:44:27 AM TestDDL usrTest
+INFO: TestRuns :41
+Apr 12, 2016 11:44:27 AM TestDDL usrTest
+INFO: TestRuns :41
+Apr 12, 2016 11:44:27 AM TestDDL usrTest
+INFO: TestRuns :41
+Apr 12, 2016 11:44:27 AM TestDDL usrTest
+INFO: TestRuns :41
+Apr 12, 2016 11:44:27 AM TestDDL usrTest
+INFO: TestRuns :41
+Apr 12, 2016 11:44:27 AM TestDDL usrTest
+INFO: TestRuns :41
+Apr 12, 2016 11:44:27 AM TestDDL usrTest
+INFO: TestRuns :41
+Apr 12, 2016 11:44:27 AM TestDDL usrTest
+INFO: TestRuns :41
+Apr 12, 2016 11:44:27 AM TestDDL usrTest
+INFO: TestRuns :41
+Apr 12, 2016 11:44:27 AM TestDDL usrTest
+INFO: TestRuns :41
+Apr 12, 2016 11:44:27 AM TestDDL usrTest
+INFO: TestRuns :41
+Apr 12, 2016 11:44:27 AM TestDDL usrTest
+INFO: TestRuns :41
+Apr 12, 2016 11:44:27 AM TestDDL usrTest
+INFO: TestRuns :41
+Apr 12, 2016 11:44:27 AM TestDDL usrTest
+INFO: TestRuns :41
+Apr 12, 2016 11:44:27 AM TestDDL usrTest
+INFO: TestRuns :41
+Apr 12, 2016 11:44:27 AM TestDDL usrTest
+INFO: TestRuns :41
+Apr 12, 2016 11:44:27 AM TestDDL usrTest
+INFO: TestRuns :41
+Apr 12, 2016 11:44:27 AM TestDDL usrTest
+INFO: TestRuns :41
+Apr 12, 2016 11:44:27 AM TestDDL usrTest
+INFO: TestRuns :41
+Apr 12, 2016 11:44:27 AM TestDDL usrTest
+INFO: TestRuns :41
+Apr 12, 2016 11:44:27 AM TestDDL usrTest
+INFO: TestRuns :41
+Apr 12, 2016 11:44:27 AM TestDDL usrTest
+INFO: TestRuns :41
+Apr 12, 2016 11:44:27 AM TestDDL usrTest
+INFO: TestRuns :41
+Apr 12, 2016 11:44:27 AM TestDDL usrTest
+INFO: TestRuns :41
+Apr 12, 2016 11:44:28 AM TestDDL usrTest
+INFO: TimeTest : 643539
+Apr 12, 2016 11:44:28 AM TestDDL usrTest
+INFO: TimeTest : 643539
+Apr 12, 2016 11:44:28 AM TestDDL usrTest
+INFO: TimeTest : 643539
+Apr 12, 2016 11:44:28 AM TestDDL usrTest
+INFO: TimeTest : 643539
+Apr 12, 2016 11:44:28 AM TestDDL usrTest
+INFO: TimeTest : 643539
+Apr 12, 2016 11:44:28 AM TestDDL usrTest
+INFO: TimeTest : 643539
+Apr 12, 2016 11:44:28 AM TestDDL usrTest
+INFO: TimeTest : 643539
+Apr 12, 2016 11:44:28 AM TestDDL usrTest
+INFO: TimeTest : 643539
+Apr 12, 2016 11:44:28 AM TestDDL usrTest
+INFO: TimeTest : 643539
+Apr 12, 2016 11:44:28 AM TestDDL usrTest
+INFO: TimeTest : 643539
+Apr 12, 2016 11:44:28 AM TestDDL usrTest
+INFO: TimeTest : 643539
+Apr 12, 2016 11:44:28 AM TestDDL usrTest
+INFO: TimeTest : 643539
+Apr 12, 2016 11:44:28 AM TestDDL usrTest
+INFO: TimeTest : 643539
+Apr 12, 2016 11:44:28 AM TestDDL usrTest
+INFO: TimeTest : 643539
+Apr 12, 2016 11:44:28 AM TestDDL usrTest
+INFO: TimeTest : 643539
+Apr 12, 2016 11:44:28 AM TestDDL usrTest
+INFO: TimeTest : 643539
+Apr 12, 2016 11:44:28 AM TestDDL usrTest
+INFO: TimeTest : 643539
+Apr 12, 2016 11:44:28 AM TestDDL usrTest
+INFO: TimeTest : 643539
+Apr 12, 2016 11:44:28 AM TestDDL usrTest
+INFO: TimeTest : 643539
+Apr 12, 2016 11:44:28 AM TestDDL usrTest
+INFO: TimeTest : 643539
+Apr 12, 2016 11:44:28 AM TestDDL usrTest
+INFO: TimeTest : 643539
+Apr 12, 2016 11:44:28 AM TestDDL usrTest
+INFO: TimeTest : 643539
+Apr 12, 2016 11:44:28 AM TestDDL usrTest
+INFO: TimeTest : 643539
+Apr 12, 2016 11:44:28 AM TestDDL usrTest
+INFO: TimeTest : 643539
+Apr 12, 2016 11:44:28 AM TestDDL usrTest
+INFO: TimeTest : 643539
+Apr 12, 2016 11:44:28 AM TestDDL usrTest
+INFO: TimeTest : 643539
+Apr 12, 2016 11:44:28 AM TestDDL usrTest
+INFO: TimeTest : 643539
+Apr 12, 2016 11:44:28 AM TestDDL usrTest
+INFO: TimeTest : 643539
+Apr 12, 2016 11:44:28 AM TestDDL usrTest
+INFO: TimeTest : 643539
+Apr 12, 2016 11:44:28 AM TestDDL usrTest
+INFO: TimeTest : 643539
+Apr 12, 2016 11:44:28 AM TestDDL usrTest
+INFO: TimeTest : 643539
+Apr 12, 2016 11:44:28 AM TestDDL usrTest
+INFO: TimeTest : 643539
+Apr 12, 2016 11:44:28 AM TestDDL usrTest
+INFO: TimeTest : 643539
+Apr 12, 2016 11:44:28 AM TestDDL usrTest
+INFO: TimeTest : 643539
+Apr 12, 2016 11:44:28 AM TestDDL usrTest
+INFO: TimeTest : 643539
+Apr 12, 2016 11:44:28 AM TestDDL usrTest
+INFO: TimeTest : 643539
+Apr 12, 2016 11:44:28 AM TestDDL usrTest
+INFO: TimeTest : 643539
+Apr 12, 2016 11:44:28 AM TestDDL usrTest
+INFO: TimeTest : 643539
+Apr 12, 2016 11:44:28 AM TestDDL usrTest
+INFO: TimeTest : 643539
+Apr 12, 2016 11:44:28 AM TestDDL usrTest
+INFO: TimeTest : 643539
+Apr 12, 2016 11:44:28 AM TestDDL usrTest
+INFO: TimeTest : 643539
+Apr 12, 2016 11:44:28 AM TestDDL usrTest
+INFO: TimeTest : 643539
+Apr 12, 2016 11:44:28 AM TestDDL usrTest
+INFO: TestRuns :42
+Apr 12, 2016 11:44:28 AM TestDDL usrTest
+INFO: TestRuns :42
+Apr 12, 2016 11:44:28 AM TestDDL usrTest
+INFO: TestRuns :42
+Apr 12, 2016 11:44:28 AM TestDDL usrTest
+INFO: TestRuns :42
+Apr 12, 2016 11:44:28 AM TestDDL usrTest
+INFO: TestRuns :42
+Apr 12, 2016 11:44:28 AM TestDDL usrTest
+INFO: TestRuns :42
+Apr 12, 2016 11:44:28 AM TestDDL usrTest
+INFO: TestRuns :42
+Apr 12, 2016 11:44:28 AM TestDDL usrTest
+INFO: TestRuns :42
+Apr 12, 2016 11:44:28 AM TestDDL usrTest
+INFO: TestRuns :42
+Apr 12, 2016 11:44:28 AM TestDDL usrTest
+INFO: TestRuns :42
+Apr 12, 2016 11:44:28 AM TestDDL usrTest
+INFO: TestRuns :42
+Apr 12, 2016 11:44:28 AM TestDDL usrTest
+INFO: TestRuns :42
+Apr 12, 2016 11:44:28 AM TestDDL usrTest
+INFO: TestRuns :42
+Apr 12, 2016 11:44:28 AM TestDDL usrTest
+INFO: TestRuns :42
+Apr 12, 2016 11:44:28 AM TestDDL usrTest
+INFO: TestRuns :42
+Apr 12, 2016 11:44:28 AM TestDDL usrTest
+INFO: TestRuns :42
+Apr 12, 2016 11:44:28 AM TestDDL usrTest
+INFO: TestRuns :42
+Apr 12, 2016 11:44:28 AM TestDDL usrTest
+INFO: TestRuns :42
+Apr 12, 2016 11:44:28 AM TestDDL usrTest
+INFO: TestRuns :42
+Apr 12, 2016 11:44:28 AM TestDDL usrTest
+INFO: TestRuns :42
+Apr 12, 2016 11:44:28 AM TestDDL usrTest
+INFO: TestRuns :42
+Apr 12, 2016 11:44:28 AM TestDDL usrTest
+INFO: TestRuns :42
+Apr 12, 2016 11:44:28 AM TestDDL usrTest
+INFO: TestRuns :42
+Apr 12, 2016 11:44:28 AM TestDDL usrTest
+INFO: TestRuns :42
+Apr 12, 2016 11:44:28 AM TestDDL usrTest
+INFO: TestRuns :42
+Apr 12, 2016 11:44:28 AM TestDDL usrTest
+INFO: TestRuns :42
+Apr 12, 2016 11:44:28 AM TestDDL usrTest
+INFO: TestRuns :42
+Apr 12, 2016 11:44:28 AM TestDDL usrTest
+INFO: TestRuns :42
+Apr 12, 2016 11:44:28 AM TestDDL usrTest
+INFO: TestRuns :42
+Apr 12, 2016 11:44:28 AM TestDDL usrTest
+INFO: TestRuns :42
+Apr 12, 2016 11:44:28 AM TestDDL usrTest
+INFO: TestRuns :42
+Apr 12, 2016 11:44:28 AM TestDDL usrTest
+INFO: TestRuns :42
+Apr 12, 2016 11:44:28 AM TestDDL usrTest
+INFO: TestRuns :42
+Apr 12, 2016 11:44:28 AM TestDDL usrTest
+INFO: TestRuns :42
+Apr 12, 2016 11:44:28 AM TestDDL usrTest
+INFO: TestRuns :42
+Apr 12, 2016 11:44:28 AM TestDDL usrTest
+INFO: TestRuns :42
+Apr 12, 2016 11:44:28 AM TestDDL usrTest
+INFO: TestRuns :42
+Apr 12, 2016 11:44:28 AM TestDDL usrTest
+INFO: TestRuns :42
+Apr 12, 2016 11:44:28 AM TestDDL usrTest
+INFO: TestRuns :42
+Apr 12, 2016 11:44:28 AM TestDDL usrTest
+INFO: TestRuns :42
+Apr 12, 2016 11:44:28 AM TestDDL usrTest
+INFO: TestRuns :42
+Apr 12, 2016 11:44:28 AM TestDDL usrTest
+INFO: TestRuns :42
+Apr 12, 2016 11:44:28 AM DD_NonEx dd_helper
+INFO: 1Runs :43
+Apr 12, 2016 11:44:28 AM DD_NonEx dd_helper
+INFO: 1Size : 36
+Apr 12, 2016 11:44:29 AM TestDDL usrTest
+INFO: TimeTest : 729719
+Apr 12, 2016 11:44:29 AM TestDDL usrTest
+INFO: TimeTest : 729719
+Apr 12, 2016 11:44:29 AM TestDDL usrTest
+INFO: TimeTest : 729719
+Apr 12, 2016 11:44:29 AM TestDDL usrTest
+INFO: TimeTest : 729719
+Apr 12, 2016 11:44:29 AM TestDDL usrTest
+INFO: TimeTest : 729719
+Apr 12, 2016 11:44:29 AM TestDDL usrTest
+INFO: TimeTest : 729719
+Apr 12, 2016 11:44:29 AM TestDDL usrTest
+INFO: TimeTest : 729719
+Apr 12, 2016 11:44:29 AM TestDDL usrTest
+INFO: TimeTest : 729719
+Apr 12, 2016 11:44:29 AM TestDDL usrTest
+INFO: TimeTest : 729719
+Apr 12, 2016 11:44:29 AM TestDDL usrTest
+INFO: TimeTest : 729719
+Apr 12, 2016 11:44:29 AM TestDDL usrTest
+INFO: TimeTest : 729719
+Apr 12, 2016 11:44:29 AM TestDDL usrTest
+INFO: TimeTest : 729719
+Apr 12, 2016 11:44:29 AM TestDDL usrTest
+INFO: TimeTest : 729719
+Apr 12, 2016 11:44:29 AM TestDDL usrTest
+INFO: TimeTest : 729719
+Apr 12, 2016 11:44:29 AM TestDDL usrTest
+INFO: TimeTest : 729719
+Apr 12, 2016 11:44:29 AM TestDDL usrTest
+INFO: TimeTest : 729719
+Apr 12, 2016 11:44:29 AM TestDDL usrTest
+INFO: TimeTest : 729719
+Apr 12, 2016 11:44:29 AM TestDDL usrTest
+INFO: TimeTest : 729719
+Apr 12, 2016 11:44:29 AM TestDDL usrTest
+INFO: TimeTest : 729719
+Apr 12, 2016 11:44:29 AM TestDDL usrTest
+INFO: TimeTest : 729719
+Apr 12, 2016 11:44:29 AM TestDDL usrTest
+INFO: TimeTest : 729719
+Apr 12, 2016 11:44:29 AM TestDDL usrTest
+INFO: TimeTest : 729719
+Apr 12, 2016 11:44:29 AM TestDDL usrTest
+INFO: TimeTest : 729719
+Apr 12, 2016 11:44:29 AM TestDDL usrTest
+INFO: TimeTest : 729719
+Apr 12, 2016 11:44:29 AM TestDDL usrTest
+INFO: TimeTest : 729719
+Apr 12, 2016 11:44:29 AM TestDDL usrTest
+INFO: TimeTest : 729719
+Apr 12, 2016 11:44:29 AM TestDDL usrTest
+INFO: TimeTest : 729719
+Apr 12, 2016 11:44:29 AM TestDDL usrTest
+INFO: TimeTest : 729719
+Apr 12, 2016 11:44:29 AM TestDDL usrTest
+INFO: TimeTest : 729719
+Apr 12, 2016 11:44:29 AM TestDDL usrTest
+INFO: TimeTest : 729719
+Apr 12, 2016 11:44:29 AM TestDDL usrTest
+INFO: TimeTest : 729719
+Apr 12, 2016 11:44:29 AM TestDDL usrTest
+INFO: TimeTest : 729719
+Apr 12, 2016 11:44:29 AM TestDDL usrTest
+INFO: TimeTest : 729719
+Apr 12, 2016 11:44:29 AM TestDDL usrTest
+INFO: TimeTest : 729719
+Apr 12, 2016 11:44:29 AM TestDDL usrTest
+INFO: TimeTest : 729719
+Apr 12, 2016 11:44:29 AM TestDDL usrTest
+INFO: TimeTest : 729719
+Apr 12, 2016 11:44:29 AM TestDDL usrTest
+INFO: TimeTest : 729719
+Apr 12, 2016 11:44:29 AM TestDDL usrTest
+INFO: TimeTest : 729719
+Apr 12, 2016 11:44:29 AM TestDDL usrTest
+INFO: TimeTest : 729719
+Apr 12, 2016 11:44:29 AM TestDDL usrTest
+INFO: TimeTest : 729719
+Apr 12, 2016 11:44:29 AM TestDDL usrTest
+INFO: TimeTest : 729719
+Apr 12, 2016 11:44:29 AM TestDDL usrTest
+INFO: TimeTest : 729719
+Apr 12, 2016 11:44:29 AM TestDDL usrTest
+INFO: TimeTest : 729719
+Apr 12, 2016 11:44:29 AM TestDDL usrTest
+INFO: TestRuns :43
+Apr 12, 2016 11:44:29 AM TestDDL usrTest
+INFO: TestRuns :43
+Apr 12, 2016 11:44:29 AM TestDDL usrTest
+INFO: TestRuns :43
+Apr 12, 2016 11:44:29 AM TestDDL usrTest
+INFO: TestRuns :43
+Apr 12, 2016 11:44:29 AM TestDDL usrTest
+INFO: TestRuns :43
+Apr 12, 2016 11:44:29 AM TestDDL usrTest
+INFO: TestRuns :43
+Apr 12, 2016 11:44:29 AM TestDDL usrTest
+INFO: TestRuns :43
+Apr 12, 2016 11:44:29 AM TestDDL usrTest
+INFO: TestRuns :43
+Apr 12, 2016 11:44:29 AM TestDDL usrTest
+INFO: TestRuns :43
+Apr 12, 2016 11:44:29 AM TestDDL usrTest
+INFO: TestRuns :43
+Apr 12, 2016 11:44:29 AM TestDDL usrTest
+INFO: TestRuns :43
+Apr 12, 2016 11:44:29 AM TestDDL usrTest
+INFO: TestRuns :43
+Apr 12, 2016 11:44:29 AM TestDDL usrTest
+INFO: TestRuns :43
+Apr 12, 2016 11:44:29 AM TestDDL usrTest
+INFO: TestRuns :43
+Apr 12, 2016 11:44:29 AM TestDDL usrTest
+INFO: TestRuns :43
+Apr 12, 2016 11:44:29 AM TestDDL usrTest
+INFO: TestRuns :43
+Apr 12, 2016 11:44:29 AM TestDDL usrTest
+INFO: TestRuns :43
+Apr 12, 2016 11:44:29 AM TestDDL usrTest
+INFO: TestRuns :43
+Apr 12, 2016 11:44:29 AM TestDDL usrTest
+INFO: TestRuns :43
+Apr 12, 2016 11:44:29 AM TestDDL usrTest
+INFO: TestRuns :43
+Apr 12, 2016 11:44:29 AM TestDDL usrTest
+INFO: TestRuns :43
+Apr 12, 2016 11:44:29 AM TestDDL usrTest
+INFO: TestRuns :43
+Apr 12, 2016 11:44:29 AM TestDDL usrTest
+INFO: TestRuns :43
+Apr 12, 2016 11:44:29 AM TestDDL usrTest
+INFO: TestRuns :43
+Apr 12, 2016 11:44:29 AM TestDDL usrTest
+INFO: TestRuns :43
+Apr 12, 2016 11:44:29 AM TestDDL usrTest
+INFO: TestRuns :43
+Apr 12, 2016 11:44:29 AM TestDDL usrTest
+INFO: TestRuns :43
+Apr 12, 2016 11:44:29 AM TestDDL usrTest
+INFO: TestRuns :43
+Apr 12, 2016 11:44:29 AM TestDDL usrTest
+INFO: TestRuns :43
+Apr 12, 2016 11:44:29 AM TestDDL usrTest
+INFO: TestRuns :43
+Apr 12, 2016 11:44:29 AM TestDDL usrTest
+INFO: TestRuns :43
+Apr 12, 2016 11:44:29 AM TestDDL usrTest
+INFO: TestRuns :43
+Apr 12, 2016 11:44:29 AM TestDDL usrTest
+INFO: TestRuns :43
+Apr 12, 2016 11:44:29 AM TestDDL usrTest
+INFO: TestRuns :43
+Apr 12, 2016 11:44:29 AM TestDDL usrTest
+INFO: TestRuns :43
+Apr 12, 2016 11:44:29 AM TestDDL usrTest
+INFO: TestRuns :43
+Apr 12, 2016 11:44:29 AM TestDDL usrTest
+INFO: TestRuns :43
+Apr 12, 2016 11:44:29 AM TestDDL usrTest
+INFO: TestRuns :43
+Apr 12, 2016 11:44:29 AM TestDDL usrTest
+INFO: TestRuns :43
+Apr 12, 2016 11:44:29 AM TestDDL usrTest
+INFO: TestRuns :43
+Apr 12, 2016 11:44:29 AM TestDDL usrTest
+INFO: TestRuns :43
+Apr 12, 2016 11:44:29 AM TestDDL usrTest
+INFO: TestRuns :43
+Apr 12, 2016 11:44:29 AM TestDDL usrTest
+INFO: TestRuns :43
+Apr 12, 2016 11:44:30 AM TestDDL usrTest
+INFO: TimeTest : 861001
+Apr 12, 2016 11:44:30 AM TestDDL usrTest
+INFO: TimeTest : 861001
+Apr 12, 2016 11:44:30 AM TestDDL usrTest
+INFO: TimeTest : 861001
+Apr 12, 2016 11:44:30 AM TestDDL usrTest
+INFO: TimeTest : 861001
+Apr 12, 2016 11:44:30 AM TestDDL usrTest
+INFO: TimeTest : 861001
+Apr 12, 2016 11:44:30 AM TestDDL usrTest
+INFO: TimeTest : 861001
+Apr 12, 2016 11:44:30 AM TestDDL usrTest
+INFO: TimeTest : 861001
+Apr 12, 2016 11:44:30 AM TestDDL usrTest
+INFO: TimeTest : 861001
+Apr 12, 2016 11:44:30 AM TestDDL usrTest
+INFO: TimeTest : 861001
+Apr 12, 2016 11:44:30 AM TestDDL usrTest
+INFO: TimeTest : 861001
+Apr 12, 2016 11:44:30 AM TestDDL usrTest
+INFO: TimeTest : 861001
+Apr 12, 2016 11:44:30 AM TestDDL usrTest
+INFO: TimeTest : 861001
+Apr 12, 2016 11:44:30 AM TestDDL usrTest
+INFO: TimeTest : 861001
+Apr 12, 2016 11:44:30 AM TestDDL usrTest
+INFO: TimeTest : 861001
+Apr 12, 2016 11:44:30 AM TestDDL usrTest
+INFO: TimeTest : 861001
+Apr 12, 2016 11:44:30 AM TestDDL usrTest
+INFO: TimeTest : 861001
+Apr 12, 2016 11:44:30 AM TestDDL usrTest
+INFO: TimeTest : 861001
+Apr 12, 2016 11:44:30 AM TestDDL usrTest
+INFO: TimeTest : 861001
+Apr 12, 2016 11:44:30 AM TestDDL usrTest
+INFO: TimeTest : 861001
+Apr 12, 2016 11:44:30 AM TestDDL usrTest
+INFO: TimeTest : 861001
+Apr 12, 2016 11:44:30 AM TestDDL usrTest
+INFO: TimeTest : 861001
+Apr 12, 2016 11:44:30 AM TestDDL usrTest
+INFO: TimeTest : 861001
+Apr 12, 2016 11:44:30 AM TestDDL usrTest
+INFO: TimeTest : 861001
+Apr 12, 2016 11:44:30 AM TestDDL usrTest
+INFO: TimeTest : 861001
+Apr 12, 2016 11:44:30 AM TestDDL usrTest
+INFO: TimeTest : 861001
+Apr 12, 2016 11:44:30 AM TestDDL usrTest
+INFO: TimeTest : 861001
+Apr 12, 2016 11:44:30 AM TestDDL usrTest
+INFO: TimeTest : 861001
+Apr 12, 2016 11:44:30 AM TestDDL usrTest
+INFO: TimeTest : 861001
+Apr 12, 2016 11:44:30 AM TestDDL usrTest
+INFO: TimeTest : 861001
+Apr 12, 2016 11:44:30 AM TestDDL usrTest
+INFO: TimeTest : 861001
+Apr 12, 2016 11:44:30 AM TestDDL usrTest
+INFO: TimeTest : 861001
+Apr 12, 2016 11:44:30 AM TestDDL usrTest
+INFO: TimeTest : 861001
+Apr 12, 2016 11:44:30 AM TestDDL usrTest
+INFO: TimeTest : 861001
+Apr 12, 2016 11:44:30 AM TestDDL usrTest
+INFO: TimeTest : 861001
+Apr 12, 2016 11:44:30 AM TestDDL usrTest
+INFO: TimeTest : 861001
+Apr 12, 2016 11:44:30 AM TestDDL usrTest
+INFO: TimeTest : 861001
+Apr 12, 2016 11:44:30 AM TestDDL usrTest
+INFO: TimeTest : 861001
+Apr 12, 2016 11:44:30 AM TestDDL usrTest
+INFO: TimeTest : 861001
+Apr 12, 2016 11:44:30 AM TestDDL usrTest
+INFO: TimeTest : 861001
+Apr 12, 2016 11:44:30 AM TestDDL usrTest
+INFO: TimeTest : 861001
+Apr 12, 2016 11:44:30 AM TestDDL usrTest
+INFO: TimeTest : 861001
+Apr 12, 2016 11:44:30 AM TestDDL usrTest
+INFO: TimeTest : 861001
+Apr 12, 2016 11:44:30 AM TestDDL usrTest
+INFO: TimeTest : 861001
+Apr 12, 2016 11:44:30 AM TestDDL usrTest
+INFO: TimeTest : 861001
+Apr 12, 2016 11:44:30 AM TestDDL usrTest
+INFO: TestRuns :44
+Apr 12, 2016 11:44:30 AM TestDDL usrTest
+INFO: TestRuns :44
+Apr 12, 2016 11:44:30 AM TestDDL usrTest
+INFO: TestRuns :44
+Apr 12, 2016 11:44:30 AM TestDDL usrTest
+INFO: TestRuns :44
+Apr 12, 2016 11:44:30 AM TestDDL usrTest
+INFO: TestRuns :44
+Apr 12, 2016 11:44:30 AM TestDDL usrTest
+INFO: TestRuns :44
+Apr 12, 2016 11:44:30 AM TestDDL usrTest
+INFO: TestRuns :44
+Apr 12, 2016 11:44:30 AM TestDDL usrTest
+INFO: TestRuns :44
+Apr 12, 2016 11:44:30 AM TestDDL usrTest
+INFO: TestRuns :44
+Apr 12, 2016 11:44:30 AM TestDDL usrTest
+INFO: TestRuns :44
+Apr 12, 2016 11:44:30 AM TestDDL usrTest
+INFO: TestRuns :44
+Apr 12, 2016 11:44:30 AM TestDDL usrTest
+INFO: TestRuns :44
+Apr 12, 2016 11:44:30 AM TestDDL usrTest
+INFO: TestRuns :44
+Apr 12, 2016 11:44:30 AM TestDDL usrTest
+INFO: TestRuns :44
+Apr 12, 2016 11:44:30 AM TestDDL usrTest
+INFO: TestRuns :44
+Apr 12, 2016 11:44:30 AM TestDDL usrTest
+INFO: TestRuns :44
+Apr 12, 2016 11:44:30 AM TestDDL usrTest
+INFO: TestRuns :44
+Apr 12, 2016 11:44:30 AM TestDDL usrTest
+INFO: TestRuns :44
+Apr 12, 2016 11:44:30 AM TestDDL usrTest
+INFO: TestRuns :44
+Apr 12, 2016 11:44:30 AM TestDDL usrTest
+INFO: TestRuns :44
+Apr 12, 2016 11:44:30 AM TestDDL usrTest
+INFO: TestRuns :44
+Apr 12, 2016 11:44:30 AM TestDDL usrTest
+INFO: TestRuns :44
+Apr 12, 2016 11:44:30 AM TestDDL usrTest
+INFO: TestRuns :44
+Apr 12, 2016 11:44:30 AM TestDDL usrTest
+INFO: TestRuns :44
+Apr 12, 2016 11:44:30 AM TestDDL usrTest
+INFO: TestRuns :44
+Apr 12, 2016 11:44:30 AM TestDDL usrTest
+INFO: TestRuns :44
+Apr 12, 2016 11:44:30 AM TestDDL usrTest
+INFO: TestRuns :44
+Apr 12, 2016 11:44:30 AM TestDDL usrTest
+INFO: TestRuns :44
+Apr 12, 2016 11:44:30 AM TestDDL usrTest
+INFO: TestRuns :44
+Apr 12, 2016 11:44:30 AM TestDDL usrTest
+INFO: TestRuns :44
+Apr 12, 2016 11:44:30 AM TestDDL usrTest
+INFO: TestRuns :44
+Apr 12, 2016 11:44:30 AM TestDDL usrTest
+INFO: TestRuns :44
+Apr 12, 2016 11:44:30 AM TestDDL usrTest
+INFO: TestRuns :44
+Apr 12, 2016 11:44:30 AM TestDDL usrTest
+INFO: TestRuns :44
+Apr 12, 2016 11:44:30 AM TestDDL usrTest
+INFO: TestRuns :44
+Apr 12, 2016 11:44:30 AM TestDDL usrTest
+INFO: TestRuns :44
+Apr 12, 2016 11:44:30 AM TestDDL usrTest
+INFO: TestRuns :44
+Apr 12, 2016 11:44:30 AM TestDDL usrTest
+INFO: TestRuns :44
+Apr 12, 2016 11:44:30 AM TestDDL usrTest
+INFO: TestRuns :44
+Apr 12, 2016 11:44:30 AM TestDDL usrTest
+INFO: TestRuns :44
+Apr 12, 2016 11:44:30 AM TestDDL usrTest
+INFO: TestRuns :44
+Apr 12, 2016 11:44:30 AM TestDDL usrTest
+INFO: TestRuns :44
+Apr 12, 2016 11:44:30 AM TestDDL usrTest
+INFO: TestRuns :44
+Apr 12, 2016 11:44:30 AM TestDDL usrTest
+INFO: TestRuns :44
+Apr 12, 2016 11:44:31 AM TestDDL usrTest
+INFO: TimeTest : 819506
+Apr 12, 2016 11:44:31 AM TestDDL usrTest
+INFO: TimeTest : 819506
+Apr 12, 2016 11:44:31 AM TestDDL usrTest
+INFO: TimeTest : 819506
+Apr 12, 2016 11:44:31 AM TestDDL usrTest
+INFO: TimeTest : 819506
+Apr 12, 2016 11:44:31 AM TestDDL usrTest
+INFO: TimeTest : 819506
+Apr 12, 2016 11:44:31 AM TestDDL usrTest
+INFO: TimeTest : 819506
+Apr 12, 2016 11:44:31 AM TestDDL usrTest
+INFO: TimeTest : 819506
+Apr 12, 2016 11:44:31 AM TestDDL usrTest
+INFO: TimeTest : 819506
+Apr 12, 2016 11:44:31 AM TestDDL usrTest
+INFO: TimeTest : 819506
+Apr 12, 2016 11:44:31 AM TestDDL usrTest
+INFO: TimeTest : 819506
+Apr 12, 2016 11:44:31 AM TestDDL usrTest
+INFO: TimeTest : 819506
+Apr 12, 2016 11:44:31 AM TestDDL usrTest
+INFO: TimeTest : 819506
+Apr 12, 2016 11:44:31 AM TestDDL usrTest
+INFO: TimeTest : 819506
+Apr 12, 2016 11:44:31 AM TestDDL usrTest
+INFO: TimeTest : 819506
+Apr 12, 2016 11:44:31 AM TestDDL usrTest
+INFO: TimeTest : 819506
+Apr 12, 2016 11:44:31 AM TestDDL usrTest
+INFO: TimeTest : 819506
+Apr 12, 2016 11:44:31 AM TestDDL usrTest
+INFO: TimeTest : 819506
+Apr 12, 2016 11:44:31 AM TestDDL usrTest
+INFO: TimeTest : 819506
+Apr 12, 2016 11:44:31 AM TestDDL usrTest
+INFO: TimeTest : 819506
+Apr 12, 2016 11:44:31 AM TestDDL usrTest
+INFO: TimeTest : 819506
+Apr 12, 2016 11:44:31 AM TestDDL usrTest
+INFO: TimeTest : 819506
+Apr 12, 2016 11:44:31 AM TestDDL usrTest
+INFO: TimeTest : 819506
+Apr 12, 2016 11:44:31 AM TestDDL usrTest
+INFO: TimeTest : 819506
+Apr 12, 2016 11:44:31 AM TestDDL usrTest
+INFO: TimeTest : 819506
+Apr 12, 2016 11:44:31 AM TestDDL usrTest
+INFO: TimeTest : 819506
+Apr 12, 2016 11:44:31 AM TestDDL usrTest
+INFO: TimeTest : 819506
+Apr 12, 2016 11:44:31 AM TestDDL usrTest
+INFO: TimeTest : 819506
+Apr 12, 2016 11:44:31 AM TestDDL usrTest
+INFO: TimeTest : 819506
+Apr 12, 2016 11:44:31 AM TestDDL usrTest
+INFO: TimeTest : 819506
+Apr 12, 2016 11:44:31 AM TestDDL usrTest
+INFO: TimeTest : 819506
+Apr 12, 2016 11:44:31 AM TestDDL usrTest
+INFO: TimeTest : 819506
+Apr 12, 2016 11:44:31 AM TestDDL usrTest
+INFO: TimeTest : 819506
+Apr 12, 2016 11:44:31 AM TestDDL usrTest
+INFO: TimeTest : 819506
+Apr 12, 2016 11:44:31 AM TestDDL usrTest
+INFO: TimeTest : 819506
+Apr 12, 2016 11:44:31 AM TestDDL usrTest
+INFO: TimeTest : 819506
+Apr 12, 2016 11:44:31 AM TestDDL usrTest
+INFO: TimeTest : 819506
+Apr 12, 2016 11:44:31 AM TestDDL usrTest
+INFO: TimeTest : 819506
+Apr 12, 2016 11:44:31 AM TestDDL usrTest
+INFO: TimeTest : 819506
+Apr 12, 2016 11:44:31 AM TestDDL usrTest
+INFO: TimeTest : 819506
+Apr 12, 2016 11:44:31 AM TestDDL usrTest
+INFO: TimeTest : 819506
+Apr 12, 2016 11:44:31 AM TestDDL usrTest
+INFO: TimeTest : 819506
+Apr 12, 2016 11:44:31 AM TestDDL usrTest
+INFO: TimeTest : 819506
+Apr 12, 2016 11:44:31 AM TestDDL usrTest
+INFO: TimeTest : 819506
+Apr 12, 2016 11:44:31 AM TestDDL usrTest
+INFO: TimeTest : 819506
+Apr 12, 2016 11:44:31 AM TestDDL usrTest
+INFO: TimeTest : 819506
+Apr 12, 2016 11:44:31 AM TestDDL usrTest
+INFO: TestRuns :45
+Apr 12, 2016 11:44:31 AM TestDDL usrTest
+INFO: TestRuns :45
+Apr 12, 2016 11:44:31 AM TestDDL usrTest
+INFO: TestRuns :45
+Apr 12, 2016 11:44:31 AM TestDDL usrTest
+INFO: TestRuns :45
+Apr 12, 2016 11:44:31 AM TestDDL usrTest
+INFO: TestRuns :45
+Apr 12, 2016 11:44:31 AM TestDDL usrTest
+INFO: TestRuns :45
+Apr 12, 2016 11:44:31 AM TestDDL usrTest
+INFO: TestRuns :45
+Apr 12, 2016 11:44:31 AM TestDDL usrTest
+INFO: TestRuns :45
+Apr 12, 2016 11:44:31 AM TestDDL usrTest
+INFO: TestRuns :45
+Apr 12, 2016 11:44:31 AM TestDDL usrTest
+INFO: TestRuns :45
+Apr 12, 2016 11:44:31 AM TestDDL usrTest
+INFO: TestRuns :45
+Apr 12, 2016 11:44:31 AM TestDDL usrTest
+INFO: TestRuns :45
+Apr 12, 2016 11:44:31 AM TestDDL usrTest
+INFO: TestRuns :45
+Apr 12, 2016 11:44:31 AM TestDDL usrTest
+INFO: TestRuns :45
+Apr 12, 2016 11:44:31 AM TestDDL usrTest
+INFO: TestRuns :45
+Apr 12, 2016 11:44:31 AM TestDDL usrTest
+INFO: TestRuns :45
+Apr 12, 2016 11:44:31 AM TestDDL usrTest
+INFO: TestRuns :45
+Apr 12, 2016 11:44:31 AM TestDDL usrTest
+INFO: TestRuns :45
+Apr 12, 2016 11:44:31 AM TestDDL usrTest
+INFO: TestRuns :45
+Apr 12, 2016 11:44:31 AM TestDDL usrTest
+INFO: TestRuns :45
+Apr 12, 2016 11:44:31 AM TestDDL usrTest
+INFO: TestRuns :45
+Apr 12, 2016 11:44:31 AM TestDDL usrTest
+INFO: TestRuns :45
+Apr 12, 2016 11:44:31 AM TestDDL usrTest
+INFO: TestRuns :45
+Apr 12, 2016 11:44:31 AM TestDDL usrTest
+INFO: TestRuns :45
+Apr 12, 2016 11:44:31 AM TestDDL usrTest
+INFO: TestRuns :45
+Apr 12, 2016 11:44:31 AM TestDDL usrTest
+INFO: TestRuns :45
+Apr 12, 2016 11:44:31 AM TestDDL usrTest
+INFO: TestRuns :45
+Apr 12, 2016 11:44:31 AM TestDDL usrTest
+INFO: TestRuns :45
+Apr 12, 2016 11:44:31 AM TestDDL usrTest
+INFO: TestRuns :45
+Apr 12, 2016 11:44:31 AM TestDDL usrTest
+INFO: TestRuns :45
+Apr 12, 2016 11:44:31 AM TestDDL usrTest
+INFO: TestRuns :45
+Apr 12, 2016 11:44:31 AM TestDDL usrTest
+INFO: TestRuns :45
+Apr 12, 2016 11:44:31 AM TestDDL usrTest
+INFO: TestRuns :45
+Apr 12, 2016 11:44:31 AM TestDDL usrTest
+INFO: TestRuns :45
+Apr 12, 2016 11:44:31 AM TestDDL usrTest
+INFO: TestRuns :45
+Apr 12, 2016 11:44:31 AM TestDDL usrTest
+INFO: TestRuns :45
+Apr 12, 2016 11:44:31 AM TestDDL usrTest
+INFO: TestRuns :45
+Apr 12, 2016 11:44:31 AM TestDDL usrTest
+INFO: TestRuns :45
+Apr 12, 2016 11:44:31 AM TestDDL usrTest
+INFO: TestRuns :45
+Apr 12, 2016 11:44:31 AM TestDDL usrTest
+INFO: TestRuns :45
+Apr 12, 2016 11:44:31 AM TestDDL usrTest
+INFO: TestRuns :45
+Apr 12, 2016 11:44:31 AM TestDDL usrTest
+INFO: TestRuns :45
+Apr 12, 2016 11:44:31 AM TestDDL usrTest
+INFO: TestRuns :45
+Apr 12, 2016 11:44:31 AM TestDDL usrTest
+INFO: TestRuns :45
+Apr 12, 2016 11:44:31 AM TestDDL usrTest
+INFO: TestRuns :45
+Apr 12, 2016 11:44:31 AM DD_NonEx dd_helper
+INFO: 1Runs :46
+Apr 12, 2016 11:44:31 AM DD_NonEx dd_helper
+INFO: 1Size : 14
+Apr 12, 2016 11:44:32 AM TestDDL usrTest
+INFO: TimeTest : 623625
+Apr 12, 2016 11:44:32 AM TestDDL usrTest
+INFO: TimeTest : 623625
+Apr 12, 2016 11:44:32 AM TestDDL usrTest
+INFO: TimeTest : 623625
+Apr 12, 2016 11:44:32 AM TestDDL usrTest
+INFO: TimeTest : 623625
+Apr 12, 2016 11:44:32 AM TestDDL usrTest
+INFO: TimeTest : 623625
+Apr 12, 2016 11:44:32 AM TestDDL usrTest
+INFO: TimeTest : 623625
+Apr 12, 2016 11:44:32 AM TestDDL usrTest
+INFO: TimeTest : 623625
+Apr 12, 2016 11:44:32 AM TestDDL usrTest
+INFO: TimeTest : 623625
+Apr 12, 2016 11:44:32 AM TestDDL usrTest
+INFO: TimeTest : 623625
+Apr 12, 2016 11:44:32 AM TestDDL usrTest
+INFO: TimeTest : 623625
+Apr 12, 2016 11:44:32 AM TestDDL usrTest
+INFO: TimeTest : 623625
+Apr 12, 2016 11:44:32 AM TestDDL usrTest
+INFO: TimeTest : 623625
+Apr 12, 2016 11:44:32 AM TestDDL usrTest
+INFO: TimeTest : 623625
+Apr 12, 2016 11:44:32 AM TestDDL usrTest
+INFO: TimeTest : 623625
+Apr 12, 2016 11:44:32 AM TestDDL usrTest
+INFO: TimeTest : 623625
+Apr 12, 2016 11:44:32 AM TestDDL usrTest
+INFO: TimeTest : 623625
+Apr 12, 2016 11:44:32 AM TestDDL usrTest
+INFO: TimeTest : 623625
+Apr 12, 2016 11:44:32 AM TestDDL usrTest
+INFO: TimeTest : 623625
+Apr 12, 2016 11:44:32 AM TestDDL usrTest
+INFO: TimeTest : 623625
+Apr 12, 2016 11:44:32 AM TestDDL usrTest
+INFO: TimeTest : 623625
+Apr 12, 2016 11:44:32 AM TestDDL usrTest
+INFO: TimeTest : 623625
+Apr 12, 2016 11:44:32 AM TestDDL usrTest
+INFO: TimeTest : 623625
+Apr 12, 2016 11:44:32 AM TestDDL usrTest
+INFO: TimeTest : 623625
+Apr 12, 2016 11:44:32 AM TestDDL usrTest
+INFO: TimeTest : 623625
+Apr 12, 2016 11:44:32 AM TestDDL usrTest
+INFO: TimeTest : 623625
+Apr 12, 2016 11:44:32 AM TestDDL usrTest
+INFO: TimeTest : 623625
+Apr 12, 2016 11:44:32 AM TestDDL usrTest
+INFO: TimeTest : 623625
+Apr 12, 2016 11:44:32 AM TestDDL usrTest
+INFO: TimeTest : 623625
+Apr 12, 2016 11:44:32 AM TestDDL usrTest
+INFO: TimeTest : 623625
+Apr 12, 2016 11:44:32 AM TestDDL usrTest
+INFO: TimeTest : 623625
+Apr 12, 2016 11:44:32 AM TestDDL usrTest
+INFO: TimeTest : 623625
+Apr 12, 2016 11:44:32 AM TestDDL usrTest
+INFO: TimeTest : 623625
+Apr 12, 2016 11:44:32 AM TestDDL usrTest
+INFO: TimeTest : 623625
+Apr 12, 2016 11:44:32 AM TestDDL usrTest
+INFO: TimeTest : 623625
+Apr 12, 2016 11:44:32 AM TestDDL usrTest
+INFO: TimeTest : 623625
+Apr 12, 2016 11:44:32 AM TestDDL usrTest
+INFO: TimeTest : 623625
+Apr 12, 2016 11:44:32 AM TestDDL usrTest
+INFO: TimeTest : 623625
+Apr 12, 2016 11:44:32 AM TestDDL usrTest
+INFO: TimeTest : 623625
+Apr 12, 2016 11:44:32 AM TestDDL usrTest
+INFO: TimeTest : 623625
+Apr 12, 2016 11:44:32 AM TestDDL usrTest
+INFO: TimeTest : 623625
+Apr 12, 2016 11:44:32 AM TestDDL usrTest
+INFO: TimeTest : 623625
+Apr 12, 2016 11:44:32 AM TestDDL usrTest
+INFO: TimeTest : 623625
+Apr 12, 2016 11:44:32 AM TestDDL usrTest
+INFO: TimeTest : 623625
+Apr 12, 2016 11:44:32 AM TestDDL usrTest
+INFO: TimeTest : 623625
+Apr 12, 2016 11:44:32 AM TestDDL usrTest
+INFO: TimeTest : 623625
+Apr 12, 2016 11:44:32 AM TestDDL usrTest
+INFO: TimeTest : 623625
+Apr 12, 2016 11:44:32 AM TestDDL usrTest
+INFO: TestRuns :46
+Apr 12, 2016 11:44:32 AM TestDDL usrTest
+INFO: TestRuns :46
+Apr 12, 2016 11:44:32 AM TestDDL usrTest
+INFO: TestRuns :46
+Apr 12, 2016 11:44:32 AM TestDDL usrTest
+INFO: TestRuns :46
+Apr 12, 2016 11:44:32 AM TestDDL usrTest
+INFO: TestRuns :46
+Apr 12, 2016 11:44:32 AM TestDDL usrTest
+INFO: TestRuns :46
+Apr 12, 2016 11:44:32 AM TestDDL usrTest
+INFO: TestRuns :46
+Apr 12, 2016 11:44:32 AM TestDDL usrTest
+INFO: TestRuns :46
+Apr 12, 2016 11:44:32 AM TestDDL usrTest
+INFO: TestRuns :46
+Apr 12, 2016 11:44:32 AM TestDDL usrTest
+INFO: TestRuns :46
+Apr 12, 2016 11:44:32 AM TestDDL usrTest
+INFO: TestRuns :46
+Apr 12, 2016 11:44:32 AM TestDDL usrTest
+INFO: TestRuns :46
+Apr 12, 2016 11:44:32 AM TestDDL usrTest
+INFO: TestRuns :46
+Apr 12, 2016 11:44:32 AM TestDDL usrTest
+INFO: TestRuns :46
+Apr 12, 2016 11:44:32 AM TestDDL usrTest
+INFO: TestRuns :46
+Apr 12, 2016 11:44:32 AM TestDDL usrTest
+INFO: TestRuns :46
+Apr 12, 2016 11:44:32 AM TestDDL usrTest
+INFO: TestRuns :46
+Apr 12, 2016 11:44:32 AM TestDDL usrTest
+INFO: TestRuns :46
+Apr 12, 2016 11:44:32 AM TestDDL usrTest
+INFO: TestRuns :46
+Apr 12, 2016 11:44:32 AM TestDDL usrTest
+INFO: TestRuns :46
+Apr 12, 2016 11:44:32 AM TestDDL usrTest
+INFO: TestRuns :46
+Apr 12, 2016 11:44:32 AM TestDDL usrTest
+INFO: TestRuns :46
+Apr 12, 2016 11:44:32 AM TestDDL usrTest
+INFO: TestRuns :46
+Apr 12, 2016 11:44:32 AM TestDDL usrTest
+INFO: TestRuns :46
+Apr 12, 2016 11:44:32 AM TestDDL usrTest
+INFO: TestRuns :46
+Apr 12, 2016 11:44:32 AM TestDDL usrTest
+INFO: TestRuns :46
+Apr 12, 2016 11:44:32 AM TestDDL usrTest
+INFO: TestRuns :46
+Apr 12, 2016 11:44:32 AM TestDDL usrTest
+INFO: TestRuns :46
+Apr 12, 2016 11:44:32 AM TestDDL usrTest
+INFO: TestRuns :46
+Apr 12, 2016 11:44:32 AM TestDDL usrTest
+INFO: TestRuns :46
+Apr 12, 2016 11:44:32 AM TestDDL usrTest
+INFO: TestRuns :46
+Apr 12, 2016 11:44:32 AM TestDDL usrTest
+INFO: TestRuns :46
+Apr 12, 2016 11:44:32 AM TestDDL usrTest
+INFO: TestRuns :46
+Apr 12, 2016 11:44:32 AM TestDDL usrTest
+INFO: TestRuns :46
+Apr 12, 2016 11:44:32 AM TestDDL usrTest
+INFO: TestRuns :46
+Apr 12, 2016 11:44:32 AM TestDDL usrTest
+INFO: TestRuns :46
+Apr 12, 2016 11:44:32 AM TestDDL usrTest
+INFO: TestRuns :46
+Apr 12, 2016 11:44:32 AM TestDDL usrTest
+INFO: TestRuns :46
+Apr 12, 2016 11:44:32 AM TestDDL usrTest
+INFO: TestRuns :46
+Apr 12, 2016 11:44:32 AM TestDDL usrTest
+INFO: TestRuns :46
+Apr 12, 2016 11:44:32 AM TestDDL usrTest
+INFO: TestRuns :46
+Apr 12, 2016 11:44:32 AM TestDDL usrTest
+INFO: TestRuns :46
+Apr 12, 2016 11:44:32 AM TestDDL usrTest
+INFO: TestRuns :46
+Apr 12, 2016 11:44:32 AM TestDDL usrTest
+INFO: TestRuns :46
+Apr 12, 2016 11:44:32 AM TestDDL usrTest
+INFO: TestRuns :46
+Apr 12, 2016 11:44:32 AM TestDDL usrTest
+INFO: TestRuns :46
+Apr 12, 2016 11:44:33 AM TestDDL usrTest
+INFO: TimeTest : 777868
+Apr 12, 2016 11:44:33 AM TestDDL usrTest
+INFO: TimeTest : 777868
+Apr 12, 2016 11:44:33 AM TestDDL usrTest
+INFO: TimeTest : 777868
+Apr 12, 2016 11:44:33 AM TestDDL usrTest
+INFO: TimeTest : 777868
+Apr 12, 2016 11:44:33 AM TestDDL usrTest
+INFO: TimeTest : 777868
+Apr 12, 2016 11:44:33 AM TestDDL usrTest
+INFO: TimeTest : 777868
+Apr 12, 2016 11:44:33 AM TestDDL usrTest
+INFO: TimeTest : 777868
+Apr 12, 2016 11:44:33 AM TestDDL usrTest
+INFO: TimeTest : 777868
+Apr 12, 2016 11:44:33 AM TestDDL usrTest
+INFO: TimeTest : 777868
+Apr 12, 2016 11:44:33 AM TestDDL usrTest
+INFO: TimeTest : 777868
+Apr 12, 2016 11:44:33 AM TestDDL usrTest
+INFO: TimeTest : 777868
+Apr 12, 2016 11:44:33 AM TestDDL usrTest
+INFO: TimeTest : 777868
+Apr 12, 2016 11:44:33 AM TestDDL usrTest
+INFO: TimeTest : 777868
+Apr 12, 2016 11:44:33 AM TestDDL usrTest
+INFO: TimeTest : 777868
+Apr 12, 2016 11:44:33 AM TestDDL usrTest
+INFO: TimeTest : 777868
+Apr 12, 2016 11:44:33 AM TestDDL usrTest
+INFO: TimeTest : 777868
+Apr 12, 2016 11:44:33 AM TestDDL usrTest
+INFO: TimeTest : 777868
+Apr 12, 2016 11:44:33 AM TestDDL usrTest
+INFO: TimeTest : 777868
+Apr 12, 2016 11:44:33 AM TestDDL usrTest
+INFO: TimeTest : 777868
+Apr 12, 2016 11:44:33 AM TestDDL usrTest
+INFO: TimeTest : 777868
+Apr 12, 2016 11:44:33 AM TestDDL usrTest
+INFO: TimeTest : 777868
+Apr 12, 2016 11:44:33 AM TestDDL usrTest
+INFO: TimeTest : 777868
+Apr 12, 2016 11:44:33 AM TestDDL usrTest
+INFO: TimeTest : 777868
+Apr 12, 2016 11:44:33 AM TestDDL usrTest
+INFO: TimeTest : 777868
+Apr 12, 2016 11:44:33 AM TestDDL usrTest
+INFO: TimeTest : 777868
+Apr 12, 2016 11:44:33 AM TestDDL usrTest
+INFO: TimeTest : 777868
+Apr 12, 2016 11:44:33 AM TestDDL usrTest
+INFO: TimeTest : 777868
+Apr 12, 2016 11:44:33 AM TestDDL usrTest
+INFO: TimeTest : 777868
+Apr 12, 2016 11:44:33 AM TestDDL usrTest
+INFO: TimeTest : 777868
+Apr 12, 2016 11:44:33 AM TestDDL usrTest
+INFO: TimeTest : 777868
+Apr 12, 2016 11:44:33 AM TestDDL usrTest
+INFO: TimeTest : 777868
+Apr 12, 2016 11:44:33 AM TestDDL usrTest
+INFO: TimeTest : 777868
+Apr 12, 2016 11:44:33 AM TestDDL usrTest
+INFO: TimeTest : 777868
+Apr 12, 2016 11:44:33 AM TestDDL usrTest
+INFO: TimeTest : 777868
+Apr 12, 2016 11:44:33 AM TestDDL usrTest
+INFO: TimeTest : 777868
+Apr 12, 2016 11:44:33 AM TestDDL usrTest
+INFO: TimeTest : 777868
+Apr 12, 2016 11:44:33 AM TestDDL usrTest
+INFO: TimeTest : 777868
+Apr 12, 2016 11:44:33 AM TestDDL usrTest
+INFO: TimeTest : 777868
+Apr 12, 2016 11:44:33 AM TestDDL usrTest
+INFO: TimeTest : 777868
+Apr 12, 2016 11:44:33 AM TestDDL usrTest
+INFO: TimeTest : 777868
+Apr 12, 2016 11:44:33 AM TestDDL usrTest
+INFO: TimeTest : 777868
+Apr 12, 2016 11:44:33 AM TestDDL usrTest
+INFO: TimeTest : 777868
+Apr 12, 2016 11:44:33 AM TestDDL usrTest
+INFO: TimeTest : 777868
+Apr 12, 2016 11:44:33 AM TestDDL usrTest
+INFO: TimeTest : 777868
+Apr 12, 2016 11:44:33 AM TestDDL usrTest
+INFO: TimeTest : 777868
+Apr 12, 2016 11:44:33 AM TestDDL usrTest
+INFO: TimeTest : 777868
+Apr 12, 2016 11:44:33 AM TestDDL usrTest
+INFO: TimeTest : 777868
+Apr 12, 2016 11:44:33 AM TestDDL usrTest
+INFO: TestRuns :47
+Apr 12, 2016 11:44:33 AM TestDDL usrTest
+INFO: TestRuns :47
+Apr 12, 2016 11:44:33 AM TestDDL usrTest
+INFO: TestRuns :47
+Apr 12, 2016 11:44:33 AM TestDDL usrTest
+INFO: TestRuns :47
+Apr 12, 2016 11:44:33 AM TestDDL usrTest
+INFO: TestRuns :47
+Apr 12, 2016 11:44:33 AM TestDDL usrTest
+INFO: TestRuns :47
+Apr 12, 2016 11:44:33 AM TestDDL usrTest
+INFO: TestRuns :47
+Apr 12, 2016 11:44:33 AM TestDDL usrTest
+INFO: TestRuns :47
+Apr 12, 2016 11:44:33 AM TestDDL usrTest
+INFO: TestRuns :47
+Apr 12, 2016 11:44:33 AM TestDDL usrTest
+INFO: TestRuns :47
+Apr 12, 2016 11:44:33 AM TestDDL usrTest
+INFO: TestRuns :47
+Apr 12, 2016 11:44:33 AM TestDDL usrTest
+INFO: TestRuns :47
+Apr 12, 2016 11:44:33 AM TestDDL usrTest
+INFO: TestRuns :47
+Apr 12, 2016 11:44:33 AM TestDDL usrTest
+INFO: TestRuns :47
+Apr 12, 2016 11:44:33 AM TestDDL usrTest
+INFO: TestRuns :47
+Apr 12, 2016 11:44:33 AM TestDDL usrTest
+INFO: TestRuns :47
+Apr 12, 2016 11:44:33 AM TestDDL usrTest
+INFO: TestRuns :47
+Apr 12, 2016 11:44:33 AM TestDDL usrTest
+INFO: TestRuns :47
+Apr 12, 2016 11:44:33 AM TestDDL usrTest
+INFO: TestRuns :47
+Apr 12, 2016 11:44:33 AM TestDDL usrTest
+INFO: TestRuns :47
+Apr 12, 2016 11:44:33 AM TestDDL usrTest
+INFO: TestRuns :47
+Apr 12, 2016 11:44:33 AM TestDDL usrTest
+INFO: TestRuns :47
+Apr 12, 2016 11:44:33 AM TestDDL usrTest
+INFO: TestRuns :47
+Apr 12, 2016 11:44:33 AM TestDDL usrTest
+INFO: TestRuns :47
+Apr 12, 2016 11:44:33 AM TestDDL usrTest
+INFO: TestRuns :47
+Apr 12, 2016 11:44:33 AM TestDDL usrTest
+INFO: TestRuns :47
+Apr 12, 2016 11:44:33 AM TestDDL usrTest
+INFO: TestRuns :47
+Apr 12, 2016 11:44:33 AM TestDDL usrTest
+INFO: TestRuns :47
+Apr 12, 2016 11:44:33 AM TestDDL usrTest
+INFO: TestRuns :47
+Apr 12, 2016 11:44:33 AM TestDDL usrTest
+INFO: TestRuns :47
+Apr 12, 2016 11:44:33 AM TestDDL usrTest
+INFO: TestRuns :47
+Apr 12, 2016 11:44:33 AM TestDDL usrTest
+INFO: TestRuns :47
+Apr 12, 2016 11:44:33 AM TestDDL usrTest
+INFO: TestRuns :47
+Apr 12, 2016 11:44:33 AM TestDDL usrTest
+INFO: TestRuns :47
+Apr 12, 2016 11:44:33 AM TestDDL usrTest
+INFO: TestRuns :47
+Apr 12, 2016 11:44:33 AM TestDDL usrTest
+INFO: TestRuns :47
+Apr 12, 2016 11:44:33 AM TestDDL usrTest
+INFO: TestRuns :47
+Apr 12, 2016 11:44:33 AM TestDDL usrTest
+INFO: TestRuns :47
+Apr 12, 2016 11:44:33 AM TestDDL usrTest
+INFO: TestRuns :47
+Apr 12, 2016 11:44:33 AM TestDDL usrTest
+INFO: TestRuns :47
+Apr 12, 2016 11:44:33 AM TestDDL usrTest
+INFO: TestRuns :47
+Apr 12, 2016 11:44:33 AM TestDDL usrTest
+INFO: TestRuns :47
+Apr 12, 2016 11:44:33 AM TestDDL usrTest
+INFO: TestRuns :47
+Apr 12, 2016 11:44:33 AM TestDDL usrTest
+INFO: TestRuns :47
+Apr 12, 2016 11:44:33 AM TestDDL usrTest
+INFO: TestRuns :47
+Apr 12, 2016 11:44:33 AM TestDDL usrTest
+INFO: TestRuns :47
+Apr 12, 2016 11:44:33 AM TestDDL usrTest
+INFO: TestRuns :47
+Apr 12, 2016 11:44:33 AM DD_NonEx dd_helper
+INFO: 1Runs :48
+Apr 12, 2016 11:44:33 AM DD_NonEx dd_helper
+INFO: 1Size : 4
+Apr 12, 2016 11:44:34 AM TestDDL usrTest
+INFO: TimeTest : 634194
+Apr 12, 2016 11:44:34 AM TestDDL usrTest
+INFO: TimeTest : 634194
+Apr 12, 2016 11:44:34 AM TestDDL usrTest
+INFO: TimeTest : 634194
+Apr 12, 2016 11:44:34 AM TestDDL usrTest
+INFO: TimeTest : 634194
+Apr 12, 2016 11:44:34 AM TestDDL usrTest
+INFO: TimeTest : 634194
+Apr 12, 2016 11:44:34 AM TestDDL usrTest
+INFO: TimeTest : 634194
+Apr 12, 2016 11:44:34 AM TestDDL usrTest
+INFO: TimeTest : 634194
+Apr 12, 2016 11:44:34 AM TestDDL usrTest
+INFO: TimeTest : 634194
+Apr 12, 2016 11:44:34 AM TestDDL usrTest
+INFO: TimeTest : 634194
+Apr 12, 2016 11:44:34 AM TestDDL usrTest
+INFO: TimeTest : 634194
+Apr 12, 2016 11:44:34 AM TestDDL usrTest
+INFO: TimeTest : 634194
+Apr 12, 2016 11:44:34 AM TestDDL usrTest
+INFO: TimeTest : 634194
+Apr 12, 2016 11:44:34 AM TestDDL usrTest
+INFO: TimeTest : 634194
+Apr 12, 2016 11:44:34 AM TestDDL usrTest
+INFO: TimeTest : 634194
+Apr 12, 2016 11:44:34 AM TestDDL usrTest
+INFO: TimeTest : 634194
+Apr 12, 2016 11:44:34 AM TestDDL usrTest
+INFO: TimeTest : 634194
+Apr 12, 2016 11:44:34 AM TestDDL usrTest
+INFO: TimeTest : 634194
+Apr 12, 2016 11:44:34 AM TestDDL usrTest
+INFO: TimeTest : 634194
+Apr 12, 2016 11:44:34 AM TestDDL usrTest
+INFO: TimeTest : 634194
+Apr 12, 2016 11:44:34 AM TestDDL usrTest
+INFO: TimeTest : 634194
+Apr 12, 2016 11:44:34 AM TestDDL usrTest
+INFO: TimeTest : 634194
+Apr 12, 2016 11:44:34 AM TestDDL usrTest
+INFO: TimeTest : 634194
+Apr 12, 2016 11:44:34 AM TestDDL usrTest
+INFO: TimeTest : 634194
+Apr 12, 2016 11:44:34 AM TestDDL usrTest
+INFO: TimeTest : 634194
+Apr 12, 2016 11:44:34 AM TestDDL usrTest
+INFO: TimeTest : 634194
+Apr 12, 2016 11:44:34 AM TestDDL usrTest
+INFO: TimeTest : 634194
+Apr 12, 2016 11:44:34 AM TestDDL usrTest
+INFO: TimeTest : 634194
+Apr 12, 2016 11:44:34 AM TestDDL usrTest
+INFO: TimeTest : 634194
+Apr 12, 2016 11:44:34 AM TestDDL usrTest
+INFO: TimeTest : 634194
+Apr 12, 2016 11:44:34 AM TestDDL usrTest
+INFO: TimeTest : 634194
+Apr 12, 2016 11:44:34 AM TestDDL usrTest
+INFO: TimeTest : 634194
+Apr 12, 2016 11:44:34 AM TestDDL usrTest
+INFO: TimeTest : 634194
+Apr 12, 2016 11:44:34 AM TestDDL usrTest
+INFO: TimeTest : 634194
+Apr 12, 2016 11:44:34 AM TestDDL usrTest
+INFO: TimeTest : 634194
+Apr 12, 2016 11:44:34 AM TestDDL usrTest
+INFO: TimeTest : 634194
+Apr 12, 2016 11:44:34 AM TestDDL usrTest
+INFO: TimeTest : 634194
+Apr 12, 2016 11:44:34 AM TestDDL usrTest
+INFO: TimeTest : 634194
+Apr 12, 2016 11:44:34 AM TestDDL usrTest
+INFO: TimeTest : 634194
+Apr 12, 2016 11:44:34 AM TestDDL usrTest
+INFO: TimeTest : 634194
+Apr 12, 2016 11:44:34 AM TestDDL usrTest
+INFO: TimeTest : 634194
+Apr 12, 2016 11:44:34 AM TestDDL usrTest
+INFO: TimeTest : 634194
+Apr 12, 2016 11:44:34 AM TestDDL usrTest
+INFO: TimeTest : 634194
+Apr 12, 2016 11:44:34 AM TestDDL usrTest
+INFO: TimeTest : 634194
+Apr 12, 2016 11:44:34 AM TestDDL usrTest
+INFO: TimeTest : 634194
+Apr 12, 2016 11:44:34 AM TestDDL usrTest
+INFO: TimeTest : 634194
+Apr 12, 2016 11:44:34 AM TestDDL usrTest
+INFO: TimeTest : 634194
+Apr 12, 2016 11:44:34 AM TestDDL usrTest
+INFO: TimeTest : 634194
+Apr 12, 2016 11:44:34 AM TestDDL usrTest
+INFO: TimeTest : 634194
+Apr 12, 2016 11:44:34 AM TestDDL usrTest
+INFO: TestRuns :48
+Apr 12, 2016 11:44:34 AM TestDDL usrTest
+INFO: TestRuns :48
+Apr 12, 2016 11:44:34 AM TestDDL usrTest
+INFO: TestRuns :48
+Apr 12, 2016 11:44:34 AM TestDDL usrTest
+INFO: TestRuns :48
+Apr 12, 2016 11:44:34 AM TestDDL usrTest
+INFO: TestRuns :48
+Apr 12, 2016 11:44:34 AM TestDDL usrTest
+INFO: TestRuns :48
+Apr 12, 2016 11:44:34 AM TestDDL usrTest
+INFO: TestRuns :48
+Apr 12, 2016 11:44:34 AM TestDDL usrTest
+INFO: TestRuns :48
+Apr 12, 2016 11:44:34 AM TestDDL usrTest
+INFO: TestRuns :48
+Apr 12, 2016 11:44:34 AM TestDDL usrTest
+INFO: TestRuns :48
+Apr 12, 2016 11:44:34 AM TestDDL usrTest
+INFO: TestRuns :48
+Apr 12, 2016 11:44:34 AM TestDDL usrTest
+INFO: TestRuns :48
+Apr 12, 2016 11:44:34 AM TestDDL usrTest
+INFO: TestRuns :48
+Apr 12, 2016 11:44:34 AM TestDDL usrTest
+INFO: TestRuns :48
+Apr 12, 2016 11:44:34 AM TestDDL usrTest
+INFO: TestRuns :48
+Apr 12, 2016 11:44:34 AM TestDDL usrTest
+INFO: TestRuns :48
+Apr 12, 2016 11:44:34 AM TestDDL usrTest
+INFO: TestRuns :48
+Apr 12, 2016 11:44:34 AM TestDDL usrTest
+INFO: TestRuns :48
+Apr 12, 2016 11:44:34 AM TestDDL usrTest
+INFO: TestRuns :48
+Apr 12, 2016 11:44:34 AM TestDDL usrTest
+INFO: TestRuns :48
+Apr 12, 2016 11:44:34 AM TestDDL usrTest
+INFO: TestRuns :48
+Apr 12, 2016 11:44:34 AM TestDDL usrTest
+INFO: TestRuns :48
+Apr 12, 2016 11:44:34 AM TestDDL usrTest
+INFO: TestRuns :48
+Apr 12, 2016 11:44:34 AM TestDDL usrTest
+INFO: TestRuns :48
+Apr 12, 2016 11:44:34 AM TestDDL usrTest
+INFO: TestRuns :48
+Apr 12, 2016 11:44:34 AM TestDDL usrTest
+INFO: TestRuns :48
+Apr 12, 2016 11:44:34 AM TestDDL usrTest
+INFO: TestRuns :48
+Apr 12, 2016 11:44:34 AM TestDDL usrTest
+INFO: TestRuns :48
+Apr 12, 2016 11:44:34 AM TestDDL usrTest
+INFO: TestRuns :48
+Apr 12, 2016 11:44:34 AM TestDDL usrTest
+INFO: TestRuns :48
+Apr 12, 2016 11:44:34 AM TestDDL usrTest
+INFO: TestRuns :48
+Apr 12, 2016 11:44:34 AM TestDDL usrTest
+INFO: TestRuns :48
+Apr 12, 2016 11:44:34 AM TestDDL usrTest
+INFO: TestRuns :48
+Apr 12, 2016 11:44:34 AM TestDDL usrTest
+INFO: TestRuns :48
+Apr 12, 2016 11:44:34 AM TestDDL usrTest
+INFO: TestRuns :48
+Apr 12, 2016 11:44:34 AM TestDDL usrTest
+INFO: TestRuns :48
+Apr 12, 2016 11:44:34 AM TestDDL usrTest
+INFO: TestRuns :48
+Apr 12, 2016 11:44:34 AM TestDDL usrTest
+INFO: TestRuns :48
+Apr 12, 2016 11:44:34 AM TestDDL usrTest
+INFO: TestRuns :48
+Apr 12, 2016 11:44:34 AM TestDDL usrTest
+INFO: TestRuns :48
+Apr 12, 2016 11:44:34 AM TestDDL usrTest
+INFO: TestRuns :48
+Apr 12, 2016 11:44:34 AM TestDDL usrTest
+INFO: TestRuns :48
+Apr 12, 2016 11:44:34 AM TestDDL usrTest
+INFO: TestRuns :48
+Apr 12, 2016 11:44:34 AM TestDDL usrTest
+INFO: TestRuns :48
+Apr 12, 2016 11:44:34 AM TestDDL usrTest
+INFO: TestRuns :48
+Apr 12, 2016 11:44:34 AM TestDDL usrTest
+INFO: TestRuns :48
+Apr 12, 2016 11:44:34 AM TestDDL usrTest
+INFO: TestRuns :48
+Apr 12, 2016 11:44:34 AM TestDDL usrTest
+INFO: TestRuns :48
+Apr 12, 2016 11:44:35 AM TestDDL usrTest
+INFO: TimeTest : 846915
+Apr 12, 2016 11:44:35 AM TestDDL usrTest
+INFO: TimeTest : 846915
+Apr 12, 2016 11:44:35 AM TestDDL usrTest
+INFO: TimeTest : 846915
+Apr 12, 2016 11:44:35 AM TestDDL usrTest
+INFO: TimeTest : 846915
+Apr 12, 2016 11:44:35 AM TestDDL usrTest
+INFO: TimeTest : 846915
+Apr 12, 2016 11:44:35 AM TestDDL usrTest
+INFO: TimeTest : 846915
+Apr 12, 2016 11:44:35 AM TestDDL usrTest
+INFO: TimeTest : 846915
+Apr 12, 2016 11:44:35 AM TestDDL usrTest
+INFO: TimeTest : 846915
+Apr 12, 2016 11:44:35 AM TestDDL usrTest
+INFO: TimeTest : 846915
+Apr 12, 2016 11:44:35 AM TestDDL usrTest
+INFO: TimeTest : 846915
+Apr 12, 2016 11:44:35 AM TestDDL usrTest
+INFO: TimeTest : 846915
+Apr 12, 2016 11:44:35 AM TestDDL usrTest
+INFO: TimeTest : 846915
+Apr 12, 2016 11:44:35 AM TestDDL usrTest
+INFO: TimeTest : 846915
+Apr 12, 2016 11:44:35 AM TestDDL usrTest
+INFO: TimeTest : 846915
+Apr 12, 2016 11:44:35 AM TestDDL usrTest
+INFO: TimeTest : 846915
+Apr 12, 2016 11:44:35 AM TestDDL usrTest
+INFO: TimeTest : 846915
+Apr 12, 2016 11:44:35 AM TestDDL usrTest
+INFO: TimeTest : 846915
+Apr 12, 2016 11:44:35 AM TestDDL usrTest
+INFO: TimeTest : 846915
+Apr 12, 2016 11:44:35 AM TestDDL usrTest
+INFO: TimeTest : 846915
+Apr 12, 2016 11:44:35 AM TestDDL usrTest
+INFO: TimeTest : 846915
+Apr 12, 2016 11:44:35 AM TestDDL usrTest
+INFO: TimeTest : 846915
+Apr 12, 2016 11:44:35 AM TestDDL usrTest
+INFO: TimeTest : 846915
+Apr 12, 2016 11:44:35 AM TestDDL usrTest
+INFO: TimeTest : 846915
+Apr 12, 2016 11:44:35 AM TestDDL usrTest
+INFO: TimeTest : 846915
+Apr 12, 2016 11:44:35 AM TestDDL usrTest
+INFO: TimeTest : 846915
+Apr 12, 2016 11:44:35 AM TestDDL usrTest
+INFO: TimeTest : 846915
+Apr 12, 2016 11:44:35 AM TestDDL usrTest
+INFO: TimeTest : 846915
+Apr 12, 2016 11:44:35 AM TestDDL usrTest
+INFO: TimeTest : 846915
+Apr 12, 2016 11:44:35 AM TestDDL usrTest
+INFO: TimeTest : 846915
+Apr 12, 2016 11:44:35 AM TestDDL usrTest
+INFO: TimeTest : 846915
+Apr 12, 2016 11:44:35 AM TestDDL usrTest
+INFO: TimeTest : 846915
+Apr 12, 2016 11:44:35 AM TestDDL usrTest
+INFO: TimeTest : 846915
+Apr 12, 2016 11:44:35 AM TestDDL usrTest
+INFO: TimeTest : 846915
+Apr 12, 2016 11:44:35 AM TestDDL usrTest
+INFO: TimeTest : 846915
+Apr 12, 2016 11:44:35 AM TestDDL usrTest
+INFO: TimeTest : 846915
+Apr 12, 2016 11:44:35 AM TestDDL usrTest
+INFO: TimeTest : 846915
+Apr 12, 2016 11:44:35 AM TestDDL usrTest
+INFO: TimeTest : 846915
+Apr 12, 2016 11:44:35 AM TestDDL usrTest
+INFO: TimeTest : 846915
+Apr 12, 2016 11:44:35 AM TestDDL usrTest
+INFO: TimeTest : 846915
+Apr 12, 2016 11:44:35 AM TestDDL usrTest
+INFO: TimeTest : 846915
+Apr 12, 2016 11:44:35 AM TestDDL usrTest
+INFO: TimeTest : 846915
+Apr 12, 2016 11:44:35 AM TestDDL usrTest
+INFO: TimeTest : 846915
+Apr 12, 2016 11:44:35 AM TestDDL usrTest
+INFO: TimeTest : 846915
+Apr 12, 2016 11:44:35 AM TestDDL usrTest
+INFO: TimeTest : 846915
+Apr 12, 2016 11:44:35 AM TestDDL usrTest
+INFO: TimeTest : 846915
+Apr 12, 2016 11:44:35 AM TestDDL usrTest
+INFO: TimeTest : 846915
+Apr 12, 2016 11:44:35 AM TestDDL usrTest
+INFO: TimeTest : 846915
+Apr 12, 2016 11:44:35 AM TestDDL usrTest
+INFO: TimeTest : 846915
+Apr 12, 2016 11:44:35 AM TestDDL usrTest
+INFO: TimeTest : 846915
+Apr 12, 2016 11:44:35 AM TestDDL usrTest
+INFO: TestRuns :49
+Apr 12, 2016 11:44:35 AM TestDDL usrTest
+INFO: TestRuns :49
+Apr 12, 2016 11:44:35 AM TestDDL usrTest
+INFO: TestRuns :49
+Apr 12, 2016 11:44:35 AM TestDDL usrTest
+INFO: TestRuns :49
+Apr 12, 2016 11:44:35 AM TestDDL usrTest
+INFO: TestRuns :49
+Apr 12, 2016 11:44:35 AM TestDDL usrTest
+INFO: TestRuns :49
+Apr 12, 2016 11:44:35 AM TestDDL usrTest
+INFO: TestRuns :49
+Apr 12, 2016 11:44:35 AM TestDDL usrTest
+INFO: TestRuns :49
+Apr 12, 2016 11:44:35 AM TestDDL usrTest
+INFO: TestRuns :49
+Apr 12, 2016 11:44:35 AM TestDDL usrTest
+INFO: TestRuns :49
+Apr 12, 2016 11:44:35 AM TestDDL usrTest
+INFO: TestRuns :49
+Apr 12, 2016 11:44:35 AM TestDDL usrTest
+INFO: TestRuns :49
+Apr 12, 2016 11:44:35 AM TestDDL usrTest
+INFO: TestRuns :49
+Apr 12, 2016 11:44:35 AM TestDDL usrTest
+INFO: TestRuns :49
+Apr 12, 2016 11:44:35 AM TestDDL usrTest
+INFO: TestRuns :49
+Apr 12, 2016 11:44:35 AM TestDDL usrTest
+INFO: TestRuns :49
+Apr 12, 2016 11:44:35 AM TestDDL usrTest
+INFO: TestRuns :49
+Apr 12, 2016 11:44:35 AM TestDDL usrTest
+INFO: TestRuns :49
+Apr 12, 2016 11:44:35 AM TestDDL usrTest
+INFO: TestRuns :49
+Apr 12, 2016 11:44:35 AM TestDDL usrTest
+INFO: TestRuns :49
+Apr 12, 2016 11:44:35 AM TestDDL usrTest
+INFO: TestRuns :49
+Apr 12, 2016 11:44:35 AM TestDDL usrTest
+INFO: TestRuns :49
+Apr 12, 2016 11:44:35 AM TestDDL usrTest
+INFO: TestRuns :49
+Apr 12, 2016 11:44:35 AM TestDDL usrTest
+INFO: TestRuns :49
+Apr 12, 2016 11:44:35 AM TestDDL usrTest
+INFO: TestRuns :49
+Apr 12, 2016 11:44:35 AM TestDDL usrTest
+INFO: TestRuns :49
+Apr 12, 2016 11:44:35 AM TestDDL usrTest
+INFO: TestRuns :49
+Apr 12, 2016 11:44:35 AM TestDDL usrTest
+INFO: TestRuns :49
+Apr 12, 2016 11:44:35 AM TestDDL usrTest
+INFO: TestRuns :49
+Apr 12, 2016 11:44:35 AM TestDDL usrTest
+INFO: TestRuns :49
+Apr 12, 2016 11:44:35 AM TestDDL usrTest
+INFO: TestRuns :49
+Apr 12, 2016 11:44:35 AM TestDDL usrTest
+INFO: TestRuns :49
+Apr 12, 2016 11:44:35 AM TestDDL usrTest
+INFO: TestRuns :49
+Apr 12, 2016 11:44:35 AM TestDDL usrTest
+INFO: TestRuns :49
+Apr 12, 2016 11:44:35 AM TestDDL usrTest
+INFO: TestRuns :49
+Apr 12, 2016 11:44:35 AM TestDDL usrTest
+INFO: TestRuns :49
+Apr 12, 2016 11:44:35 AM TestDDL usrTest
+INFO: TestRuns :49
+Apr 12, 2016 11:44:35 AM TestDDL usrTest
+INFO: TestRuns :49
+Apr 12, 2016 11:44:35 AM TestDDL usrTest
+INFO: TestRuns :49
+Apr 12, 2016 11:44:35 AM TestDDL usrTest
+INFO: TestRuns :49
+Apr 12, 2016 11:44:35 AM TestDDL usrTest
+INFO: TestRuns :49
+Apr 12, 2016 11:44:35 AM TestDDL usrTest
+INFO: TestRuns :49
+Apr 12, 2016 11:44:35 AM TestDDL usrTest
+INFO: TestRuns :49
+Apr 12, 2016 11:44:35 AM TestDDL usrTest
+INFO: TestRuns :49
+Apr 12, 2016 11:44:35 AM TestDDL usrTest
+INFO: TestRuns :49
+Apr 12, 2016 11:44:35 AM TestDDL usrTest
+INFO: TestRuns :49
+Apr 12, 2016 11:44:35 AM TestDDL usrTest
+INFO: TestRuns :49
+Apr 12, 2016 11:44:35 AM TestDDL usrTest
+INFO: TestRuns :49
+Apr 12, 2016 11:44:35 AM TestDDL usrTest
+INFO: TestRuns :49
+Apr 12, 2016 11:44:35 AM DD_NonEx dd_helper
+INFO: 1Runs :50
+Apr 12, 2016 11:44:35 AM DD_NonEx dd_helper
+INFO: 1Size : 4
+Apr 12, 2016 11:44:36 AM TestDDL usrTest
+INFO: TimeTest : 725799
+Apr 12, 2016 11:44:36 AM TestDDL usrTest
+INFO: TimeTest : 725799
+Apr 12, 2016 11:44:36 AM TestDDL usrTest
+INFO: TimeTest : 725799
+Apr 12, 2016 11:44:36 AM TestDDL usrTest
+INFO: TimeTest : 725799
+Apr 12, 2016 11:44:36 AM TestDDL usrTest
+INFO: TimeTest : 725799
+Apr 12, 2016 11:44:36 AM TestDDL usrTest
+INFO: TimeTest : 725799
+Apr 12, 2016 11:44:36 AM TestDDL usrTest
+INFO: TimeTest : 725799
+Apr 12, 2016 11:44:36 AM TestDDL usrTest
+INFO: TimeTest : 725799
+Apr 12, 2016 11:44:36 AM TestDDL usrTest
+INFO: TimeTest : 725799
+Apr 12, 2016 11:44:36 AM TestDDL usrTest
+INFO: TimeTest : 725799
+Apr 12, 2016 11:44:36 AM TestDDL usrTest
+INFO: TimeTest : 725799
+Apr 12, 2016 11:44:36 AM TestDDL usrTest
+INFO: TimeTest : 725799
+Apr 12, 2016 11:44:36 AM TestDDL usrTest
+INFO: TimeTest : 725799
+Apr 12, 2016 11:44:36 AM TestDDL usrTest
+INFO: TimeTest : 725799
+Apr 12, 2016 11:44:36 AM TestDDL usrTest
+INFO: TimeTest : 725799
+Apr 12, 2016 11:44:36 AM TestDDL usrTest
+INFO: TimeTest : 725799
+Apr 12, 2016 11:44:36 AM TestDDL usrTest
+INFO: TimeTest : 725799
+Apr 12, 2016 11:44:36 AM TestDDL usrTest
+INFO: TimeTest : 725799
+Apr 12, 2016 11:44:36 AM TestDDL usrTest
+INFO: TimeTest : 725799
+Apr 12, 2016 11:44:36 AM TestDDL usrTest
+INFO: TimeTest : 725799
+Apr 12, 2016 11:44:36 AM TestDDL usrTest
+INFO: TimeTest : 725799
+Apr 12, 2016 11:44:36 AM TestDDL usrTest
+INFO: TimeTest : 725799
+Apr 12, 2016 11:44:36 AM TestDDL usrTest
+INFO: TimeTest : 725799
+Apr 12, 2016 11:44:36 AM TestDDL usrTest
+INFO: TimeTest : 725799
+Apr 12, 2016 11:44:36 AM TestDDL usrTest
+INFO: TimeTest : 725799
+Apr 12, 2016 11:44:36 AM TestDDL usrTest
+INFO: TimeTest : 725799
+Apr 12, 2016 11:44:36 AM TestDDL usrTest
+INFO: TimeTest : 725799
+Apr 12, 2016 11:44:36 AM TestDDL usrTest
+INFO: TimeTest : 725799
+Apr 12, 2016 11:44:36 AM TestDDL usrTest
+INFO: TimeTest : 725799
+Apr 12, 2016 11:44:36 AM TestDDL usrTest
+INFO: TimeTest : 725799
+Apr 12, 2016 11:44:36 AM TestDDL usrTest
+INFO: TimeTest : 725799
+Apr 12, 2016 11:44:36 AM TestDDL usrTest
+INFO: TimeTest : 725799
+Apr 12, 2016 11:44:36 AM TestDDL usrTest
+INFO: TimeTest : 725799
+Apr 12, 2016 11:44:36 AM TestDDL usrTest
+INFO: TimeTest : 725799
+Apr 12, 2016 11:44:36 AM TestDDL usrTest
+INFO: TimeTest : 725799
+Apr 12, 2016 11:44:36 AM TestDDL usrTest
+INFO: TimeTest : 725799
+Apr 12, 2016 11:44:36 AM TestDDL usrTest
+INFO: TimeTest : 725799
+Apr 12, 2016 11:44:36 AM TestDDL usrTest
+INFO: TimeTest : 725799
+Apr 12, 2016 11:44:36 AM TestDDL usrTest
+INFO: TimeTest : 725799
+Apr 12, 2016 11:44:36 AM TestDDL usrTest
+INFO: TimeTest : 725799
+Apr 12, 2016 11:44:36 AM TestDDL usrTest
+INFO: TimeTest : 725799
+Apr 12, 2016 11:44:36 AM TestDDL usrTest
+INFO: TimeTest : 725799
+Apr 12, 2016 11:44:36 AM TestDDL usrTest
+INFO: TimeTest : 725799
+Apr 12, 2016 11:44:36 AM TestDDL usrTest
+INFO: TimeTest : 725799
+Apr 12, 2016 11:44:36 AM TestDDL usrTest
+INFO: TimeTest : 725799
+Apr 12, 2016 11:44:36 AM TestDDL usrTest
+INFO: TimeTest : 725799
+Apr 12, 2016 11:44:36 AM TestDDL usrTest
+INFO: TimeTest : 725799
+Apr 12, 2016 11:44:36 AM TestDDL usrTest
+INFO: TimeTest : 725799
+Apr 12, 2016 11:44:36 AM TestDDL usrTest
+INFO: TimeTest : 725799
+Apr 12, 2016 11:44:36 AM TestDDL usrTest
+INFO: TimeTest : 725799
+Apr 12, 2016 11:44:36 AM TestDDL usrTest
+INFO: TestRuns :50
+Apr 12, 2016 11:44:36 AM TestDDL usrTest
+INFO: TestRuns :50
+Apr 12, 2016 11:44:36 AM TestDDL usrTest
+INFO: TestRuns :50
+Apr 12, 2016 11:44:36 AM TestDDL usrTest
+INFO: TestRuns :50
+Apr 12, 2016 11:44:36 AM TestDDL usrTest
+INFO: TestRuns :50
+Apr 12, 2016 11:44:36 AM TestDDL usrTest
+INFO: TestRuns :50
+Apr 12, 2016 11:44:36 AM TestDDL usrTest
+INFO: TestRuns :50
+Apr 12, 2016 11:44:36 AM TestDDL usrTest
+INFO: TestRuns :50
+Apr 12, 2016 11:44:36 AM TestDDL usrTest
+INFO: TestRuns :50
+Apr 12, 2016 11:44:36 AM TestDDL usrTest
+INFO: TestRuns :50
+Apr 12, 2016 11:44:36 AM TestDDL usrTest
+INFO: TestRuns :50
+Apr 12, 2016 11:44:36 AM TestDDL usrTest
+INFO: TestRuns :50
+Apr 12, 2016 11:44:36 AM TestDDL usrTest
+INFO: TestRuns :50
+Apr 12, 2016 11:44:36 AM TestDDL usrTest
+INFO: TestRuns :50
+Apr 12, 2016 11:44:36 AM TestDDL usrTest
+INFO: TestRuns :50
+Apr 12, 2016 11:44:36 AM TestDDL usrTest
+INFO: TestRuns :50
+Apr 12, 2016 11:44:36 AM TestDDL usrTest
+INFO: TestRuns :50
+Apr 12, 2016 11:44:36 AM TestDDL usrTest
+INFO: TestRuns :50
+Apr 12, 2016 11:44:36 AM TestDDL usrTest
+INFO: TestRuns :50
+Apr 12, 2016 11:44:36 AM TestDDL usrTest
+INFO: TestRuns :50
+Apr 12, 2016 11:44:36 AM TestDDL usrTest
+INFO: TestRuns :50
+Apr 12, 2016 11:44:36 AM TestDDL usrTest
+INFO: TestRuns :50
+Apr 12, 2016 11:44:36 AM TestDDL usrTest
+INFO: TestRuns :50
+Apr 12, 2016 11:44:36 AM TestDDL usrTest
+INFO: TestRuns :50
+Apr 12, 2016 11:44:36 AM TestDDL usrTest
+INFO: TestRuns :50
+Apr 12, 2016 11:44:36 AM TestDDL usrTest
+INFO: TestRuns :50
+Apr 12, 2016 11:44:36 AM TestDDL usrTest
+INFO: TestRuns :50
+Apr 12, 2016 11:44:36 AM TestDDL usrTest
+INFO: TestRuns :50
+Apr 12, 2016 11:44:36 AM TestDDL usrTest
+INFO: TestRuns :50
+Apr 12, 2016 11:44:36 AM TestDDL usrTest
+INFO: TestRuns :50
+Apr 12, 2016 11:44:36 AM TestDDL usrTest
+INFO: TestRuns :50
+Apr 12, 2016 11:44:36 AM TestDDL usrTest
+INFO: TestRuns :50
+Apr 12, 2016 11:44:36 AM TestDDL usrTest
+INFO: TestRuns :50
+Apr 12, 2016 11:44:36 AM TestDDL usrTest
+INFO: TestRuns :50
+Apr 12, 2016 11:44:36 AM TestDDL usrTest
+INFO: TestRuns :50
+Apr 12, 2016 11:44:36 AM TestDDL usrTest
+INFO: TestRuns :50
+Apr 12, 2016 11:44:36 AM TestDDL usrTest
+INFO: TestRuns :50
+Apr 12, 2016 11:44:36 AM TestDDL usrTest
+INFO: TestRuns :50
+Apr 12, 2016 11:44:36 AM TestDDL usrTest
+INFO: TestRuns :50
+Apr 12, 2016 11:44:36 AM TestDDL usrTest
+INFO: TestRuns :50
+Apr 12, 2016 11:44:36 AM TestDDL usrTest
+INFO: TestRuns :50
+Apr 12, 2016 11:44:36 AM TestDDL usrTest
+INFO: TestRuns :50
+Apr 12, 2016 11:44:36 AM TestDDL usrTest
+INFO: TestRuns :50
+Apr 12, 2016 11:44:36 AM TestDDL usrTest
+INFO: TestRuns :50
+Apr 12, 2016 11:44:36 AM TestDDL usrTest
+INFO: TestRuns :50
+Apr 12, 2016 11:44:36 AM TestDDL usrTest
+INFO: TestRuns :50
+Apr 12, 2016 11:44:36 AM TestDDL usrTest
+INFO: TestRuns :50
+Apr 12, 2016 11:44:36 AM TestDDL usrTest
+INFO: TestRuns :50
+Apr 12, 2016 11:44:36 AM TestDDL usrTest
+INFO: TestRuns :50
+Apr 12, 2016 11:44:36 AM TestDDL usrTest
+INFO: TestRuns :50
+Apr 12, 2016 11:44:37 AM TestDDL usrTest
+INFO: TimeTest : 659825
+Apr 12, 2016 11:44:37 AM TestDDL usrTest
+INFO: TimeTest : 659825
+Apr 12, 2016 11:44:37 AM TestDDL usrTest
+INFO: TimeTest : 659825
+Apr 12, 2016 11:44:37 AM TestDDL usrTest
+INFO: TimeTest : 659825
+Apr 12, 2016 11:44:37 AM TestDDL usrTest
+INFO: TimeTest : 659825
+Apr 12, 2016 11:44:37 AM TestDDL usrTest
+INFO: TimeTest : 659825
+Apr 12, 2016 11:44:37 AM TestDDL usrTest
+INFO: TimeTest : 659825
+Apr 12, 2016 11:44:37 AM TestDDL usrTest
+INFO: TimeTest : 659825
+Apr 12, 2016 11:44:37 AM TestDDL usrTest
+INFO: TimeTest : 659825
+Apr 12, 2016 11:44:37 AM TestDDL usrTest
+INFO: TimeTest : 659825
+Apr 12, 2016 11:44:37 AM TestDDL usrTest
+INFO: TimeTest : 659825
+Apr 12, 2016 11:44:37 AM TestDDL usrTest
+INFO: TimeTest : 659825
+Apr 12, 2016 11:44:37 AM TestDDL usrTest
+INFO: TimeTest : 659825
+Apr 12, 2016 11:44:37 AM TestDDL usrTest
+INFO: TimeTest : 659825
+Apr 12, 2016 11:44:37 AM TestDDL usrTest
+INFO: TimeTest : 659825
+Apr 12, 2016 11:44:37 AM TestDDL usrTest
+INFO: TimeTest : 659825
+Apr 12, 2016 11:44:37 AM TestDDL usrTest
+INFO: TimeTest : 659825
+Apr 12, 2016 11:44:37 AM TestDDL usrTest
+INFO: TimeTest : 659825
+Apr 12, 2016 11:44:37 AM TestDDL usrTest
+INFO: TimeTest : 659825
+Apr 12, 2016 11:44:37 AM TestDDL usrTest
+INFO: TimeTest : 659825
+Apr 12, 2016 11:44:37 AM TestDDL usrTest
+INFO: TimeTest : 659825
+Apr 12, 2016 11:44:37 AM TestDDL usrTest
+INFO: TimeTest : 659825
+Apr 12, 2016 11:44:37 AM TestDDL usrTest
+INFO: TimeTest : 659825
+Apr 12, 2016 11:44:37 AM TestDDL usrTest
+INFO: TimeTest : 659825
+Apr 12, 2016 11:44:37 AM TestDDL usrTest
+INFO: TimeTest : 659825
+Apr 12, 2016 11:44:37 AM TestDDL usrTest
+INFO: TimeTest : 659825
+Apr 12, 2016 11:44:37 AM TestDDL usrTest
+INFO: TimeTest : 659825
+Apr 12, 2016 11:44:37 AM TestDDL usrTest
+INFO: TimeTest : 659825
+Apr 12, 2016 11:44:37 AM TestDDL usrTest
+INFO: TimeTest : 659825
+Apr 12, 2016 11:44:37 AM TestDDL usrTest
+INFO: TimeTest : 659825
+Apr 12, 2016 11:44:37 AM TestDDL usrTest
+INFO: TimeTest : 659825
+Apr 12, 2016 11:44:37 AM TestDDL usrTest
+INFO: TimeTest : 659825
+Apr 12, 2016 11:44:37 AM TestDDL usrTest
+INFO: TimeTest : 659825
+Apr 12, 2016 11:44:37 AM TestDDL usrTest
+INFO: TimeTest : 659825
+Apr 12, 2016 11:44:37 AM TestDDL usrTest
+INFO: TimeTest : 659825
+Apr 12, 2016 11:44:37 AM TestDDL usrTest
+INFO: TimeTest : 659825
+Apr 12, 2016 11:44:37 AM TestDDL usrTest
+INFO: TimeTest : 659825
+Apr 12, 2016 11:44:37 AM TestDDL usrTest
+INFO: TimeTest : 659825
+Apr 12, 2016 11:44:37 AM TestDDL usrTest
+INFO: TimeTest : 659825
+Apr 12, 2016 11:44:37 AM TestDDL usrTest
+INFO: TimeTest : 659825
+Apr 12, 2016 11:44:37 AM TestDDL usrTest
+INFO: TimeTest : 659825
+Apr 12, 2016 11:44:37 AM TestDDL usrTest
+INFO: TimeTest : 659825
+Apr 12, 2016 11:44:37 AM TestDDL usrTest
+INFO: TimeTest : 659825
+Apr 12, 2016 11:44:37 AM TestDDL usrTest
+INFO: TimeTest : 659825
+Apr 12, 2016 11:44:37 AM TestDDL usrTest
+INFO: TimeTest : 659825
+Apr 12, 2016 11:44:37 AM TestDDL usrTest
+INFO: TimeTest : 659825
+Apr 12, 2016 11:44:37 AM TestDDL usrTest
+INFO: TimeTest : 659825
+Apr 12, 2016 11:44:37 AM TestDDL usrTest
+INFO: TimeTest : 659825
+Apr 12, 2016 11:44:37 AM TestDDL usrTest
+INFO: TimeTest : 659825
+Apr 12, 2016 11:44:37 AM TestDDL usrTest
+INFO: TimeTest : 659825
+Apr 12, 2016 11:44:37 AM TestDDL usrTest
+INFO: TimeTest : 659825
+Apr 12, 2016 11:44:37 AM TestDDL usrTest
+INFO: TestRuns :51
+Apr 12, 2016 11:44:37 AM TestDDL usrTest
+INFO: TestRuns :51
+Apr 12, 2016 11:44:37 AM TestDDL usrTest
+INFO: TestRuns :51
+Apr 12, 2016 11:44:37 AM TestDDL usrTest
+INFO: TestRuns :51
+Apr 12, 2016 11:44:37 AM TestDDL usrTest
+INFO: TestRuns :51
+Apr 12, 2016 11:44:37 AM TestDDL usrTest
+INFO: TestRuns :51
+Apr 12, 2016 11:44:37 AM TestDDL usrTest
+INFO: TestRuns :51
+Apr 12, 2016 11:44:37 AM TestDDL usrTest
+INFO: TestRuns :51
+Apr 12, 2016 11:44:37 AM TestDDL usrTest
+INFO: TestRuns :51
+Apr 12, 2016 11:44:37 AM TestDDL usrTest
+INFO: TestRuns :51
+Apr 12, 2016 11:44:37 AM TestDDL usrTest
+INFO: TestRuns :51
+Apr 12, 2016 11:44:37 AM TestDDL usrTest
+INFO: TestRuns :51
+Apr 12, 2016 11:44:37 AM TestDDL usrTest
+INFO: TestRuns :51
+Apr 12, 2016 11:44:37 AM TestDDL usrTest
+INFO: TestRuns :51
+Apr 12, 2016 11:44:37 AM TestDDL usrTest
+INFO: TestRuns :51
+Apr 12, 2016 11:44:37 AM TestDDL usrTest
+INFO: TestRuns :51
+Apr 12, 2016 11:44:37 AM TestDDL usrTest
+INFO: TestRuns :51
+Apr 12, 2016 11:44:37 AM TestDDL usrTest
+INFO: TestRuns :51
+Apr 12, 2016 11:44:37 AM TestDDL usrTest
+INFO: TestRuns :51
+Apr 12, 2016 11:44:37 AM TestDDL usrTest
+INFO: TestRuns :51
+Apr 12, 2016 11:44:37 AM TestDDL usrTest
+INFO: TestRuns :51
+Apr 12, 2016 11:44:37 AM TestDDL usrTest
+INFO: TestRuns :51
+Apr 12, 2016 11:44:37 AM TestDDL usrTest
+INFO: TestRuns :51
+Apr 12, 2016 11:44:37 AM TestDDL usrTest
+INFO: TestRuns :51
+Apr 12, 2016 11:44:37 AM TestDDL usrTest
+INFO: TestRuns :51
+Apr 12, 2016 11:44:37 AM TestDDL usrTest
+INFO: TestRuns :51
+Apr 12, 2016 11:44:37 AM TestDDL usrTest
+INFO: TestRuns :51
+Apr 12, 2016 11:44:37 AM TestDDL usrTest
+INFO: TestRuns :51
+Apr 12, 2016 11:44:37 AM TestDDL usrTest
+INFO: TestRuns :51
+Apr 12, 2016 11:44:37 AM TestDDL usrTest
+INFO: TestRuns :51
+Apr 12, 2016 11:44:37 AM TestDDL usrTest
+INFO: TestRuns :51
+Apr 12, 2016 11:44:37 AM TestDDL usrTest
+INFO: TestRuns :51
+Apr 12, 2016 11:44:37 AM TestDDL usrTest
+INFO: TestRuns :51
+Apr 12, 2016 11:44:37 AM TestDDL usrTest
+INFO: TestRuns :51
+Apr 12, 2016 11:44:37 AM TestDDL usrTest
+INFO: TestRuns :51
+Apr 12, 2016 11:44:37 AM TestDDL usrTest
+INFO: TestRuns :51
+Apr 12, 2016 11:44:37 AM TestDDL usrTest
+INFO: TestRuns :51
+Apr 12, 2016 11:44:37 AM TestDDL usrTest
+INFO: TestRuns :51
+Apr 12, 2016 11:44:37 AM TestDDL usrTest
+INFO: TestRuns :51
+Apr 12, 2016 11:44:37 AM TestDDL usrTest
+INFO: TestRuns :51
+Apr 12, 2016 11:44:37 AM TestDDL usrTest
+INFO: TestRuns :51
+Apr 12, 2016 11:44:37 AM TestDDL usrTest
+INFO: TestRuns :51
+Apr 12, 2016 11:44:37 AM TestDDL usrTest
+INFO: TestRuns :51
+Apr 12, 2016 11:44:37 AM TestDDL usrTest
+INFO: TestRuns :51
+Apr 12, 2016 11:44:37 AM TestDDL usrTest
+INFO: TestRuns :51
+Apr 12, 2016 11:44:37 AM TestDDL usrTest
+INFO: TestRuns :51
+Apr 12, 2016 11:44:37 AM TestDDL usrTest
+INFO: TestRuns :51
+Apr 12, 2016 11:44:37 AM TestDDL usrTest
+INFO: TestRuns :51
+Apr 12, 2016 11:44:37 AM TestDDL usrTest
+INFO: TestRuns :51
+Apr 12, 2016 11:44:37 AM TestDDL usrTest
+INFO: TestRuns :51
+Apr 12, 2016 11:44:37 AM TestDDL usrTest
+INFO: TestRuns :51
+Apr 12, 2016 11:44:37 AM DD_NonEx dd_helper
+INFO: 1Runs :52
+Apr 12, 2016 11:44:37 AM DD_NonEx dd_helper
+INFO: 1Size : 2
+Apr 12, 2016 11:44:38 AM TestDDL usrTest
+INFO: TimeTest : 756261
+Apr 12, 2016 11:44:38 AM TestDDL usrTest
+INFO: TimeTest : 756261
+Apr 12, 2016 11:44:38 AM TestDDL usrTest
+INFO: TimeTest : 756261
+Apr 12, 2016 11:44:38 AM TestDDL usrTest
+INFO: TimeTest : 756261
+Apr 12, 2016 11:44:38 AM TestDDL usrTest
+INFO: TimeTest : 756261
+Apr 12, 2016 11:44:38 AM TestDDL usrTest
+INFO: TimeTest : 756261
+Apr 12, 2016 11:44:38 AM TestDDL usrTest
+INFO: TimeTest : 756261
+Apr 12, 2016 11:44:38 AM TestDDL usrTest
+INFO: TimeTest : 756261
+Apr 12, 2016 11:44:38 AM TestDDL usrTest
+INFO: TimeTest : 756261
+Apr 12, 2016 11:44:38 AM TestDDL usrTest
+INFO: TimeTest : 756261
+Apr 12, 2016 11:44:38 AM TestDDL usrTest
+INFO: TimeTest : 756261
+Apr 12, 2016 11:44:38 AM TestDDL usrTest
+INFO: TimeTest : 756261
+Apr 12, 2016 11:44:38 AM TestDDL usrTest
+INFO: TimeTest : 756261
+Apr 12, 2016 11:44:38 AM TestDDL usrTest
+INFO: TimeTest : 756261
+Apr 12, 2016 11:44:38 AM TestDDL usrTest
+INFO: TimeTest : 756261
+Apr 12, 2016 11:44:38 AM TestDDL usrTest
+INFO: TimeTest : 756261
+Apr 12, 2016 11:44:38 AM TestDDL usrTest
+INFO: TimeTest : 756261
+Apr 12, 2016 11:44:38 AM TestDDL usrTest
+INFO: TimeTest : 756261
+Apr 12, 2016 11:44:38 AM TestDDL usrTest
+INFO: TimeTest : 756261
+Apr 12, 2016 11:44:38 AM TestDDL usrTest
+INFO: TimeTest : 756261
+Apr 12, 2016 11:44:38 AM TestDDL usrTest
+INFO: TimeTest : 756261
+Apr 12, 2016 11:44:38 AM TestDDL usrTest
+INFO: TimeTest : 756261
+Apr 12, 2016 11:44:38 AM TestDDL usrTest
+INFO: TimeTest : 756261
+Apr 12, 2016 11:44:38 AM TestDDL usrTest
+INFO: TimeTest : 756261
+Apr 12, 2016 11:44:38 AM TestDDL usrTest
+INFO: TimeTest : 756261
+Apr 12, 2016 11:44:38 AM TestDDL usrTest
+INFO: TimeTest : 756261
+Apr 12, 2016 11:44:38 AM TestDDL usrTest
+INFO: TimeTest : 756261
+Apr 12, 2016 11:44:38 AM TestDDL usrTest
+INFO: TimeTest : 756261
+Apr 12, 2016 11:44:38 AM TestDDL usrTest
+INFO: TimeTest : 756261
+Apr 12, 2016 11:44:38 AM TestDDL usrTest
+INFO: TimeTest : 756261
+Apr 12, 2016 11:44:38 AM TestDDL usrTest
+INFO: TimeTest : 756261
+Apr 12, 2016 11:44:38 AM TestDDL usrTest
+INFO: TimeTest : 756261
+Apr 12, 2016 11:44:38 AM TestDDL usrTest
+INFO: TimeTest : 756261
+Apr 12, 2016 11:44:38 AM TestDDL usrTest
+INFO: TimeTest : 756261
+Apr 12, 2016 11:44:38 AM TestDDL usrTest
+INFO: TimeTest : 756261
+Apr 12, 2016 11:44:38 AM TestDDL usrTest
+INFO: TimeTest : 756261
+Apr 12, 2016 11:44:38 AM TestDDL usrTest
+INFO: TimeTest : 756261
+Apr 12, 2016 11:44:38 AM TestDDL usrTest
+INFO: TimeTest : 756261
+Apr 12, 2016 11:44:38 AM TestDDL usrTest
+INFO: TimeTest : 756261
+Apr 12, 2016 11:44:38 AM TestDDL usrTest
+INFO: TimeTest : 756261
+Apr 12, 2016 11:44:38 AM TestDDL usrTest
+INFO: TimeTest : 756261
+Apr 12, 2016 11:44:38 AM TestDDL usrTest
+INFO: TimeTest : 756261
+Apr 12, 2016 11:44:38 AM TestDDL usrTest
+INFO: TimeTest : 756261
+Apr 12, 2016 11:44:38 AM TestDDL usrTest
+INFO: TimeTest : 756261
+Apr 12, 2016 11:44:38 AM TestDDL usrTest
+INFO: TimeTest : 756261
+Apr 12, 2016 11:44:38 AM TestDDL usrTest
+INFO: TimeTest : 756261
+Apr 12, 2016 11:44:38 AM TestDDL usrTest
+INFO: TimeTest : 756261
+Apr 12, 2016 11:44:38 AM TestDDL usrTest
+INFO: TimeTest : 756261
+Apr 12, 2016 11:44:38 AM TestDDL usrTest
+INFO: TimeTest : 756261
+Apr 12, 2016 11:44:38 AM TestDDL usrTest
+INFO: TimeTest : 756261
+Apr 12, 2016 11:44:38 AM TestDDL usrTest
+INFO: TimeTest : 756261
+Apr 12, 2016 11:44:38 AM TestDDL usrTest
+INFO: TimeTest : 756261
+Apr 12, 2016 11:44:38 AM TestDDL usrTest
+INFO: TestRuns :52
+Apr 12, 2016 11:44:38 AM TestDDL usrTest
+INFO: TestRuns :52
+Apr 12, 2016 11:44:38 AM TestDDL usrTest
+INFO: TestRuns :52
+Apr 12, 2016 11:44:38 AM TestDDL usrTest
+INFO: TestRuns :52
+Apr 12, 2016 11:44:38 AM TestDDL usrTest
+INFO: TestRuns :52
+Apr 12, 2016 11:44:38 AM TestDDL usrTest
+INFO: TestRuns :52
+Apr 12, 2016 11:44:38 AM TestDDL usrTest
+INFO: TestRuns :52
+Apr 12, 2016 11:44:38 AM TestDDL usrTest
+INFO: TestRuns :52
+Apr 12, 2016 11:44:38 AM TestDDL usrTest
+INFO: TestRuns :52
+Apr 12, 2016 11:44:38 AM TestDDL usrTest
+INFO: TestRuns :52
+Apr 12, 2016 11:44:38 AM TestDDL usrTest
+INFO: TestRuns :52
+Apr 12, 2016 11:44:38 AM TestDDL usrTest
+INFO: TestRuns :52
+Apr 12, 2016 11:44:38 AM TestDDL usrTest
+INFO: TestRuns :52
+Apr 12, 2016 11:44:38 AM TestDDL usrTest
+INFO: TestRuns :52
+Apr 12, 2016 11:44:38 AM TestDDL usrTest
+INFO: TestRuns :52
+Apr 12, 2016 11:44:38 AM TestDDL usrTest
+INFO: TestRuns :52
+Apr 12, 2016 11:44:38 AM TestDDL usrTest
+INFO: TestRuns :52
+Apr 12, 2016 11:44:38 AM TestDDL usrTest
+INFO: TestRuns :52
+Apr 12, 2016 11:44:38 AM TestDDL usrTest
+INFO: TestRuns :52
+Apr 12, 2016 11:44:38 AM TestDDL usrTest
+INFO: TestRuns :52
+Apr 12, 2016 11:44:38 AM TestDDL usrTest
+INFO: TestRuns :52
+Apr 12, 2016 11:44:38 AM TestDDL usrTest
+INFO: TestRuns :52
+Apr 12, 2016 11:44:38 AM TestDDL usrTest
+INFO: TestRuns :52
+Apr 12, 2016 11:44:38 AM TestDDL usrTest
+INFO: TestRuns :52
+Apr 12, 2016 11:44:38 AM TestDDL usrTest
+INFO: TestRuns :52
+Apr 12, 2016 11:44:38 AM TestDDL usrTest
+INFO: TestRuns :52
+Apr 12, 2016 11:44:38 AM TestDDL usrTest
+INFO: TestRuns :52
+Apr 12, 2016 11:44:38 AM TestDDL usrTest
+INFO: TestRuns :52
+Apr 12, 2016 11:44:38 AM TestDDL usrTest
+INFO: TestRuns :52
+Apr 12, 2016 11:44:38 AM TestDDL usrTest
+INFO: TestRuns :52
+Apr 12, 2016 11:44:38 AM TestDDL usrTest
+INFO: TestRuns :52
+Apr 12, 2016 11:44:38 AM TestDDL usrTest
+INFO: TestRuns :52
+Apr 12, 2016 11:44:38 AM TestDDL usrTest
+INFO: TestRuns :52
+Apr 12, 2016 11:44:38 AM TestDDL usrTest
+INFO: TestRuns :52
+Apr 12, 2016 11:44:38 AM TestDDL usrTest
+INFO: TestRuns :52
+Apr 12, 2016 11:44:38 AM TestDDL usrTest
+INFO: TestRuns :52
+Apr 12, 2016 11:44:38 AM TestDDL usrTest
+INFO: TestRuns :52
+Apr 12, 2016 11:44:38 AM TestDDL usrTest
+INFO: TestRuns :52
+Apr 12, 2016 11:44:38 AM TestDDL usrTest
+INFO: TestRuns :52
+Apr 12, 2016 11:44:38 AM TestDDL usrTest
+INFO: TestRuns :52
+Apr 12, 2016 11:44:38 AM TestDDL usrTest
+INFO: TestRuns :52
+Apr 12, 2016 11:44:38 AM TestDDL usrTest
+INFO: TestRuns :52
+Apr 12, 2016 11:44:38 AM TestDDL usrTest
+INFO: TestRuns :52
+Apr 12, 2016 11:44:38 AM TestDDL usrTest
+INFO: TestRuns :52
+Apr 12, 2016 11:44:38 AM TestDDL usrTest
+INFO: TestRuns :52
+Apr 12, 2016 11:44:38 AM TestDDL usrTest
+INFO: TestRuns :52
+Apr 12, 2016 11:44:38 AM TestDDL usrTest
+INFO: TestRuns :52
+Apr 12, 2016 11:44:38 AM TestDDL usrTest
+INFO: TestRuns :52
+Apr 12, 2016 11:44:38 AM TestDDL usrTest
+INFO: TestRuns :52
+Apr 12, 2016 11:44:38 AM TestDDL usrTest
+INFO: TestRuns :52
+Apr 12, 2016 11:44:38 AM TestDDL usrTest
+INFO: TestRuns :52
+Apr 12, 2016 11:44:38 AM TestDDL usrTest
+INFO: TestRuns :52
+Apr 12, 2016 11:44:39 AM TestDDL usrTest
+INFO: TimeTest : 632501
+Apr 12, 2016 11:44:39 AM TestDDL usrTest
+INFO: TimeTest : 632501
+Apr 12, 2016 11:44:39 AM TestDDL usrTest
+INFO: TimeTest : 632501
+Apr 12, 2016 11:44:39 AM TestDDL usrTest
+INFO: TimeTest : 632501
+Apr 12, 2016 11:44:39 AM TestDDL usrTest
+INFO: TimeTest : 632501
+Apr 12, 2016 11:44:39 AM TestDDL usrTest
+INFO: TimeTest : 632501
+Apr 12, 2016 11:44:39 AM TestDDL usrTest
+INFO: TimeTest : 632501
+Apr 12, 2016 11:44:39 AM TestDDL usrTest
+INFO: TimeTest : 632501
+Apr 12, 2016 11:44:39 AM TestDDL usrTest
+INFO: TimeTest : 632501
+Apr 12, 2016 11:44:39 AM TestDDL usrTest
+INFO: TimeTest : 632501
+Apr 12, 2016 11:44:39 AM TestDDL usrTest
+INFO: TimeTest : 632501
+Apr 12, 2016 11:44:39 AM TestDDL usrTest
+INFO: TimeTest : 632501
+Apr 12, 2016 11:44:39 AM TestDDL usrTest
+INFO: TimeTest : 632501
+Apr 12, 2016 11:44:39 AM TestDDL usrTest
+INFO: TimeTest : 632501
+Apr 12, 2016 11:44:39 AM TestDDL usrTest
+INFO: TimeTest : 632501
+Apr 12, 2016 11:44:39 AM TestDDL usrTest
+INFO: TimeTest : 632501
+Apr 12, 2016 11:44:39 AM TestDDL usrTest
+INFO: TimeTest : 632501
+Apr 12, 2016 11:44:39 AM TestDDL usrTest
+INFO: TimeTest : 632501
+Apr 12, 2016 11:44:39 AM TestDDL usrTest
+INFO: TimeTest : 632501
+Apr 12, 2016 11:44:39 AM TestDDL usrTest
+INFO: TimeTest : 632501
+Apr 12, 2016 11:44:39 AM TestDDL usrTest
+INFO: TimeTest : 632501
+Apr 12, 2016 11:44:39 AM TestDDL usrTest
+INFO: TimeTest : 632501
+Apr 12, 2016 11:44:39 AM TestDDL usrTest
+INFO: TimeTest : 632501
+Apr 12, 2016 11:44:39 AM TestDDL usrTest
+INFO: TimeTest : 632501
+Apr 12, 2016 11:44:39 AM TestDDL usrTest
+INFO: TimeTest : 632501
+Apr 12, 2016 11:44:39 AM TestDDL usrTest
+INFO: TimeTest : 632501
+Apr 12, 2016 11:44:39 AM TestDDL usrTest
+INFO: TimeTest : 632501
+Apr 12, 2016 11:44:39 AM TestDDL usrTest
+INFO: TimeTest : 632501
+Apr 12, 2016 11:44:39 AM TestDDL usrTest
+INFO: TimeTest : 632501
+Apr 12, 2016 11:44:39 AM TestDDL usrTest
+INFO: TimeTest : 632501
+Apr 12, 2016 11:44:39 AM TestDDL usrTest
+INFO: TimeTest : 632501
+Apr 12, 2016 11:44:39 AM TestDDL usrTest
+INFO: TimeTest : 632501
+Apr 12, 2016 11:44:39 AM TestDDL usrTest
+INFO: TimeTest : 632501
+Apr 12, 2016 11:44:39 AM TestDDL usrTest
+INFO: TimeTest : 632501
+Apr 12, 2016 11:44:39 AM TestDDL usrTest
+INFO: TimeTest : 632501
+Apr 12, 2016 11:44:39 AM TestDDL usrTest
+INFO: TimeTest : 632501
+Apr 12, 2016 11:44:39 AM TestDDL usrTest
+INFO: TimeTest : 632501
+Apr 12, 2016 11:44:39 AM TestDDL usrTest
+INFO: TimeTest : 632501
+Apr 12, 2016 11:44:39 AM TestDDL usrTest
+INFO: TimeTest : 632501
+Apr 12, 2016 11:44:39 AM TestDDL usrTest
+INFO: TimeTest : 632501
+Apr 12, 2016 11:44:39 AM TestDDL usrTest
+INFO: TimeTest : 632501
+Apr 12, 2016 11:44:39 AM TestDDL usrTest
+INFO: TimeTest : 632501
+Apr 12, 2016 11:44:39 AM TestDDL usrTest
+INFO: TimeTest : 632501
+Apr 12, 2016 11:44:39 AM TestDDL usrTest
+INFO: TimeTest : 632501
+Apr 12, 2016 11:44:39 AM TestDDL usrTest
+INFO: TimeTest : 632501
+Apr 12, 2016 11:44:39 AM TestDDL usrTest
+INFO: TimeTest : 632501
+Apr 12, 2016 11:44:39 AM TestDDL usrTest
+INFO: TimeTest : 632501
+Apr 12, 2016 11:44:39 AM TestDDL usrTest
+INFO: TimeTest : 632501
+Apr 12, 2016 11:44:39 AM TestDDL usrTest
+INFO: TimeTest : 632501
+Apr 12, 2016 11:44:39 AM TestDDL usrTest
+INFO: TimeTest : 632501
+Apr 12, 2016 11:44:39 AM TestDDL usrTest
+INFO: TimeTest : 632501
+Apr 12, 2016 11:44:39 AM TestDDL usrTest
+INFO: TimeTest : 632501
+Apr 12, 2016 11:44:39 AM TestDDL usrTest
+INFO: TimeTest : 632501
+Apr 12, 2016 11:44:39 AM TestDDL usrTest
+INFO: TestRuns :53
+Apr 12, 2016 11:44:39 AM TestDDL usrTest
+INFO: TestRuns :53
+Apr 12, 2016 11:44:39 AM TestDDL usrTest
+INFO: TestRuns :53
+Apr 12, 2016 11:44:39 AM TestDDL usrTest
+INFO: TestRuns :53
+Apr 12, 2016 11:44:39 AM TestDDL usrTest
+INFO: TestRuns :53
+Apr 12, 2016 11:44:39 AM TestDDL usrTest
+INFO: TestRuns :53
+Apr 12, 2016 11:44:39 AM TestDDL usrTest
+INFO: TestRuns :53
+Apr 12, 2016 11:44:39 AM TestDDL usrTest
+INFO: TestRuns :53
+Apr 12, 2016 11:44:39 AM TestDDL usrTest
+INFO: TestRuns :53
+Apr 12, 2016 11:44:39 AM TestDDL usrTest
+INFO: TestRuns :53
+Apr 12, 2016 11:44:39 AM TestDDL usrTest
+INFO: TestRuns :53
+Apr 12, 2016 11:44:39 AM TestDDL usrTest
+INFO: TestRuns :53
+Apr 12, 2016 11:44:39 AM TestDDL usrTest
+INFO: TestRuns :53
+Apr 12, 2016 11:44:39 AM TestDDL usrTest
+INFO: TestRuns :53
+Apr 12, 2016 11:44:39 AM TestDDL usrTest
+INFO: TestRuns :53
+Apr 12, 2016 11:44:39 AM TestDDL usrTest
+INFO: TestRuns :53
+Apr 12, 2016 11:44:39 AM TestDDL usrTest
+INFO: TestRuns :53
+Apr 12, 2016 11:44:39 AM TestDDL usrTest
+INFO: TestRuns :53
+Apr 12, 2016 11:44:39 AM TestDDL usrTest
+INFO: TestRuns :53
+Apr 12, 2016 11:44:39 AM TestDDL usrTest
+INFO: TestRuns :53
+Apr 12, 2016 11:44:39 AM TestDDL usrTest
+INFO: TestRuns :53
+Apr 12, 2016 11:44:39 AM TestDDL usrTest
+INFO: TestRuns :53
+Apr 12, 2016 11:44:39 AM TestDDL usrTest
+INFO: TestRuns :53
+Apr 12, 2016 11:44:39 AM TestDDL usrTest
+INFO: TestRuns :53
+Apr 12, 2016 11:44:39 AM TestDDL usrTest
+INFO: TestRuns :53
+Apr 12, 2016 11:44:39 AM TestDDL usrTest
+INFO: TestRuns :53
+Apr 12, 2016 11:44:39 AM TestDDL usrTest
+INFO: TestRuns :53
+Apr 12, 2016 11:44:39 AM TestDDL usrTest
+INFO: TestRuns :53
+Apr 12, 2016 11:44:39 AM TestDDL usrTest
+INFO: TestRuns :53
+Apr 12, 2016 11:44:39 AM TestDDL usrTest
+INFO: TestRuns :53
+Apr 12, 2016 11:44:39 AM TestDDL usrTest
+INFO: TestRuns :53
+Apr 12, 2016 11:44:39 AM TestDDL usrTest
+INFO: TestRuns :53
+Apr 12, 2016 11:44:39 AM TestDDL usrTest
+INFO: TestRuns :53
+Apr 12, 2016 11:44:39 AM TestDDL usrTest
+INFO: TestRuns :53
+Apr 12, 2016 11:44:39 AM TestDDL usrTest
+INFO: TestRuns :53
+Apr 12, 2016 11:44:39 AM TestDDL usrTest
+INFO: TestRuns :53
+Apr 12, 2016 11:44:39 AM TestDDL usrTest
+INFO: TestRuns :53
+Apr 12, 2016 11:44:39 AM TestDDL usrTest
+INFO: TestRuns :53
+Apr 12, 2016 11:44:39 AM TestDDL usrTest
+INFO: TestRuns :53
+Apr 12, 2016 11:44:39 AM TestDDL usrTest
+INFO: TestRuns :53
+Apr 12, 2016 11:44:39 AM TestDDL usrTest
+INFO: TestRuns :53
+Apr 12, 2016 11:44:39 AM TestDDL usrTest
+INFO: TestRuns :53
+Apr 12, 2016 11:44:39 AM TestDDL usrTest
+INFO: TestRuns :53
+Apr 12, 2016 11:44:39 AM TestDDL usrTest
+INFO: TestRuns :53
+Apr 12, 2016 11:44:39 AM TestDDL usrTest
+INFO: TestRuns :53
+Apr 12, 2016 11:44:39 AM TestDDL usrTest
+INFO: TestRuns :53
+Apr 12, 2016 11:44:39 AM TestDDL usrTest
+INFO: TestRuns :53
+Apr 12, 2016 11:44:39 AM TestDDL usrTest
+INFO: TestRuns :53
+Apr 12, 2016 11:44:39 AM TestDDL usrTest
+INFO: TestRuns :53
+Apr 12, 2016 11:44:39 AM TestDDL usrTest
+INFO: TestRuns :53
+Apr 12, 2016 11:44:39 AM TestDDL usrTest
+INFO: TestRuns :53
+Apr 12, 2016 11:44:39 AM TestDDL usrTest
+INFO: TestRuns :53
+Apr 12, 2016 11:44:39 AM TestDDL usrTest
+INFO: TestRuns :53
+Apr 12, 2016 11:44:39 AM DD_NonEx dd_helper
+INFO: 1Runs :54
+Apr 12, 2016 11:44:39 AM DD_NonEx dd_helper
+INFO: 1Size : 1
+Apr 12, 2016 11:44:40 AM TestDDL usrTest
+INFO: TimeTest : 756608
+Apr 12, 2016 11:44:40 AM TestDDL usrTest
+INFO: TimeTest : 756608
+Apr 12, 2016 11:44:40 AM TestDDL usrTest
+INFO: TimeTest : 756608
+Apr 12, 2016 11:44:40 AM TestDDL usrTest
+INFO: TimeTest : 756608
+Apr 12, 2016 11:44:40 AM TestDDL usrTest
+INFO: TimeTest : 756608
+Apr 12, 2016 11:44:40 AM TestDDL usrTest
+INFO: TimeTest : 756608
+Apr 12, 2016 11:44:40 AM TestDDL usrTest
+INFO: TimeTest : 756608
+Apr 12, 2016 11:44:40 AM TestDDL usrTest
+INFO: TimeTest : 756608
+Apr 12, 2016 11:44:40 AM TestDDL usrTest
+INFO: TimeTest : 756608
+Apr 12, 2016 11:44:40 AM TestDDL usrTest
+INFO: TimeTest : 756608
+Apr 12, 2016 11:44:40 AM TestDDL usrTest
+INFO: TimeTest : 756608
+Apr 12, 2016 11:44:40 AM TestDDL usrTest
+INFO: TimeTest : 756608
+Apr 12, 2016 11:44:40 AM TestDDL usrTest
+INFO: TimeTest : 756608
+Apr 12, 2016 11:44:40 AM TestDDL usrTest
+INFO: TimeTest : 756608
+Apr 12, 2016 11:44:40 AM TestDDL usrTest
+INFO: TimeTest : 756608
+Apr 12, 2016 11:44:40 AM TestDDL usrTest
+INFO: TimeTest : 756608
+Apr 12, 2016 11:44:40 AM TestDDL usrTest
+INFO: TimeTest : 756608
+Apr 12, 2016 11:44:40 AM TestDDL usrTest
+INFO: TimeTest : 756608
+Apr 12, 2016 11:44:40 AM TestDDL usrTest
+INFO: TimeTest : 756608
+Apr 12, 2016 11:44:40 AM TestDDL usrTest
+INFO: TimeTest : 756608
+Apr 12, 2016 11:44:40 AM TestDDL usrTest
+INFO: TimeTest : 756608
+Apr 12, 2016 11:44:40 AM TestDDL usrTest
+INFO: TimeTest : 756608
+Apr 12, 2016 11:44:40 AM TestDDL usrTest
+INFO: TimeTest : 756608
+Apr 12, 2016 11:44:40 AM TestDDL usrTest
+INFO: TimeTest : 756608
+Apr 12, 2016 11:44:40 AM TestDDL usrTest
+INFO: TimeTest : 756608
+Apr 12, 2016 11:44:40 AM TestDDL usrTest
+INFO: TimeTest : 756608
+Apr 12, 2016 11:44:40 AM TestDDL usrTest
+INFO: TimeTest : 756608
+Apr 12, 2016 11:44:40 AM TestDDL usrTest
+INFO: TimeTest : 756608
+Apr 12, 2016 11:44:40 AM TestDDL usrTest
+INFO: TimeTest : 756608
+Apr 12, 2016 11:44:40 AM TestDDL usrTest
+INFO: TimeTest : 756608
+Apr 12, 2016 11:44:40 AM TestDDL usrTest
+INFO: TimeTest : 756608
+Apr 12, 2016 11:44:40 AM TestDDL usrTest
+INFO: TimeTest : 756608
+Apr 12, 2016 11:44:40 AM TestDDL usrTest
+INFO: TimeTest : 756608
+Apr 12, 2016 11:44:40 AM TestDDL usrTest
+INFO: TimeTest : 756608
+Apr 12, 2016 11:44:40 AM TestDDL usrTest
+INFO: TimeTest : 756608
+Apr 12, 2016 11:44:40 AM TestDDL usrTest
+INFO: TimeTest : 756608
+Apr 12, 2016 11:44:40 AM TestDDL usrTest
+INFO: TimeTest : 756608
+Apr 12, 2016 11:44:40 AM TestDDL usrTest
+INFO: TimeTest : 756608
+Apr 12, 2016 11:44:40 AM TestDDL usrTest
+INFO: TimeTest : 756608
+Apr 12, 2016 11:44:40 AM TestDDL usrTest
+INFO: TimeTest : 756608
+Apr 12, 2016 11:44:40 AM TestDDL usrTest
+INFO: TimeTest : 756608
+Apr 12, 2016 11:44:40 AM TestDDL usrTest
+INFO: TimeTest : 756608
+Apr 12, 2016 11:44:40 AM TestDDL usrTest
+INFO: TimeTest : 756608
+Apr 12, 2016 11:44:40 AM TestDDL usrTest
+INFO: TimeTest : 756608
+Apr 12, 2016 11:44:40 AM TestDDL usrTest
+INFO: TimeTest : 756608
+Apr 12, 2016 11:44:40 AM TestDDL usrTest
+INFO: TimeTest : 756608
+Apr 12, 2016 11:44:40 AM TestDDL usrTest
+INFO: TimeTest : 756608
+Apr 12, 2016 11:44:40 AM TestDDL usrTest
+INFO: TimeTest : 756608
+Apr 12, 2016 11:44:40 AM TestDDL usrTest
+INFO: TimeTest : 756608
+Apr 12, 2016 11:44:40 AM TestDDL usrTest
+INFO: TimeTest : 756608
+Apr 12, 2016 11:44:40 AM TestDDL usrTest
+INFO: TimeTest : 756608
+Apr 12, 2016 11:44:40 AM TestDDL usrTest
+INFO: TimeTest : 756608
+Apr 12, 2016 11:44:40 AM TestDDL usrTest
+INFO: TimeTest : 756608
+Apr 12, 2016 11:44:40 AM TestDDL usrTest
+INFO: TimeTest : 756608
+Apr 12, 2016 11:44:40 AM TestDDL usrTest
+INFO: TestRuns :54
+Apr 12, 2016 11:44:40 AM TestDDL usrTest
+INFO: TestRuns :54
+Apr 12, 2016 11:44:40 AM TestDDL usrTest
+INFO: TestRuns :54
+Apr 12, 2016 11:44:40 AM TestDDL usrTest
+INFO: TestRuns :54
+Apr 12, 2016 11:44:40 AM TestDDL usrTest
+INFO: TestRuns :54
+Apr 12, 2016 11:44:40 AM TestDDL usrTest
+INFO: TestRuns :54
+Apr 12, 2016 11:44:40 AM TestDDL usrTest
+INFO: TestRuns :54
+Apr 12, 2016 11:44:40 AM TestDDL usrTest
+INFO: TestRuns :54
+Apr 12, 2016 11:44:40 AM TestDDL usrTest
+INFO: TestRuns :54
+Apr 12, 2016 11:44:40 AM TestDDL usrTest
+INFO: TestRuns :54
+Apr 12, 2016 11:44:40 AM TestDDL usrTest
+INFO: TestRuns :54
+Apr 12, 2016 11:44:40 AM TestDDL usrTest
+INFO: TestRuns :54
+Apr 12, 2016 11:44:40 AM TestDDL usrTest
+INFO: TestRuns :54
+Apr 12, 2016 11:44:40 AM TestDDL usrTest
+INFO: TestRuns :54
+Apr 12, 2016 11:44:40 AM TestDDL usrTest
+INFO: TestRuns :54
+Apr 12, 2016 11:44:40 AM TestDDL usrTest
+INFO: TestRuns :54
+Apr 12, 2016 11:44:40 AM TestDDL usrTest
+INFO: TestRuns :54
+Apr 12, 2016 11:44:40 AM TestDDL usrTest
+INFO: TestRuns :54
+Apr 12, 2016 11:44:40 AM TestDDL usrTest
+INFO: TestRuns :54
+Apr 12, 2016 11:44:40 AM TestDDL usrTest
+INFO: TestRuns :54
+Apr 12, 2016 11:44:40 AM TestDDL usrTest
+INFO: TestRuns :54
+Apr 12, 2016 11:44:40 AM TestDDL usrTest
+INFO: TestRuns :54
+Apr 12, 2016 11:44:40 AM TestDDL usrTest
+INFO: TestRuns :54
+Apr 12, 2016 11:44:40 AM TestDDL usrTest
+INFO: TestRuns :54
+Apr 12, 2016 11:44:40 AM TestDDL usrTest
+INFO: TestRuns :54
+Apr 12, 2016 11:44:40 AM TestDDL usrTest
+INFO: TestRuns :54
+Apr 12, 2016 11:44:40 AM TestDDL usrTest
+INFO: TestRuns :54
+Apr 12, 2016 11:44:40 AM TestDDL usrTest
+INFO: TestRuns :54
+Apr 12, 2016 11:44:40 AM TestDDL usrTest
+INFO: TestRuns :54
+Apr 12, 2016 11:44:40 AM TestDDL usrTest
+INFO: TestRuns :54
+Apr 12, 2016 11:44:40 AM TestDDL usrTest
+INFO: TestRuns :54
+Apr 12, 2016 11:44:40 AM TestDDL usrTest
+INFO: TestRuns :54
+Apr 12, 2016 11:44:40 AM TestDDL usrTest
+INFO: TestRuns :54
+Apr 12, 2016 11:44:40 AM TestDDL usrTest
+INFO: TestRuns :54
+Apr 12, 2016 11:44:40 AM TestDDL usrTest
+INFO: TestRuns :54
+Apr 12, 2016 11:44:40 AM TestDDL usrTest
+INFO: TestRuns :54
+Apr 12, 2016 11:44:40 AM TestDDL usrTest
+INFO: TestRuns :54
+Apr 12, 2016 11:44:40 AM TestDDL usrTest
+INFO: TestRuns :54
+Apr 12, 2016 11:44:40 AM TestDDL usrTest
+INFO: TestRuns :54
+Apr 12, 2016 11:44:40 AM TestDDL usrTest
+INFO: TestRuns :54
+Apr 12, 2016 11:44:40 AM TestDDL usrTest
+INFO: TestRuns :54
+Apr 12, 2016 11:44:40 AM TestDDL usrTest
+INFO: TestRuns :54
+Apr 12, 2016 11:44:40 AM TestDDL usrTest
+INFO: TestRuns :54
+Apr 12, 2016 11:44:40 AM TestDDL usrTest
+INFO: TestRuns :54
+Apr 12, 2016 11:44:40 AM TestDDL usrTest
+INFO: TestRuns :54
+Apr 12, 2016 11:44:40 AM TestDDL usrTest
+INFO: TestRuns :54
+Apr 12, 2016 11:44:40 AM TestDDL usrTest
+INFO: TestRuns :54
+Apr 12, 2016 11:44:40 AM TestDDL usrTest
+INFO: TestRuns :54
+Apr 12, 2016 11:44:40 AM TestDDL usrTest
+INFO: TestRuns :54
+Apr 12, 2016 11:44:40 AM TestDDL usrTest
+INFO: TestRuns :54
+Apr 12, 2016 11:44:40 AM TestDDL usrTest
+INFO: TestRuns :54
+Apr 12, 2016 11:44:40 AM TestDDL usrTest
+INFO: TestRuns :54
+Apr 12, 2016 11:44:40 AM TestDDL usrTest
+INFO: TestRuns :54
+Apr 12, 2016 11:44:40 AM TestDDL usrTest
+INFO: TestRuns :54
+Apr 12, 2016 11:44:40 AM DD_NonEx dd_helper
+INFO: The #55 run is done
+Apr 12, 2016 11:44:40 AM DD_NonEx dd_helper
+INFO: RDD Only Holds One Line - End of This Branch of Search
+Apr 12, 2016 11:44:40 AM DD_NonEx dd_helper
+WARNING: Delta Debugged Error inducing inputs: 
+Apr 12, 2016 11:44:40 AM DD_NonEx$$anonfun$dd_helper$3 apply
+WARNING: (2370929412:2513817:Wikipedia:Votes for deletion/Votes for deletion/Votes for deletion/Votes for deletion/Votes for deletion/Votes for deletion/Votes for deletion/Votes for deletion/Votes for deletion/Votes for deletion/Votes for deletion/WikiProject Wikipedians for Decency,0)
+
+Apr 12, 2016 11:44:40 AM DD_NonEx dd_helper
+INFO: Time : 1336006
+Apr 12, 2016 11:44:41 AM TermVectorDD$ main
+INFO: DeltaDebugging (unadjusted) ends at 2016-04-12 11:44:41.346
+Apr 12, 2016 11:44:41 AM TermVectorDD$ main
+INFO: DeltaDebugging (unadjusted) takes 155293440 milliseconds
